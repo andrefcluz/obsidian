@@ -1,0 +1,25 @@
+-web services
+
+-nao há documentação
+
+
+-instalação da saphety, no servidor VS625STA, aqui dentro ficam os 2 ficheiros PRD + QUAL
+- tem inbox + outbox de qualidade
+
+\\vs625sta.chln.min-saude.pt\in$ - inbox
+
+\\vs625sta.chln.min-saude.pt\out$
+
+
+caminho de teste
+em 2018 havia testes com qualidade
+---------------------------------
+
+-mensagens de estado de fatura, são codigos - são xml
+-idocs de ORDERS só para saphety
+-------------
+- copia de maquina feita com a JFM
+
+-prd com prd
+
+------------------------

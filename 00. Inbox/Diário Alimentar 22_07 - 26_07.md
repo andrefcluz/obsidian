@@ -1,0 +1,100 @@
+---
+title: Diário Alimentar 22/07 - 26/07
+updated: 2024-07-29 09:29:46Z
+created: 2024-07-22 08:38:00Z
+latitude: 38.72225240
+longitude: -9.13933660
+altitude: 0.0000
+---
+
+- **Segunda - 22/07 (Peso: 94.8kg)** 
+    - 06:30 - Pré-treino
+        - Café
+    - 09:30 - Pequeno-almoço
+        - Pão brasileiro com queijo e fiambre
+        - Skyr
+        - Kiwi
+    - 13:00 - Almoço
+        - Stir-fry de frango com legumes e arroz branco
+        - Nectarina
+    - 17:00 - Lanche
+        - Iogurte Solido Magro + Muesli + Fibra + Banana
+        - Iogurte Liquido
+    - 19:30 - Jantar
+        - Sopa
+        - Wrap Atum
+        - Gelado (71kcal)
+- **Terça - 23/07 (Escritório)**
+    - 05:45 - Pré-treino
+        - Café
+    - 07:30 - Pequeno-almoço 1/2
+        - 1/2 pão brasileiro com queijo e fiambre
+        - Skyr
+    - 10:30 - Pequeno-almoço 2/2
+        - 1/2 pão brasileiro com queijo e fiambre
+        - Iogurte Liquido
+    - 13:30 - Almoço
+        - Chocos grelhados com batata cozida e salada de alface e tomate
+        - 1 Caneca de cerveja
+        - Café
+        - Mini gelado
+    - 17:00 - Snack
+        - Queijo Vaca que Ri
+    - 18:30 - Outros
+        - 1 Imperial
+    - 19:30 - Snack
+        - Pera
+    - 21:30
+        - Sopa
+        - Quiche
+        - Melão
+- **Quarta - 24/07**
+    - 06:30 - Pré-treino
+        - Café
+    - 09:30 - Pequeno-almoço
+        - Pão brasileiro com queijo e fiambre
+        - Skyr
+        - Kiwi
+    - 13:00 - Almoço
+        - Stir-fry de frango com legumes e arroz branco
+        - Melão
+    - 17:30 - Lanche
+        - 1 crepioca com doce
+        - Iogurte Solido Magro + Muesli + Fibra + Banana
+    - 20:00 - Jantar
+        - Sopa
+        - Quiche
+        - Uvas
+- **Quinta - 25/07**
+    - 06:00 - Pré-treino
+        - Café
+        - Pacotinho fruta
+    - 09:00 - Pequeno-almoço
+        - Pão brasileiro com queijo e fiambre
+        - Skyr
+        - Pera
+    - 13:00 - Almoço
+        - Atum + Ovo + Feijão Verde + Grão + Batata Doce + Azeite
+        - 2 mini gelados
+    - 17:00 - Lanche
+        - Pão com manteiga
+        - Iogurte Liquido
+    - 21:00 - Jantar
+        - Sopa
+        - Quiche
+        - Hambúrguer Mercadona
+        - Mini gelado
+- **Sexta - 26/07 (94.5kg)**
+    - 06:30 - Pré-treino
+        - Café
+    - 09:30 - Pequeno-almoço
+        - Pão brasileiro com queijo e fiambre
+        - Ovo Cozido
+        - Pera
+    - 12:00 - Almoço
+        - Atum + Ovo + Feijão Verde + Grão + Batata Doce + Azeite
+        - 2 mini gelados
+    - 17:00 - Lanche
+        - Sandes atum + batatas fritas (área de serviço)
+    - 21:00 - Jantar
+        - Salada de tomate + pão + presunto
