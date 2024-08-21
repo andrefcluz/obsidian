@@ -11,7 +11,6 @@ tags:
 
 https://safemed.pt/iplisboa/syncERP.asmx?wsdl
 
-&nbsp;
 
 URL ambiente testes: https://safemed.pt:2087/ipl_qld
 
@@ -21,13 +20,9 @@ User: sap
 
 Pass: 6Y02DL1Iq85v
 
-&nbsp;
 
-&nbsp;
+Passos Safemed
 
-Passos Safamed
-
-&nbsp;
 
 1.  Enviar dados para SAFEMED
     

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5fbc7ef736933b6",
+        "id": "1d4979fd0044d428",
         "type": "tabs",
         "children": [
           {
-            "id": "e61ea3b2351612bf",
+            "id": "b03c290f0858cfff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/CP - MODULA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/CP - MODULA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/CP - MODULA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00. Inbox/CP - MODULA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +156,18 @@
       "tags-overview:Tags overview": false
     }
   },
-  "active": "e61ea3b2351612bf",
+  "active": "b03c290f0858cfff",
   "lastOpenFiles": [
+    "README.md",
+    "00. Inbox/IPL - Safemed.md",
+    "00. Inbox/Reformulação DFC.md",
+    "00. Inbox/Plano Alimentar 04_08 - 11_08.md",
+    "00. Inbox/Diário Alimentar 22_07 - 26_07.md",
+    "00. Inbox/Receitas Saudáveis, Baratas e Rápidas.md",
+    "00. Inbox/SPROXY_START.md",
+    "00. Inbox/CP - MODULA.md",
     "00. Inbox/Modula - Inventário.md",
     "00. Inbox/Untitled.md",
-    "00. Inbox/CP - MODULA.md",
     "00. Inbox/Unconfirmed 800597.crdownload",
     "gitignore.txt",
     "gitignore.txt.crdownload",
@@ -177,10 +176,8 @@
     "01. Personal/01. Personal - Pers. Projects/Projeto Raspberry Pi TorrentBox.md",
     "01. Personal/01. Personal - General/Lista Anime_Manga.md",
     "00. Inbox/Plano Alimentar 11_08 - 16_08.md",
-    "00. Inbox/Plano Alimentar 04_08 - 11_08.md",
     "02. Work/02. Work - Toinovate - USDMT/IPL - USDMT.md",
     "02. Work/02. Work - General/Workshop SAP Workflow - 28_10_2022.md",
-    "00. Inbox/Reformulação DFC.md",
     "02. Work/02. Work - General/SAP - Informação Útil.md",
     "02. Work/02. Work - Toinovate/VPN EMEF-1.md",
     "02. Work/02. Work - General/Templates LinkedIn.md",
@@ -191,11 +188,6 @@
     "02. Work - General",
     "01. Personal/01. Personal - Pers. Projects/Ideias de automatizações.md",
     "01. Personal/01. Personal - Health/Suplementos Corrida.md",
-    "01. Personal/01. Personal - Health/Sgodde Workout Calendar.md",
-    "01. Personal/01. Personal - Health/Running_Exercise Youtube.md",
-    "01. Personal/01. Personal - Health/Running Exercises.md",
-    "01. Personal/01. Personal - Health/Recuperação Pós-Corrida.md",
-    "01. Personal/01. Personal - Health/Programa de treino 2.md",
     "obsidian",
     "Teste Git/Untitled",
     "Teste Git",
