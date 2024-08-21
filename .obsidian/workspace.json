@@ -173,8 +173,10 @@
       "tags-overview:Tags overview": false
     }
   },
-  "active": "7da2c8609dde189f",
+  "active": "e10741fe68bbd134",
   "lastOpenFiles": [
+    "gitignore.txt",
+    "gitignore.txt.crdownload",
     "Teste Git/teste git 1.md",
     "00. Inbox/CP - MODULA.md",
     "02. Work/02. Work - Toinovate - USDMT/Implementação USDMT em clientes.md",
@@ -201,7 +203,6 @@
     "01. Personal/01. Personal - Health/Recuperação Pós-Corrida.md",
     "01. Personal/01. Personal - Health/Programa de treino 2.md",
     "01. Personal/01. Personal - Health/Plano de Treino para Casa.md",
-    "01. Personal/01. Personal - Health/Plano Alimentar 31.03.2021.md",
     "obsidian",
     "Teste Git/Untitled",
     "Teste Git",
@@ -220,7 +221,6 @@
     "99. Misc/_resources/3c0b77b8a8f411521d4e937e82d2b6c8.png",
     "99. Misc/_resources/Sgodde_Workout_Calendar.pdf",
     "99. Misc/_resources/Implementa__o.docx",
-    "99. Misc/_resources/Evolu__o_20200529_20200728.pdf",
-    "99. Misc/_resources/Evolu__o_20200529_20200630.pdf"
+    "99. Misc/_resources/Evolu__o_20200529_20200728.pdf"
   ]
 }
