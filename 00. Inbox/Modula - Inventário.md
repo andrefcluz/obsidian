@@ -21,15 +21,12 @@ Deposito 910
 
 Tipo deposito 012 (MODULA 1) ou 013 (MODULA 2)
 
-&nbsp;
 
 ![2fbe486666a32e32256a235311e1e7eb.png](../_resources/2fbe486666a32e32256a235311e1e7eb.png)
 
-&nbsp;
 
 ![6e5f919a1aad6d4bdbfb13ea9205af04.png](../_resources/6e5f919a1aad6d4bdbfb13ea9205af04.png)
 
-&nbsp;
 
 ![3c0b77b8a8f411521d4e937e82d2b6c8.png](../_resources/3c0b77b8a8f411521d4e937e82d2b6c8.png)
 
@@ -37,7 +34,6 @@ Tipo deposito 012 (MODULA 1) ou 013 (MODULA 2)
 
 ![cf213c7f45441e49c15f818dc6845d8e.png](../_resources/cf213c7f45441e49c15f818dc6845d8e.png)
 
-&nbsp;
 
 ![ccf7b90bd73f3be68c74aca3ab6026d5.png](../_resources/ccf7b90bd73f3be68c74aca3ab6026d5.png)
 

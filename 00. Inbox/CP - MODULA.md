@@ -14,24 +14,16 @@ tags:
 - [ ] Parametrizar tabela ZMOD_API_DATA em PRD
 - [ ] Remover parametrização da tabela ZMOD_API_DATA em QLD
 
-&nbsp;
 
 * * *
 
-&nbsp;
-
 \*\*Z_AL_TESTE_INT_MOV_MODULA\*\*
 
-&nbsp;
 
 Acessos plataforma MODULA
 
 USER: ADVANCED  
 PASS: SYSTEM08
-
-&nbsp;
-
-&nbsp;
 
 [Modula-soapui-project.xml](../_resources/Modula-soapui-project.xml)
 
@@ -39,8 +31,6 @@ PASS: SYSTEM08
 
 Teste comunicações em SAP  
 Programa: Z_HTTP_REQ_AL
-
-&nbsp;
 
 * * *
 
@@ -66,9 +56,6 @@ REPROC
 - [x] Criar programa que vai correr em job e envia os materiais daquele dia
 - [x] Criar cockpit
 
-&nbsp;
-
-&nbsp;
 
 - [ ] CFG-IMP-ARTICOLI
     - [x] ZMOD_ST_JSON_E_MAT
@@ -95,15 +82,11 @@ REPROC
     - [x] ZMOD_LOG_D_I_MOV
     - [ ] Programa ZMOD_IMP_MOVIMENTOS
 
-&nbsp;
 
 Operazione completata con successo
 
 ![081df6124fb9e142e1b3cfce8aed3a62.png](../_resources/081df6124fb9e142e1b3cfce8aed3a62.png)
 
-&nbsp;
-
-&nbsp;
 
 * * *
 
@@ -115,19 +98,14 @@ Operazione completata con successo
 
 ![ee324cb3dd104bf68447f13b00e80477.png](../_resources/ee324cb3dd104bf68447f13b00e80477.png)
 
-&nbsp;
-
-&nbsp;
 
 * * *
 
-&nbsp;
 
-&nbsp;![d199da3e4824c3c3acedcf02c7a07a0a.png](../_resources/d199da3e4824c3c3acedcf02c7a07a0a.png)
+![d199da3e4824c3c3acedcf02c7a07a0a.png](../_resources/d199da3e4824c3c3acedcf02c7a07a0a.png)
 
 ![29e1ae9741959ff7d4305d67769b5738.png](../_resources/29e1ae9741959ff7d4305d67769b5738.png)
 
-&nbsp;
 
 Pedido fica pendente que o material seja arrumado
 
