@@ -78,8 +78,6 @@ tags:
 - [x] Ububtu (Store)
 - [x] Breeze Cursors for Windows
 
-&nbsp;
-
 **Trabalho**
 
 - [x] SAP
@@ -88,14 +86,12 @@ tags:
 - [x] Forticlient VPN
 - [x] RegionToShare (Store)
 
-&nbsp;
 
 **Trading**
 
 - [x] Geeks Toy
 - [x] OBS Studio
 
-&nbsp;
 
 **Opcionais**
 
@@ -113,7 +109,6 @@ tags:
 - [ ] BreakTimer
 - [x] Core Temp
 
-&nbsp;
 
 * * *
 
@@ -149,19 +144,11 @@ tags:
 - [x] Organizar Menu Iniciar
 - [x] Ajustar formatos de região
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 Menu Iniciar
 
 ![image.png](../../_resources/image-129.png)![image.png](../../_resources/image-123.png)![image.png](../../_resources/image-125.png)
 
-&nbsp;
-
-&nbsp;
 
 Formatos Região
 

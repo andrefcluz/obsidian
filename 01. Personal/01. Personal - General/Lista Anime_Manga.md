@@ -22,5 +22,3 @@ altitude: 0.0000
 - Samurai Champloo
 - Tengen Toppa Gurren Lagann
 - Fullmetal Alchemist Brotherhood
-
-&nbsp;

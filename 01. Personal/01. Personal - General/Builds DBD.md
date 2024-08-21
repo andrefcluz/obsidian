@@ -9,7 +9,6 @@ tags:
   - fun
 ---
 
-&nbsp;
 
 | Perk 1 | Perk 2 | Perk 3 | Perk 4 |
 | --- | --- | --- | --- |

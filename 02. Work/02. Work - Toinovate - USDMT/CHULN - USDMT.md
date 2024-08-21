@@ -85,6 +85,3 @@ tags:
 | DEVK917328 | USDMT - Correções e ajustes #62                     | 08.07.2024   | 08.07.2024   |
 | DEVK917330 | USDMT - Correções e ajustes #63                     | 08.07.2024   | 08.07.2024   |
 | DEVK917334 | USDMT - Correções e ajustes #64                     | 08.07.2024   | 08.07.2024   |
-|            |                                                     |              |              |
-
-&nbsp;

@@ -10,8 +10,5 @@ tags:
 10.20.10.57 sapdev01-vwx.iul.intra  
 192.168.1.98 saperpdev.ipl.pt
 
-&nbsp;
-
-&nbsp;
 
 ![c51cfc0c0b0bf116175a141fb335f791.png](c51cfc0c0b0bf116175a141fb335f791.png)

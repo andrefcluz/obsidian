@@ -77,12 +77,9 @@ https://inkyourcode.com/whats-new-in-abap-7-40/
 
 * * *
 
-###
 
 ### F110
 
-**
-**
 
 [Debugging F110 (Automatic Payment)](https://blogs.sap.com/2020/09/23/debugging-f110-automatic-payment/)
 
@@ -122,8 +119,6 @@ Colocar pisco no parametro "online" que está como no-display
 
 * * *
 
-###
-
 ### HR - Infotipos
 
 - [modification of infotype](https://answers.sap.com/questions/3638463/modification-of-infotype.html)
@@ -133,16 +128,12 @@ Colocar pisco no parametro "online" que está como no-display
 
 * * *
 
-###
-
 ### Emails
 
 - [CL_BCS Class : 5 Easy Steps To Send Email with ABAP](https://sap4tech.net/clbcs-class-send-email-abap-example/)
 - [Sending email via CL_BCS - Supressing read receipt request](https://answers.sap.com/questions/4574844/sending-email-via-clbcs---supressing-read-receipt-.html)
 
 * * *
-
-###
 
 ### Outros
 
@@ -172,15 +163,11 @@ Status: STANDARD_FULLSCREEN
 
 * * *
 
-###
-
 ### Icones
 
 Report: RSTXICON
 
 * * *
-
-###
 
 ### Colocar base de dados editáveis em debug
 
@@ -209,8 +196,6 @@ GitHub
 - ST12
 
 * * *
-
-###
 
 ### Programas Úteis
 

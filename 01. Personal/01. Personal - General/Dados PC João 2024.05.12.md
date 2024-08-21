@@ -10,8 +10,6 @@ altitude: 119.4749
 PC Lenovo (PCComponentes) - 444€  
 Windows (SCDKey) - 19.38€
 
-&nbsp;
-
 <span style="color: #000000;">Chave Windows</span>
 
 <span style="color: #000000;">8NYTF-XJV97-2C3D9-8MDK8-BWRC2</span>
