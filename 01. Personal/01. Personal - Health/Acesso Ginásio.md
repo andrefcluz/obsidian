@@ -8,4 +8,4 @@ tags:
 ---
 
 Element
-![qr_element.png](qr_element.png)
+![qr_element.png](../../_resources/qr_element.png)

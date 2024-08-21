@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Plano Alimentar 13.04.2022.pdf](Plano_Alimentar_13.04.2022.pdf)
+[Plano Alimentar 13.04.2022.pdf](../../_resources/Plano_Alimentar_13.04.2022.pdf)

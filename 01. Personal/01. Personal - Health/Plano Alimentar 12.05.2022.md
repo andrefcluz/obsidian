@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Adobe Scan May 14, 2022.pdf](Adobe_Scan_May_14__2022.pdf)
+[Adobe Scan May 14, 2022.pdf](../../_resources/Adobe_Scan_May_14__2022.pdf)

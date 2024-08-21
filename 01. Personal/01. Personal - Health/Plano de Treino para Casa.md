@@ -38,7 +38,7 @@ tags:
 
 # **Resistance Bands Exercises**
 
-![image.png](image-105.png)
+![image.png](../../_resources/image-105.png)
 
 * * *
 

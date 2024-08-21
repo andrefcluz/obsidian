@@ -113,28 +113,28 @@ Jogos
 
 ## Start Menu
 
-![image.png](image-109.png)
+![image.png](../../_resources/image-109.png)
 
-![image.png](image-119.png)![image.png](image-117.png)
+![image.png](../../_resources/image-119.png)![image.png](../../_resources/image-117.png)
 
 * * *
 
 ## Ícones
 
-![image.png](image-112.png)
+![image.png](../../_resources/image-112.png)
 
 * * *
 
 ## Explorer
 
-![image.png](image-114.png)
+![image.png](../../_resources/image-114.png)
 
 * * *
 
 ## Configurações sistema
 
-![image.png](image-118.png)![image.png](image-116.png)![image.png](image-108.png)![image.png](image-111.png)![image.png](image-113.png)
+![image.png](../../_resources/image-118.png)![image.png](../../_resources/image-116.png)![image.png](../../_resources/image-108.png)![image.png](../../_resources/image-111.png)![image.png](../../_resources/image-113.png)
 
 * * *
 
-![image.png](image-115.png)![image.png](image-107.png)![image.png](image-110.png)
+![image.png](../../_resources/image-115.png)![image.png](../../_resources/image-107.png)![image.png](../../_resources/image-110.png)

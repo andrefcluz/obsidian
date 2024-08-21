@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "6cbe05137197955f",
+    "type": "split",
+    "children": [
+      {
+        "id": "698af5c3bc4dd334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0ea402448c58495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/Goodr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aeffb383748c8a65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "97b61f42ea9ded9f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "76a125a9b587cc8d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "70696fd7a0338e68",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9de7c380a25a5116",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "80b22c8a69ded93c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f6d46c5fc5092349",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00. Inbox/Goodr.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e77ea7ace04c2277",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "00. Inbox/Goodr.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "babe105ee075ad12",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "00. Inbox/Goodr.md"
+          }
+        }
+      },
+      {
+        "id": "8424dd6a948bc34e",
+        "type": "leaf",
+        "state": {
+          "type": "tags-overview-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "tags-overview:Tags overview": false
+    }
+  },
+  "active": "d0ea402448c58495",
+  "lastOpenFiles": [
+    "obsidian",
+    "00. Inbox/Albufeira.md",
+    "99. Misc/_resources/image-64.png",
+    "Teste Git",
+    "99. Misc/_resources/2.png",
+    "99. Misc/_resources/9.PNG",
+    "99. Misc/_resources/8.PNG",
+    "99. Misc/_resources/6.png",
+    "99. Misc/_resources/7.PNG",
+    "99. Misc/_resources/4.PNG",
+    "99. Misc/_resources/5.PNG",
+    "99. Misc/_resources/3.PNG",
+    "99. Misc/_resources/p1.png",
+    "99. Misc/_resources/CP_3.ovpn",
+    "99. Misc/_resources/ca_uc.crt",
+    "99. Misc/_resources/vpn_UC.ovpn",
+    "00. Inbox/Melhorias DFC - ORC.md",
+    "99. Misc/_resources/LIGACOES.txt",
+    "01. Personal/01. Personal - General/Cartões Cliente.md",
+    "99. Misc/_resources/20210526.pdf",
+    "99. Misc/_resources/ToInovate.kdbx",
+    "99. Misc/_resources/Avalia__o_2022.pdf",
+    "99. Misc/_resources/Implementa__o.docx",
+    "99. Misc/_resources/AGT_Pro.exe.config",
+    "00. Inbox/CP - MODULA.md",
+    "02. Work/02. Work - Toinovate/_usr_sap_DEV_D11_work_carregamento OE IEFP.xls.md",
+    "02. Work/02. Work - Toinovate/_44834_ G31 Cockpit Fecho Ano Despesa.md",
+    "mobile.md",
+    "Batatas.md",
+    "Teste.md",
+    "Welcome.md",
+    "Teste 2.md",
+    "00. Inbox/Goodr.md",
+    "Mobile 2.md",
+    "00. Inbox/SPROXY_START.md",
+    "00. Inbox/Francesinha.md",
+    "00. Inbox/IPL - Safemed.md",
+    "00. Inbox/Reformulação DFC.md",
+    "02. Work/02. Work - Toinovate/VPN IPL.md",
+    "00. Inbox/Modula - Inventário.md",
+    "01. Personal/01. Personal - General/BW.md",
+    "02. Work/02. Work - Toinovate/VPN EMEF.md",
+    "00. Inbox/Plano Alimentar 04_08 - 11_08.md",
+    "02. Work/02. Work - Toinovate/PAP Espap.md",
+    "02. Work/02. Work - Toinovate/Módulo PS.md",
+    "02. Work/02. Work - Toinovate/IP - APPI.md"
+  ]
+}

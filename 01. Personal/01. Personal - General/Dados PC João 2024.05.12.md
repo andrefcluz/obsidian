@@ -16,7 +16,7 @@ Windows (SCDKey) - 19.38€
 
 <span style="color: #000000;">8NYTF-XJV97-2C3D9-8MDK8-BWRC2</span>
 
-<span style="color: #22916d;">![5f0b323be1a868b13973eeb42783a97f.png](5f0b323be1a868b13973eeb42783a97f.png)</span>
+<span style="color: #22916d;">![5f0b323be1a868b13973eeb42783a97f.png](../../_resources/5f0b323be1a868b13973eeb42783a97f.png)</span>
 
 <span style="color: #22916d;">joaoluciano@outlook.pt</span>
 

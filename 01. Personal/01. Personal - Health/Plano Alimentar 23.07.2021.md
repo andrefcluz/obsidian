@@ -12,4 +12,4 @@ tags:
   - health
 ---
 
-![Snapshot.jpg](Snapshot-8.jpg)![Snapshot.jpg](Snapshot-7.jpg)![Snapshot.jpg](Snapshot-6.jpg)
+![Snapshot.jpg](../../_resources/Snapshot-8.jpg)![Snapshot.jpg](../../_resources/Snapshot-7.jpg)![Snapshot.jpg](../../_resources/Snapshot-6.jpg)

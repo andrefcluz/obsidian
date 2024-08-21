@@ -8,7 +8,7 @@ tags:
   - food
 ---
 
-#### **![Untitled-3-49-768x404.jpg](Untitled-3-49-768x404.jpg)**
+#### **![Untitled-3-49-768x404.jpg](../../_resources/Untitled-3-49-768x404.jpg)**
 
 #### **A cafetaria Nebraska, em Madrid, tinha mais de 60 anos de história. Foi criada em 1955 por 4 irmãos e tinha 4 lojas espalhadas pela cidade.**
 
@@ -20,4 +20,4 @@ Os antigos funcionários, atentos a estas mensagens, lançaram um desafio nas re
 
 Isto não teve qualquer problema para o café, visto que fechou portas, e deixou os clientes satisfeitos, agora que podem reproduzir a receita em casa e continuar a deliciar-se com os míticos cachorros.. ou quem sabe até abrir um café!
 
-![Untitled-5-4.jpg](Untitled-5-4.jpg)
+![Untitled-5-4.jpg](../../_resources/Untitled-5-4.jpg)

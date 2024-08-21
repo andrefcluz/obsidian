@@ -8,8 +8,8 @@ tags:
 ---
 
 26.06.2018
-[Análise corporal.pdf](An_lise_corporal.pdf)
+[Análise corporal.pdf](../../_resources/An_lise_corporal.pdf)
 
 21.02.2018
 
-[Análise corporal 21.02.2018.pdf](An_lise_corporal_21.02.2018.pdf)
+[Análise corporal 21.02.2018.pdf](../../_resources/An_lise_corporal_21.02.2018.pdf)

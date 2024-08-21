@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "29ab3dd84d936d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f2b0519a69b2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7152f9129dc29208",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7da2c8609dde189f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/CP - MODULA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6059ddd1efaba50",
+    "type": "split",
+    "children": [
+      {
+        "id": "026dfbe323e663d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c997322f5cc6c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "45da0ef2ad1e57fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe4f0bf5b8b9077f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b412b01d26b4cb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cd93921503b2c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9c4e75e60e5d651",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00. Inbox/CP - MODULA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "289dd687a1cb342c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00. Inbox/CP - MODULA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ad70d9a5372c941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f085f6de60a5ce6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00. Inbox/CP - MODULA.md"
+              }
+            }
+          },
+          {
+            "id": "1e51e38d3ecca862",
+            "type": "leaf",
+            "state": {
+              "type": "tags-overview-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e10741fe68bbd134",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "tags-overview:Tags overview": false
+    }
+  },
+  "active": "7da2c8609dde189f",
+  "lastOpenFiles": [
+    "Teste Git/teste git 1.md",
+    "00. Inbox/CP - MODULA.md",
+    "02. Work/02. Work - Toinovate - USDMT/Implementação USDMT em clientes.md",
+    "01. Personal/01. Personal - Pers. Projects/Projeto Raspberry Pi TorrentBox.md",
+    "01. Personal/01. Personal - General/Lista Anime_Manga.md",
+    "00. Inbox/Plano Alimentar 11_08 - 16_08.md",
+    "00. Inbox/Plano Alimentar 04_08 - 11_08.md",
+    "02. Work/02. Work - Toinovate - USDMT/IPL - USDMT.md",
+    "02. Work/02. Work - General/Workshop SAP Workflow - 28_10_2022.md",
+    "00. Inbox/Reformulação DFC.md",
+    "02. Work/02. Work - General/SAP - Informação Útil.md",
+    "02. Work/02. Work - Toinovate/VPN EMEF-1.md",
+    "02. Work/02. Work - General/Templates LinkedIn.md",
+    "02. Work - General/Workshop SAP Workflow - 28_10_2022.md",
+    "02. Work - General/Usar Virtual Env.md",
+    "02. Work - General/Templates LinkedIn.md",
+    "02. Work - General/SAP - Informação Útil.md",
+    "02. Work - General",
+    "01. Personal/01. Personal - Pers. Projects/Ideias de automatizações.md",
+    "01. Personal/01. Personal - Health/Suplementos Corrida.md",
+    "01. Personal/01. Personal - Health/Sgodde Workout Calendar.md",
+    "01. Personal/01. Personal - Health/Running_Exercise Youtube.md",
+    "01. Personal/01. Personal - Health/Running Exercises.md",
+    "01. Personal/01. Personal - Health/Recuperação Pós-Corrida.md",
+    "01. Personal/01. Personal - Health/Programa de treino 2.md",
+    "01. Personal/01. Personal - Health/Plano de Treino para Casa.md",
+    "01. Personal/01. Personal - Health/Plano Alimentar 31.03.2021.md",
+    "obsidian",
+    "Teste Git/Untitled",
+    "Teste Git",
+    "Pasted image 20240815154102.png",
+    "Pasted image 20240815161659.png",
+    "Pasted image 20240815151830.png",
+    "99. Misc",
+    "485295T851.pdf",
+    "hfghfghfg.canvas",
+    "99. Misc/_resources/6e3a0a518c5f19ab0da69f879c2ed460.png",
+    "99. Misc/_resources/6.png",
+    "99. Misc/_resources/5fe72302ff35ba669752601e52a1d4ff.png",
+    "99. Misc/_resources/5f0b323be1a868b13973eeb42783a97f.png",
+    "99. Misc/_resources/5.PNG",
+    "99. Misc/_resources/4.PNG",
+    "99. Misc/_resources/3c0b77b8a8f411521d4e937e82d2b6c8.png",
+    "99. Misc/_resources/Sgodde_Workout_Calendar.pdf",
+    "99. Misc/_resources/Implementa__o.docx",
+    "99. Misc/_resources/Evolu__o_20200529_20200728.pdf",
+    "99. Misc/_resources/Evolu__o_20200529_20200630.pdf"
+  ]
+}

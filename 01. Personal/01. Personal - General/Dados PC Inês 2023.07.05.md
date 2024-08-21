@@ -18,4 +18,4 @@ kelly
 Cidade onde nasceu
 faro
 
-![image.png](image-106.png)
+![image.png](../../_resources/image-106.png)

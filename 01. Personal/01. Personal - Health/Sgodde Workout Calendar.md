@@ -7,4 +7,4 @@ tags:
   - workout
 ---
 
-[Sgodde Workout Calendar.pdf](Sgodde_Workout_Calendar.pdf)
+[Sgodde Workout Calendar.pdf](../../_resources/Sgodde_Workout_Calendar.pdf)

@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Plano Alimentar 04.08.2022.pdf](Plano_Alimentar_04.08.2022.pdf)
+[Plano Alimentar 04.08.2022.pdf](../../_resources/Plano_Alimentar_04.08.2022.pdf)

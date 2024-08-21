@@ -157,7 +157,7 @@ tags:
 
 Menu Iniciar
 
-![image.png](image-129.png)![image.png](image-123.png)![image.png](image-125.png)
+![image.png](../../_resources/image-129.png)![image.png](../../_resources/image-123.png)![image.png](../../_resources/image-125.png)
 
 &nbsp;
 
@@ -165,8 +165,8 @@ Menu Iniciar
 
 Formatos Região
 
-![image.png](image-131.png)![image.png](image-127.png)![image.png](image-130.png)![image.png](image-122.png)![image.png](image-126.png)
+![image.png](../../_resources/image-131.png)![image.png](../../_resources/image-127.png)![image.png](../../_resources/image-130.png)![image.png](../../_resources/image-122.png)![image.png](../../_resources/image-126.png)
 
 Foxy Proxy
 
-![image.png](image-128.png)![image.png](image-124.png)
+![image.png](../../_resources/image-128.png)![image.png](../../_resources/image-124.png)

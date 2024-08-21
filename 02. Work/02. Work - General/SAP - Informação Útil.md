@@ -91,7 +91,7 @@ Include: F110MAIN
 
 Colocar pisco no parametro "online" que está como no-display
 
-![^40CFFF53B03A7205E73D75D9A31FCE919BB943277C5E41B1FB^pimgpsh_fullsize_distr.png](_40CFFF53B03A7205E73D75D9A31FCE9)
+![^40CFFF53B03A7205E73D75D9A31FCE919BB943277C5E41B1FB^pimgpsh_fullsize_distr.png](../../_resources/_40CFFF53B03A7205E73D75D9A31FCE9)
 
 [Debug F110](https://docs.google.com/document/d/1lVRIRrI7L8_vC1eEmXQygebd5WwtBFGweZTXW28sYmg/edit?usp=drive_web)
 

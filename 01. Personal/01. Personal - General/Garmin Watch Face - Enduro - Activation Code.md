@@ -7,4 +7,4 @@ tags:
   - misc
 ---
 
-[ENDUROActivationCode.pdf](ENDUROActivationCode.pdf)
+[ENDUROActivationCode.pdf](../../_resources/ENDUROActivationCode.pdf)

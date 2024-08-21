@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[TMP.4313aef6-49eb-4a70-a82b-7170b44035f9.Adobe Scan Feb 02, 2022.pdf](TMP.4313aef6-49eb-4a70-a82b-7170)
+[TMP.4313aef6-49eb-4a70-a82b-7170b44035f9.Adobe Scan Feb 02, 2022.pdf](../../_resources/TMP.4313aef6-49eb-4a70-a82b-7170)

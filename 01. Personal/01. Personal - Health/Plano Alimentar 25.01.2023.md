@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Plano Alimentar 25.01.2023.pdf](Plano_Alimentar_25.01.2023.pdf)
+[Plano Alimentar 25.01.2023.pdf](../../_resources/Plano_Alimentar_25.01.2023.pdf)

@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Plano Alimentar 19.10.2022.pdf](Plano_Alimentar_19.10.2022.pdf)
+[Plano Alimentar 19.10.2022.pdf](../../_resources/Plano_Alimentar_19.10.2022.pdf)

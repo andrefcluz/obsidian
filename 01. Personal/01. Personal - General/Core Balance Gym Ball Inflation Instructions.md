@@ -8,4 +8,4 @@ tags:
   - manuals_guides
 ---
 
-[Core_Balance_Gym_Ball_Guide.pdf](Core_Balance_Gym_Ball_Guide.pdf)
+[Core_Balance_Gym_Ball_Guide.pdf](../../_resources/Core_Balance_Gym_Ball_Guide.pdf)

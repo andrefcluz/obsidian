@@ -2,9 +2,9 @@
 title: CP - MODULA
 updated: 2024-05-26 07:41:21Z
 created: 2023-11-22 14:50:11Z
-latitude: 38.7222524
-longitude: -9.1393366
-altitude: 0
+latitude: 38.72225240
+longitude: -9.13933660
+altitude: 0.0000
 tags:
   - cp
 ---
@@ -14,21 +14,33 @@ tags:
 - [ ] Parametrizar tabela ZMOD_API_DATA em PRD
 - [ ] Remover parametrização da tabela ZMOD_API_DATA em QLD
 
+&nbsp;
+
 * * *
 
-**Z_AL_TESTE_INT_MOV_MODULA**
+&nbsp;
+
+\*\*Z_AL_TESTE_INT_MOV_MODULA\*\*
+
+&nbsp;
 
 Acessos plataforma MODULA
 
 USER: ADVANCED  
 PASS: SYSTEM08
 
-[Modula-soapui-project.xml](Modula-soapui-project.xml)
+&nbsp;
 
-![6782eab4de451325cb87d800318a0bc5.png](6782eab4de451325cb87d800318a0bc5.png)
+&nbsp;
+
+[Modula-soapui-project.xml](../_resources/Modula-soapui-project.xml)
+
+![6782eab4de451325cb87d800318a0bc5.png](../_resources/6782eab4de451325cb87d800318a0bc5.png)
 
 Teste comunicações em SAP  
 Programa: Z_HTTP_REQ_AL
+
+&nbsp;
 
 * * *
 
@@ -54,6 +66,9 @@ REPROC
 - [x] Criar programa que vai correr em job e envia os materiais daquele dia
 - [x] Criar cockpit
 
+&nbsp;
+
+&nbsp;
 
 - [ ] CFG-IMP-ARTICOLI
     - [x] ZMOD_ST_JSON_E_MAT
@@ -80,21 +95,11 @@ REPROC
     - [x] ZMOD_LOG_D_I_MOV
     - [ ] Programa ZMOD_IMP_MOVIMENTOS
 
+&nbsp;
 
 Operazione completata con successo
 
-![081df6124fb9e142e1b3cfce8aed3a62.png](081df6124fb9e142e1b3cfce8aed3a62.png)
-
-
-* * *
-
-![3052c93cb64a34675ae7243d5297d12b.png](3052c93cb64a34675ae7243d5297d12b.png)
-
-![2c590e3eb6ec42dfd9548bab36285944.png](2c590e3eb6ec42dfd9548bab36285944.png)
-
-![7becc3abf40dcc8ccf9adbd0b2ec7afe.png](7becc3abf40dcc8ccf9adbd0b2ec7afe.png)
-
-![ee324cb3dd104bf68447f13b00e80477.png](ee324cb3dd104bf68447f13b00e80477.png)
+![081df6124fb9e142e1b3cfce8aed3a62.png](../_resources/081df6124fb9e142e1b3cfce8aed3a62.png)
 
 &nbsp;
 
@@ -102,14 +107,28 @@ Operazione completata con successo
 
 * * *
 
+![3052c93cb64a34675ae7243d5297d12b.png](../_resources/3052c93cb64a34675ae7243d5297d12b.png)
+
+![2c590e3eb6ec42dfd9548bab36285944.png](../_resources/2c590e3eb6ec42dfd9548bab36285944.png)
+
+![7becc3abf40dcc8ccf9adbd0b2ec7afe.png](../_resources/7becc3abf40dcc8ccf9adbd0b2ec7afe.png)
+
+![ee324cb3dd104bf68447f13b00e80477.png](../_resources/ee324cb3dd104bf68447f13b00e80477.png)
+
 &nbsp;
 
-&nbsp;![d199da3e4824c3c3acedcf02c7a07a0a.png](d199da3e4824c3c3acedcf02c7a07a0a.png)
+&nbsp;
 
-![29e1ae9741959ff7d4305d67769b5738.png](29e1ae9741959ff7d4305d67769b5738.png)
+* * *
+
+&nbsp;
+
+&nbsp;![d199da3e4824c3c3acedcf02c7a07a0a.png](../_resources/d199da3e4824c3c3acedcf02c7a07a0a.png)
+
+![29e1ae9741959ff7d4305d67769b5738.png](../_resources/29e1ae9741959ff7d4305d67769b5738.png)
 
 &nbsp;
 
 Pedido fica pendente que o material seja arrumado
 
-![5fe72302ff35ba669752601e52a1d4ff.png](5fe72302ff35ba669752601e52a1d4ff.png)
+![5fe72302ff35ba669752601e52a1d4ff.png](../_resources/5fe72302ff35ba669752601e52a1d4ff.png)

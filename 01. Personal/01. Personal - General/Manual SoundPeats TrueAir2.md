@@ -7,4 +7,4 @@ tags:
   - manuals_guides
 ---
 
-[soundpeats-trueair2-true-wireless-earbuds-manual-optimized.pdf](soundpeats-trueair2-true-wireles)
+[soundpeats-trueair2-true-wireless-earbuds-manual-optimized.pdf](../../_resources/soundpeats-trueair2-true-wireles)

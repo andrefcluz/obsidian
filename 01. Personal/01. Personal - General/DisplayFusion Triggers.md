@@ -7,11 +7,11 @@ tags:
   - computer
 ---
 
-![image.png](image-120.png)
+![image.png](../../_resources/image-120.png)
 
 C:\Program Files (x86)\Steam\steamapps\common\Dead by Daylight\DeadByDaylight\Binaries\Win64\DeadByDaylight-Win64-Shipping.exe
 
 * * *
 
-![image.png](image-121.png)
+![image.png](../../_resources/image-121.png)
 C:\Users\andre\AppData\Local\Microsoft\Teams\current\Teams.exe

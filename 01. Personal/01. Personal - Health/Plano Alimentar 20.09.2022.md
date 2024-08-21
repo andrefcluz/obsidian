@@ -9,4 +9,4 @@ tags:
   - health
 ---
 
-[Plano Alimentar 20.09.2022.pdf](Plano_Alimentar_20.09.2022.pdf)
+[Plano Alimentar 20.09.2022.pdf](../../_resources/Plano_Alimentar_20.09.2022.pdf)

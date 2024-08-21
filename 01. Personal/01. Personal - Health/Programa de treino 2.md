@@ -7,4 +7,4 @@ tags:
   - workout
 ---
 
-[Programa de treino.pdf](Programa_de_treino.pdf)
+[Programa de treino.pdf](../../_resources/Programa_de_treino.pdf)

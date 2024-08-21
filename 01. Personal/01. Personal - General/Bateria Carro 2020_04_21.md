@@ -8,4 +8,4 @@ tags:
   - receipts
 ---
 
-[Xerox Scan_22042020145335.pdf](Xerox_Scan_22042020145335.pdf)
+[Xerox Scan_22042020145335.pdf](../../_resources/Xerox_Scan_22042020145335.pdf)

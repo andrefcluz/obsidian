@@ -8,4 +8,4 @@ tags:
   - books
 ---
 
-[Habits+Cheat+Sheet.pdf](Habits_Cheat_Sheet.pdf)
+[Habits+Cheat+Sheet.pdf](../../_resources/Habits_Cheat_Sheet.pdf)

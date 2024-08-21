@@ -7,4 +7,4 @@ longitude: -9.13933660
 altitude: 0.0000
 ---
 
-![fbc3c4968b56b667d5c321522500d04e.png](fbc3c4968b56b667d5c321522500d04e.png)
+![fbc3c4968b56b667d5c321522500d04e.png](../_resources/fbc3c4968b56b667d5c321522500d04e.png)

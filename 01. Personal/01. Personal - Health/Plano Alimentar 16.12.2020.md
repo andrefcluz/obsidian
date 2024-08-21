@@ -11,6 +11,6 @@ tags:
   - health
 ---
 
-[Plano André Luz.pdf](Plano_Andr__Luz.pdf)
+[Plano André Luz.pdf](../../_resources/Plano_Andr__Luz.pdf)
 
-![img_20201219_170815.420.png](img_20201219_170815.420.png)![img_20201219_170912.846.png](img_20201219_170912.846.png)![img_20201219_170956.605.png](img_20201219_170956.605.png)
+![img_20201219_170815.420.png](../../_resources/img_20201219_170815.420.png)![img_20201219_170912.846.png](../../_resources/img_20201219_170912.846.png)![img_20201219_170956.605.png](../../_resources/img_20201219_170956.605.png)
