@@ -11,8 +11,11 @@
             "id": "f6e3377451e9777c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -81,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/CP - MODULA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/CP - MODULA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00. Inbox/CP - MODULA.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,12 +159,14 @@
       "tags-overview:Tags overview": false
     }
   },
-  "active": "e10741fe68bbd134",
+  "active": "f6e3377451e9777c",
   "lastOpenFiles": [
+    "00. Inbox/Untitled.md",
+    "00. Inbox/CP - MODULA.md",
+    "00. Inbox/Unconfirmed 800597.crdownload",
     "gitignore.txt",
     "gitignore.txt.crdownload",
     "Teste Git/teste git 1.md",
-    "00. Inbox/CP - MODULA.md",
     "02. Work/02. Work - Toinovate - USDMT/Implementação USDMT em clientes.md",
     "01. Personal/01. Personal - Pers. Projects/Projeto Raspberry Pi TorrentBox.md",
     "01. Personal/01. Personal - General/Lista Anime_Manga.md",
@@ -206,8 +207,6 @@
     "99. Misc/_resources/5.PNG",
     "99. Misc/_resources/4.PNG",
     "99. Misc/_resources/3c0b77b8a8f411521d4e937e82d2b6c8.png",
-    "99. Misc/_resources/Sgodde_Workout_Calendar.pdf",
-    "99. Misc/_resources/Implementa__o.docx",
-    "99. Misc/_resources/Evolu__o_20200529_20200728.pdf"
+    "99. Misc/_resources/Sgodde_Workout_Calendar.pdf"
   ]
 }
