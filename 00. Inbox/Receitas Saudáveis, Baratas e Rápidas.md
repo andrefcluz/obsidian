@@ -343,5 +343,3 @@ altitude: 0.0000
     
 5.  Acrescenta a massa e envolve bem. Coloca o frango por cima e está pronta a servir.
     
-
-&nbsp;

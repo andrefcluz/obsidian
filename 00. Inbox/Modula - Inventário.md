@@ -15,7 +15,6 @@ lx22
 
 li04
 
-&nbsp;
 
 Deposito 910
 
