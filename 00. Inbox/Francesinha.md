@@ -7,7 +7,7 @@ longitude: -8.62910530
 altitude: 0.0000
 ---
 
-Boas.
+Boas. 
 
 Já corri tudo o que é restaurante de francesinhas por Lisboa, Porto, Braga, etc
 
