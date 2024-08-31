@@ -1,5 +1,6 @@
 {
   "propertiesInDocument": "visible",
   "attachmentFolderPath": "_resources",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showRibbon": true
 }
