@@ -40,3 +40,5 @@ tags:
 | CPQK947545 | USDMT - Correções e ajustes #12                    | 13.05.2024   |
 | CPQK947658 | USDMT - Correções e ajustes #13                    | 31.07.2024   |
 | CPQK947660 | USDMT - Correções e ajustes #14                    | 31.07.2024   |
+| CPQK948025 | USDMT - Correções e ajustes #15                    | 06.09.2024   |
+| CPQK948029 | USDMT - Customizing ABAP #6                        | 06.09.2024   |

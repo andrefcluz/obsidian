@@ -6,7 +6,6 @@ latitude: 41.15794380
 longitude: -8.62910530
 altitude: 0.0000
 ---
-
 Boas. 
 
 Já corri tudo o que é restaurante de francesinhas por Lisboa, Porto, Braga, etc

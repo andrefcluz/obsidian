@@ -1,0 +1,21 @@
+- Domingo
+	- Massa Queijo Feta
+	- Sopa + Quiche
+- Segunda
+	- Massa Queijo Feta
+	- Sopa + Quiche
+- Terça
+	- Caldeirada Lulas
+	- Sopa + Quiche
+- Quarta
+	- Caldeirada Lulas
+	- Sopa
+- Quinta
+	- Frango Cremoso
+	- Sopa
+- Sexta
+	- Frango Cremoso
+	- Sopa
+- Sábado
+	- A
+	- Sopa

@@ -105,3 +105,4 @@ share_updated: 2024-08-15T10:19:35+01:00
 | DPLK907174 | USDMT - Correções e ajustes #34 - PERFORMANCE #6 | 07.08.2024   | 07.08.2024   |
 | DPLK907176 | USDMT - Correções e ajustes #35 - PERFORMANCE #7 | 07.08.2024   | 07.08.2024   |
 | DPLK907178 | USDMT - Correções e ajustes #36 - DFC            | 15.08.2024   |              |
+| DPLK907203 | USDMT - Correções e ajustes #37 - DFC            |              |              |
