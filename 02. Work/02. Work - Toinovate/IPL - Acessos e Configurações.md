@@ -5,6 +5,8 @@ created: 2018-09-11 07:31:19Z
 author: André Luz
 tags:
   - ipl
+share_link: https://share.note.sx/4tov6pjc
+share_updated: 2024-09-10T09:25:20+01:00
 ---
 
 **Rede**

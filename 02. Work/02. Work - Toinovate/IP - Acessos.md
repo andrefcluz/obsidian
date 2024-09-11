@@ -9,9 +9,9 @@ tags:
 
 VPN
 
-|     |     |
-| --- | --- |
-| User | exafluz |
+|          |          |
+| -------- | -------- |
+| User     | exafluz  |
 | Password | Ke!Tqx1w |
 
 EXPPIRES
