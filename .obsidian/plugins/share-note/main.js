@@ -40,7 +40,7 @@ var require_manifest = __commonJS({
     module2.exports = {
       id: "share-note",
       name: "Share Note",
-      version: "0.8.15",
+      version: "0.8.16",
       minAppVersion: "0.15.0",
       description: "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
       author: "Alan Grainger",
@@ -1184,15 +1184,16 @@ async function encryptString(plaintext, existingKey) {
   } else {
     key = await _generateKey(window.crypto.getRandomValues(new Uint8Array(64)));
   }
-  const iv = window.crypto.getRandomValues(new Uint8Array(16));
+  const iv = new Uint8Array(1);
   const aesKey = await _getAesGcmKey(key);
   const ciphertext = [];
   const length = plaintext.length;
-  const chunkSize = 1e3;
+  const chunkSize = 2e3;
   let index = 0;
   while (index * chunkSize < length) {
     const plaintextChunk = plaintext.slice(index * chunkSize, (index + 1) * chunkSize);
     const encodedText = new TextEncoder().encode(plaintextChunk);
+    iv[0] = index & 255;
     const bufCiphertext = await window.crypto.subtle.encrypt(
       { name: "AES-GCM", iv },
       aesKey,
@@ -1203,7 +1204,6 @@ async function encryptString(plaintext, existingKey) {
   }
   return {
     ciphertext,
-    iv: arrayBufferToBase64(iv),
     key: masterKeyToString(key).slice(0, 43)
   };
 }
@@ -15089,8 +15089,7 @@ var Note = class {
       });
       const encryptedData = await encryptString(plaintext, decryptionKey);
       this.template.content = JSON.stringify({
-        ciphertext: encryptedData.ciphertext,
-        iv: encryptedData.iv
+        ciphertext: encryptedData.ciphertext
       });
       decryptionKey = encryptedData.key;
     } else {

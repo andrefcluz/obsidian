@@ -7,7 +7,7 @@ tags:
   - ipl
   - usdmt
 share_link: https://share.note.sx/fzsqdriv
-share_updated: 2024-08-15T10:19:35+01:00
+share_updated: 2024-09-17T10:24:23+01:00
 ---
 
 ## OT's
@@ -108,4 +108,5 @@ share_updated: 2024-08-15T10:19:35+01:00
 | DPLK907203 | USDMT - Correções e ajustes #37 - DFC            | 09.09.2024   |              |
 | DPLK907209 | USDMT - Correções e ajustes #38                  | 09.09.2024   | 09.09.2024   |
 | DPLK907213 | USDMT - Correções e ajustes #39 - OT             |              |              |
-| DPLK907215 | USDMT - Correções e ajustes #40 - DFC            |              |              |
+| DPLK907215 | USDMT - Correções e ajustes #40 - DFC            | 16.09.2024   |              |
+
