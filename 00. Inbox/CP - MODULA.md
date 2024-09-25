@@ -15,6 +15,18 @@ tags:
 - [ ] Remover parametrização da tabela ZMOD_API_DATA em QLD
 
 
+| Ambiente | URL Base                            | Username | Password |
+| -------- | ----------------------------------- | -------- | -------- |
+| TESTES   | http://192.168.3.122:3001/api/jobs/ | modula   | modula   |
+| PRODUCAO | http://192.168.3.122:3001/api/jobs/ | modula   | modula   |
+
+## Ordens de Transporte
+
+| OT         | Descrição                         | Transporte CPP |
+| ---------- | --------------------------------- | -------------- |
+| CPQK946452 | 7892 - Interface SAP <> MODULA #1 | 2024.09.25     |
+
+
 * * *
 
 \*\*Z_AL_TESTE_INT_MOV_MODULA\*\*

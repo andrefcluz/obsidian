@@ -133,3 +133,5 @@ tags:
 | D01K902570 | USDMT - Correções e ajustes #97                              | 23.10.2023   | 23.10.2023   |
 | D01K902575 | USDMT - Correções e ajustes #98                              | 22.04.2024   | 22.04.2024   |
 | D01K902577 | USDMT - Customizing ABAP #18                                 | 22.04.2024   | 22.04.2024   |
+| D01K902895 | USDMT - Correções e ajustes #99                              | 2024.09.23   |              |
+| D01K902897 | USDMT - Correções e ajustes #100                             | 2024.09.24   |              |

@@ -1,3 +1,6 @@
 [
-  "lazy-plugins"
+  "lazy-plugins",
+  "text-extractor",
+  "omnisearch",
+  "remotely-save"
 ]

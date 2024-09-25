@@ -197,10 +197,11 @@ GitHub
 
 * * *
 
-### Programas Úteis
+### Programas/Transações Úteis
 
 - RSDEMO_HTML_VIEWER - Programa para visualizar link como se fosse um browser
 - CL_HARD_WIRED_ENCRYPTOR - Classe que pode ser usada para encriptar passwords
+- SPROXY_START - Transação para testar proxys em SAP
 
 * * *
 

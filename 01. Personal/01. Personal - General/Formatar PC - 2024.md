@@ -108,6 +108,7 @@ tags:
 - [ ] Zoom
 - [ ] BreakTimer
 - [x] Core Temp
+- [ ] Windowes Bordless Gaming
 
 
 * * *
