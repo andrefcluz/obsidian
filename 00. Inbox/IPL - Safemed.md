@@ -2,11 +2,11 @@
 title: IPL - Safemed
 updated: 2024-08-06 17:15:15Z
 created: 2024-05-08 09:23:23Z
-latitude: 38.72225240
-longitude: -9.13933660
-altitude: 0.0000
+latitude: 38.7222524
+longitude: -9.1393366
+altitude: 0
 tags:
-  - ipl
+  - ipl/safemed
 ---
 
 https://safemed.pt/iplisboa/syncERP.asmx?wsdl

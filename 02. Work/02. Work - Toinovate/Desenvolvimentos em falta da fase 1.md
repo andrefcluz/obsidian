@@ -6,7 +6,7 @@ source: >-
   file:///C:/Users/andre/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/5E27B048.xlsx
 author: André Luz
 tags:
-  - cp-emef
+  - cp/emef
 ---
 
 **Exit - CMOD    ZMMEXIT1    EXIT_SAPLMEREQ_010    Cliente na requisição de compra**

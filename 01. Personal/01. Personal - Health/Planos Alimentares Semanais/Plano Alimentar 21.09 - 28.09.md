@@ -1,6 +1,9 @@
 ---
 share_link: https://share.note.sx/fev7naph
 share_updated: 2024-09-14T09:53:08+01:00
+tags:
+  - food
+  - eating_plan
 ---
 - Sábado
 	- Pizza

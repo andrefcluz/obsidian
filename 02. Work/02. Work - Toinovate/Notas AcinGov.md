@@ -4,7 +4,7 @@ updated: 2021-11-10 09:06:50Z
 created: 2020-09-23 15:15:13Z
 author: André Luz
 tags:
-  - cp-acingov
+  - cp/acingov
 ---
 
 https://acingov-testes.acin.pt/acingovalpha/2/

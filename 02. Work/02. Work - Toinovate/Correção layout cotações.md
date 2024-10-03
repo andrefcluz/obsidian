@@ -4,7 +4,7 @@ updated: 2021-11-10 09:06:52Z
 created: 2021-01-22 09:08:54Z
 author: André Luz
 tags:
-  - cp-emef
+  - cp/emef
 ---
 
 ZMIGRA_EMEF_SD_COTACAO_CED

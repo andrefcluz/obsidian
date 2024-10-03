@@ -1,3 +1,8 @@
+---
+tags:
+  - food
+  - eating_plan
+---
 - Domingo
 	- Massa Queijo Feta
 	- Sopa + Quiche

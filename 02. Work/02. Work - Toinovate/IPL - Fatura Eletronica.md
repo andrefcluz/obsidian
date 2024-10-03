@@ -4,7 +4,7 @@ updated: 2023-04-13 07:27:45Z
 created: 2022-01-04 12:30:06Z
 author: André Luz
 tags:
-  - ipl-fatura eletronica
+  - ipl/fatura eletronica
 ---
 
 ### Transportes

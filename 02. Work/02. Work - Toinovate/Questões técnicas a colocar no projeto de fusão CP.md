@@ -5,7 +5,7 @@ created: 2019-10-09 09:21:12Z
 author: André Luz
 tags:
   - cp
-  - cp-emef
+  - cp/emef
 ---
 
 - Comparar estrutura organizacional de ambas as empresas

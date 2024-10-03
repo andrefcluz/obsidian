@@ -2,9 +2,12 @@
 title: Plano Alimentar 04/08 - 11/08
 updated: 2024-08-10 11:18:33Z
 created: 2024-08-02 19:17:59Z
-latitude: 38.72225240
-longitude: -9.13933660
-altitude: 0.0000
+latitude: 38.7222524
+longitude: -9.1393366
+altitude: 0
+tags:
+  - food
+  - eating_plan
 ---
 
 - Domingo

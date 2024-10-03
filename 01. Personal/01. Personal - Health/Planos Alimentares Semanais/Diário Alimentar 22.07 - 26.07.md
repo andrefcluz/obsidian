@@ -2,9 +2,12 @@
 title: Diário Alimentar 22/07 - 26/07
 updated: 2024-07-29 09:29:46Z
 created: 2024-07-22 08:38:00Z
-latitude: 38.72225240
-longitude: -9.13933660
-altitude: 0.0000
+latitude: 38.7222524
+longitude: -9.1393366
+altitude: 0
+tags:
+  - food
+  - eating_plan
 ---
 
 - **Segunda - 22/07 (Peso: 94.8kg)** 

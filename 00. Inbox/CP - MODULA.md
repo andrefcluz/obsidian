@@ -1,38 +1,56 @@
 ---
-title: CP - MODULA
-updated: 2024-05-26 07:41:21Z
-created: 2023-11-22 14:50:11Z
-latitude: 38.72225240
-longitude: -9.13933660
-altitude: 0.0000
+title: Modula - Inventário
+updated: 2024-07-22 15:02:13Z
+created: 2024-07-09 14:16:30Z
+latitude: 41.1579438
+longitude: -8.6291053
+altitude: 0
 tags:
-  - cp
+  - cp/modula
 ---
-
 ## Tarefas após transporte
 
-- [ ] Parametrizar tabela ZMOD_API_DATA em PRD
-- [ ] Remover parametrização da tabela ZMOD_API_DATA em QLD
+- [x] Parametrizar tabela ZMOD_API_DATA em PRD
+- [x] Remover parametrização da tabela ZMOD_API_DATA em QLD
 
+### Parametrização 
+
+#### ZMOD_API_DATA
 
 | Ambiente | URL Base                            | Username | Password |
 | -------- | ----------------------------------- | -------- | -------- |
 | TESTES   | http://192.168.3.122:3001/api/jobs/ | modula   | modula   |
 | PRODUCAO | http://192.168.3.122:3001/api/jobs/ | modula   | modula   |
 
+--- 
 ## Ordens de Transporte
 
 | OT         | Descrição                         | Transporte CPP |
 | ---------- | --------------------------------- | -------------- |
 | CPQK946452 | 7892 - Interface SAP <> MODULA #1 | 2024.09.25     |
+| CPQK948117 | 7892 - Interface SAP <> MODULA #2 | 2024.10.02     |
+| CPQK948134 | 7892 - Interface SAP <> MODULA #3 | 2024.10.03     |
 
+---
+
+## Autorizações 
+
+Transação: SUIM 
+
+Função criada a pedido da própria CP
+
+![[Pasted image 20240926105719.png]]
 
 * * *
 
-\*\*Z_AL_TESTE_INT_MOV_MODULA\*\*
+## Comunicações
 
+Teste comunicações em SAP  
+Programa: Z_HTTP_REQ_AL
 
-Acessos plataforma MODULA
+**Z_AL_TESTE_INT_MOV_MODULA**
+
+## Acessos plataforma MODULA
 
 USER: ADVANCED  
 PASS: SYSTEM08
@@ -41,10 +59,13 @@ PASS: SYSTEM08
 
 ![6782eab4de451325cb87d800318a0bc5.png](../_resources/6782eab4de451325cb87d800318a0bc5.png)
 
-Teste comunicações em SAP  
-Programa: Z_HTTP_REQ_AL
+
 
 * * *
+
+## Desenvolvimentos
+
+#### Tipos Processamento
 
 JOB  
 MANUAL  
@@ -54,9 +75,7 @@ REPROC
 @09@ / @5D@ --> Yellow Light  
 @0A@ / @5C@ --> Red Light
 
-* * *
-
-## Materiais
+#### Tarefas
 
 - [x] Criar tabelas de log
     - [x] Tabela de log - ZMOD_LOG_E_MAT
@@ -69,38 +88,39 @@ REPROC
 - [x] Criar cockpit
 
 
-- [ ] CFG-IMP-ARTICOLI
+- [x] CFG-IMP-ARTICOLI
     - [x] ZMOD_ST_JSON_E_MAT
     - [x] Método EXPORTA_MATERIAIS
     - [x] ZMOD_LOG_D_E_MAT
     - [x] Programa ZMOD_EXP_MATERIAIS
-- [ ]  CFG-IMP-ORDINI
+- [x]  CFG-IMP-ORDINI
     - [x] ZMOD_ST_JSON_E_ORD
     - [x] Método EXPORTA_ORDENS
     - [x] ZMOD_LOG_E_ORD
     - [x] ZMOD_LOG_E_ORD_I
     - [x] ZMOD_LOG_D_E_ORD
-    - [ ] Programa ZMOD_EXP_ORDENS
-- [ ] CFG-IMP-SOTTOCODICI
+    - [x] Programa ZMOD_EXP_ORDENS
+- [x] CFG-IMP-SOTTOCODICI
     - [x] ZMOD_ST_JSON_E_ORD_PM
     - [x] Método EXPORTA_ORDENS_PM
     - [x] ZMOD_LOG_E_OPM
     - [x] ZMOD_LOG_D_E_OPM
-    - [ ] Programa ZMOD_EXP_ORDENS_PM
-- [ ] CFG-EXP-MOVIMENTI
+    - [x] Programa ZMOD_EXP_ORDENS_PM
+- [x] CFG-EXP-MOVIMENTI
     - [x] ZMOD_ST_JSON_I_MOV
-    - [ ] Método IMPORTA_MOVIMENTOS
+    - [x] Método IMPORTA_MOVIMENTOS
     - [x] ZMOD_LOG_I_MOV
     - [x] ZMOD_LOG_D_I_MOV
-    - [ ] Programa ZMOD_IMP_MOVIMENTOS
+    - [x] Programa ZMOD_IMP_MOVIMENTOS
 
+
+#### Resposta
 
 Operazione completata con successo
 
 ![081df6124fb9e142e1b3cfce8aed3a62.png](../_resources/081df6124fb9e142e1b3cfce8aed3a62.png)
 
-
-* * *
+#### Ordens PM/CS
 
 ![3052c93cb64a34675ae7243d5297d12b.png](../_resources/3052c93cb64a34675ae7243d5297d12b.png)
 
@@ -111,8 +131,7 @@ Operazione completata con successo
 ![ee324cb3dd104bf68447f13b00e80477.png](../_resources/ee324cb3dd104bf68447f13b00e80477.png)
 
 
-* * *
-
+#### Ordens de Transporte/Movimentos
 
 ![d199da3e4824c3c3acedcf02c7a07a0a.png](../_resources/d199da3e4824c3c3acedcf02c7a07a0a.png)
 
@@ -122,3 +141,37 @@ Operazione completata con successo
 Pedido fica pendente que o material seja arrumado
 
 ![5fe72302ff35ba669752601e52a1d4ff.png](../_resources/5fe72302ff35ba669752601e52a1d4ff.png)
+
+
+#### Inventário
+
+LICC
+
+LI11N
+
+LX22
+
+LI04
+
+
+Deposito 910
+
+Tipo deposito 012 (MODULA 1) ou 013 (MODULA 2)
+
+
+![2fbe486666a32e32256a235311e1e7eb.png](../_resources/2fbe486666a32e32256a235311e1e7eb.png)
+
+
+![6e5f919a1aad6d4bdbfb13ea9205af04.png](../_resources/6e5f919a1aad6d4bdbfb13ea9205af04.png)
+
+
+![3c0b77b8a8f411521d4e937e82d2b6c8.png](../_resources/3c0b77b8a8f411521d4e937e82d2b6c8.png)
+
+![0316cbb707b01647d62671e5f38ddcc4.png](../_resources/0316cbb707b01647d62671e5f38ddcc4.png)
+
+![cf213c7f45441e49c15f818dc6845d8e.png](../_resources/cf213c7f45441e49c15f818dc6845d8e.png)
+
+
+![ccf7b90bd73f3be68c74aca3ab6026d5.png](../_resources/ccf7b90bd73f3be68c74aca3ab6026d5.png)
+
+![a65b0f93da369df2fa54c59fee8a587c.png](../_resources/a65b0f93da369df2fa54c59fee8a587c.png)

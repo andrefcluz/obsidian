@@ -176,6 +176,10 @@ Report: RSTXICON
 - GD-EDIT
 - GD-SAPEDIT
 
+Se não tiver autorização, colocar breakpoint na linha 1543 e depois saltar para a linha 1566
+
+![[Pasted image 20241002115637.png]]
+
 * * *
 
 ### Download Objetos

@@ -4,7 +4,7 @@ updated: 2021-11-10 09:06:50Z
 created: 2020-05-18 10:38:00Z
 author: André Luz
 tags:
-  - cp-emef
+  - cp/emef
 ---
 
 1. **GET_DATA_VBRP** - Seleciona os dados dos documentos de faturamento na tabela VBRP, que não estejam estornados e cujo status para a transferência para a contabilidade (RFBSK) seja igual a C (Documento de lançamento criado). Aqui também constroi um range (R_KDAUF) com os documentos de vendas (VBRP-AUBEL) para os documentos que selecionou na VBRP que são do tipo fatura (VBTYP = M).

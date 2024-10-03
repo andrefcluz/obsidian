@@ -2,9 +2,11 @@
 title: Francesinha
 updated: 2024-07-16 11:42:51Z
 created: 2024-07-16 11:42:25Z
-latitude: 41.15794380
-longitude: -8.62910530
-altitude: 0.0000
+latitude: 41.1579438
+longitude: -8.6291053
+altitude: 0
+tags:
+  - food
 ---
 Boas. 
 
@@ -21,4 +23,4 @@ Tens também um novo molho que se chama molho à minhota que é basicamente a im
 Depois dá feedback!
 
 
-![c331dfb3a0528492d9fa593a3ba91d43.png](../_resources/c331dfb3a0528492d9fa593a3ba91d43.png)
+![c331dfb3a0528492d9fa593a3ba91d43.png](c331dfb3a0528492d9fa593a3ba91d43.png)
