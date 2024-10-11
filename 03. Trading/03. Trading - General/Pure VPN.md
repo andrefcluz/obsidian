@@ -43,7 +43,7 @@ fi1.pointtoserver.com
 https://support.purevpn.com/how-to-change-dns
 
 Configurar o DNS no adaptador da VPN
-![Capture.PNG](Capture.PNG)
+![Capture.png](Capture.png)
 
 DNS têm que ter o mesmo país do login.
 Para verificar usar os seguintes sites:

@@ -6,16 +6,16 @@ author: André Luz
 tags:
   - ipl
 share_link: https://share.note.sx/4tov6pjc
-share_updated: 2024-09-10T09:25:20+01:00
+share_updated: 2024-10-08T16:31:04+01:00
 ---
 
-**Rede**
+#### Rede
 
 Rede: eduroam
 User: [toinov@ipl.local](mailto:toinov@ipl.local)
 Pass: FARYPBLWS6
 
-**VPN**
+#### VPN
 
 Dados da VPN (Windows Built-In):
 Tipo: SSTP
@@ -30,9 +30,23 @@ Adicionar no Windows 11 (no Windows 10 deve ser semelhante)
 
 ![image.png](image-42.png)
 
+##### Passo Adicional
+
 Depois tem que se fazer mais uns passos, caso contrário não há acesso à internet com a VPN ligada:
 
-![1.PNG](1.PNG)![2.png](2.png)![3.PNG](3.PNG)![4.PNG](4.PNG)![5.PNG](5.PNG)![6.png](6.png)![7.PNG](7.PNG)![8.PNG](8.PNG)![9.PNG](9.PNG)
+Ir às definições do Windows:
+
+![[IPL - Acessos e Configurações-20241008161755336.png]]
+![[IPL - Acessos e Configurações-20241008161821753.png]]
+![[IPL - Acessos e Configurações-20241008161852350.png]]
+![[IPL - Acessos e Configurações-20241008161910999.png]]
+![[IPL - Acessos e Configurações-20241008162002120.png]]
+![[IPL - Acessos e Configurações-20241008162015712.png]]
+![[IPL - Acessos e Configurações-20241008162300855.png]]
+
+
+
+#### Máquinas SAP
 
 **SAP - Ambiente Desenvolvimento**
 

@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "99. Misc/_resources"
+  "attachmentFolderPath": "99. Misc/_resources",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00. Inbox"
 }
