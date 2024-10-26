@@ -1,6 +1,5 @@
 [
-  "lazy-plugins",
+  "tray",
   "remotely-save",
-  "image-converter",
-  "tray"
+  "lazy-plugins"
 ]

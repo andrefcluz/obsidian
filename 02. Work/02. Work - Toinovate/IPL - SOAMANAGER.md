@@ -8,9 +8,18 @@ altitude: 0.0000
 tags:
   - ipl
 ---
-
+DEV
 [SOAMANAGER - IPL DEV](https://192.168.1.98:8001/sap/bc/webdynpro/sap/appl_soap_management?sap-language)
 
+[SOAMANAGER - IPL DEV URL](http://saperpdev.ipl.pt:8000/sap/bc/webdynpro/sap/appl_soap_management?sap-language=EN)
+
+
+QLD
 [SOAMANAGER - IPL QLD](https://192.168.1.103:8100/sap/bc/webdynpro/sap/appl_soap_management?sap-language)
 
+
+
+PRD
 [SOAMANAGER - IPL PRD](https://192.168.1.100:8100/sap/bc/webdynpro/sap/appl_soap_management?sap-language)
+
+[SOAMANAGER - IPL PRD URL](https://saperpprd.ipl.pt:8100/sap/bc/webdynpro/sap/appl_soap_management)
