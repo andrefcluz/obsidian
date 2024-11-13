@@ -2,9 +2,11 @@
 title: Reformulação DFC
 updated: 2024-08-06 15:14:17Z
 created: 2024-08-06 14:54:56Z
-latitude: 38.72225240
-longitude: -9.13933660
-altitude: 0.0000
+latitude: 38.7222524
+longitude: -9.1393366
+altitude: 0
+tags:
+  - usdmt
 ---
 
 1.  Ler dados DFC (diferente para cada cliente)

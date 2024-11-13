@@ -1,5 +1,6 @@
 [
+  "lazy-plugins",
   "tray",
   "remotely-save",
-  "lazy-plugins"
+  "chronology"
 ]

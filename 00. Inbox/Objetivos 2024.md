@@ -1,3 +1,0 @@
-- [ ] Viagem UK - 500€ > 1.500€ (1.000€/ 200%) - 1.000€ Banca | 500€ REV (Viagem UK)
-- [ ] Seguro Mota - 1.000€ > 3.000€ (2.000€ / 200%) - 2.000€ Banca | 750€ Moey (Seguro Mota) | 250€ CGD
-- [ ] Poupança - 2.000€ > 6.000€ (4.000€ / 200%) - 5.000€ Banca | 500€ Poupança | 500€ Poupança Conjunta 
