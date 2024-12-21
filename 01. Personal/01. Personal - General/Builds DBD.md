@@ -10,7 +10,8 @@ tags:
 ---
 
 
-| Perk 1    | Perk 2    | Perk 3         | Perk 4         |
-| --------- | --------- | -------------- | -------------- |
-| Dead Hard | Flip-Flop | Power Struggle | Plot Twist     |
-| Head-On   | Deception | Quick & Quiet  | Inner Strength |
+| Perk #1   | Perk #2   | Perk #3        | Perk #4        | Reference                                                                                 |
+| --------- | --------- | -------------- | -------------- | ----------------------------------------------------------------------------------------- |
+| Head-On   | Deception | Quick & Quiet  | Inner Strength |                                                                                           |
+| Dead Hard | Flip-Flop | Power Struggle | Plot Twist     |                                                                                           |
+| Head-On   | Flashbang | Chemical Trap  | Diversion      | https://www.reddit.com/r/deadbydaylight/comments/1h5o6nx/fun_combo_that_helps_win_chases/ |

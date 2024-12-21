@@ -111,4 +111,5 @@ share_updated: 2024-09-17T10:24:23+01:00
 | DPLK907242 | USDMT - Correções e ajustes #41 - DFC            | 20.09.2024   | 2024.10.08   |
 | DPLK907260 | USDMT - Correções e ajustes #42 - DFC            | 2024.10.09   | 2024.10.09   |
 | DPLK907268 | USDMT - Correções e ajustes #43 - DFC            | 2024.10.09   | 2024.10.09   |
+| DPLK907464 | USDMT - Correções e ajustes #44 - DFC            | 2024.12.11   | 2024.12.11   |
 

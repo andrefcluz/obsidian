@@ -77,3 +77,4 @@ tags:
 | D01K905756 | USDMT - Correções e ajustes #54                           | 25.03.2024   | 25.03.2024   |
 | D01K905782 | USDMT - Correções e ajustes #55                           | 15.04.2024   | 15.04.2024   |
 | D01K905784 | USDMT - Correções e ajustes #56                           | 15.04.2024   | 15.04.2024   |
+| D01K906281 | USDMT - Correções e ajustes #57                           | 2024.11.14   | 2024.11.14   |

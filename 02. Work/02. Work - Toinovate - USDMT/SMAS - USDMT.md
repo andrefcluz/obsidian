@@ -106,3 +106,4 @@ tags:
 | SNDK905684 | USDMT - Correções e ajustes #77                             | 02.08.2024   | 02.08.2024   |
 | SNDK905801 | USDMT - Correções e ajustes #78                             | 2024.10.22   | 2024.10.22   |
 | SNDK905807 | USDMT - Correções e ajustes #79                             | 2024.10.22   | 2024.10.22   |
+| SNDK905840 | USDMT - Correções e ajustes #80                             | 2024.11.28   | 2024.11.28   |

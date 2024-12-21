@@ -1,6 +1,9 @@
 [
   "lazy-plugins",
-  "tray",
   "remotely-save",
-  "chronology"
+  "chronology",
+  "dataview",
+  "obsidian-style-settings",
+  "blur",
+  "tray"
 ]

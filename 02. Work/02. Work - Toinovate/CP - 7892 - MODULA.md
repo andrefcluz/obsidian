@@ -31,6 +31,9 @@ tags:
 | CPQK948117 | 7892 - Interface SAP <> MODULA #2 | 2024.10.02     |
 | CPQK948134 | 7892 - Interface SAP <> MODULA #3 | 2024.10.03     |
 | CPQK948241 | 7892 - Interface SAP <> MODULA #4 | 2024.10.28     |
+| CPQK948330 | 7892 - Interface SAP <> MODULA #5 | 2024.11.15     |
+| CPQK948336 | 7892 - Interface SAP <> MODULA #6 | 2024.11.15     |
+| CPQK948346 | 7892 - Interface SAP <> MODULA #7 | 2024.11.18
 
 ---
 
