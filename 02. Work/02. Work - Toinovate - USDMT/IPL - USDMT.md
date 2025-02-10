@@ -106,10 +106,13 @@ share_updated: 2024-09-17T10:24:23+01:00
 | DPLK907178 | USDMT - Correções e ajustes #36 - DFC            | 15.08.2024   | 2024.10.08   |
 | DPLK907203 | USDMT - Correções e ajustes #37 - DFC            | 09.09.2024   | 2024.10.08   |
 | DPLK907209 | USDMT - Correções e ajustes #38                  | 09.09.2024   | 09.09.2024   |
-| DPLK907213 | USDMT - Correções e ajustes #39 - OT             |              |              |
+| DPLK907213 | USDMT - Correções e ajustes #39 - OT             | 2025.01.13   | 2025.01.13   |
 | DPLK907215 | USDMT - Correções e ajustes #40 - DFC            | 16.09.2024   | 2024.10.08   |
 | DPLK907242 | USDMT - Correções e ajustes #41 - DFC            | 20.09.2024   | 2024.10.08   |
 | DPLK907260 | USDMT - Correções e ajustes #42 - DFC            | 2024.10.09   | 2024.10.09   |
 | DPLK907268 | USDMT - Correções e ajustes #43 - DFC            | 2024.10.09   | 2024.10.09   |
 | DPLK907464 | USDMT - Correções e ajustes #44 - DFC            | 2024.12.11   | 2024.12.11   |
+| DPLK907518 | USDMT - Correções e ajustes #45                  | 2025.01.13   | 2025.01.13   |
+| DPLK907528 | USDMT - Correções e ajustes #46 - DFC            | 2025.01.13   | 2025.01.13   |
+| DPLK907560 | USDMT - Correções e ajustes #47                  |              |              |
 

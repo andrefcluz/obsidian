@@ -8,33 +8,44 @@ altitude: 0
 tags:
   - ipl/safemed
 ---
-## Ordens de Transporte
+### Ordens de Transporte
 
 | OT         | Descrição                                          | Transporte QLP | Transporte PRD |
 | ---------- | -------------------------------------------------- | -------------- | -------------- |
-| DPLK907115 | RH7-SH2-LQRD - Interface Safemed #1 - FR/AL        | 2024.12.04     |                |
-| DPLK907390 | RH7-SH2-LQRD - Interface Safemed #1 - CUST - FR/AL | 2024.12.04     |                |
-| DPLK907411 | RH7-SH2-LQRD - Interface Safemed #2 - FR/AL        | 2024.12.05     |                |
-| DPLK907413 | RH7-SH2-LQRD - Interface Safemed #2 - CUST - FR/AL | 2024.12.05     |                |
-| DPLK907449 | RH7-SH2-LQRD - Interface Safemed #3 - FR/AL        | 2024.12.05     |                |
-| DPLK907455 | RH7-SH2-LQRD - Interface Safemed #4 - FR/AL        | 2024.12.11     |                |
-| DPLK907466 | RH7-SH2-LQRD - Interface Safemed #5 - FR/AL        | 2024.12.13     |                |
-| DPLK907468 | RH7-SH2-LQRD - Interface Safemed #3 - CUST - FR/AL | 2024.12.12     |                |
-| DPLK907470 | RH7-SH2-LQRD - Interface Safemed #4 - CUST - FR/AL | 2024.12.12     |                |
-| DPLK907472 | RH7-SH2-LQRD - Interface Safemed #5 - CUST - FR/AL | 2024.12.12     |                |
-| DPLK907479 | RH7-SH2-LQRD - Interface Safemed #6 - FR/AL        | 2024.12.17     |                |
-| DPLK907483 | RH7-SH2-LQRD - Interface Safemed #6 - CUST - FR/AL | 2024.12.17     |                |
-| DPLK907492 | RH7-SH2-LQRD - Interface Safemed #7 - FR/AL        |                |                |
+| DPLK907115 | RH7-SH2-LQRD - Interface Safemed #1 - FR/AL        | 2024.12.04     | 2025.02.03     |
+| DPLK907390 | RH7-SH2-LQRD - Interface Safemed #1 - CUST - FR/AL | 2024.12.04     | 2025.02.03     |
+| DPLK907411 | RH7-SH2-LQRD - Interface Safemed #2 - FR/AL        | 2024.12.05     | 2025.02.03     |
+| DPLK907413 | RH7-SH2-LQRD - Interface Safemed #2 - CUST - FR/AL | 2024.12.05     | 2025.02.03     |
+| DPLK907449 | RH7-SH2-LQRD - Interface Safemed #3 - FR/AL        | 2024.12.05     | 2025.02.03     |
+| DPLK907455 | RH7-SH2-LQRD - Interface Safemed #4 - FR/AL        | 2024.12.11     | 2025.02.03     |
+| DPLK907466 | RH7-SH2-LQRD - Interface Safemed #5 - FR/AL        | 2024.12.13     | 2025.02.03     |
+| DPLK907468 | RH7-SH2-LQRD - Interface Safemed #3 - CUST - FR/AL | 2024.12.12     | 2025.02.03     |
+| DPLK907470 | RH7-SH2-LQRD - Interface Safemed #4 - CUST - FR/AL | 2024.12.12     | 2025.02.03     |
+| DPLK907472 | RH7-SH2-LQRD - Interface Safemed #5 - CUST - FR/AL | 2024.12.12     | 2025.02.03     |
+| DPLK907479 | RH7-SH2-LQRD - Interface Safemed #6 - FR/AL        | 2024.12.17     | 2025.02.03     |
+| DPLK907483 | RH7-SH2-LQRD - Interface Safemed #6 - CUST - FR/AL | 2024.12.17     | 2025.02.03     |
+| DPLK907492 | RH7-SH2-LQRD - Interface Safemed #7 - FR/AL        | 2025.02.03     | 2025.02.03     |
+| DPLK907618 | RH7-SH2-LQRD - Interface Safemed #7 - CUST - FR/AL | 2025.02.03     | 2025.02.03     |
 
+### Dados Serviço
 
-URL ambiente testes: https://safemed.pt:2087/ipl_qld
+#### Produção
+URL serviço: https://safemed.pt:2087/iplisboa
+WSDL: https://safemed.pt:2087/iplisboa/SyncERP.asmx?wsdl
+
+Username: sap
+Password: tOqXO73x9HeRg5w
+
+---
+#### Testes
+URL serviço: https://safemed.pt:2087/ipl_qld
 WSDL: https://safemed.pt:2087/ipl_qld/SyncERP.asmx?wsdl
-WSDL: https://safemed.pt/iplisboa/syncERP.asmx?wsdl
 
 Username: sap
 Password: 6Y02DL1Iq85v
 
-### Passos Safemed
+---
+### Tarefas
 
 1.  Enviar dados para SAFEMED
     1.  Criar tabelas de log
@@ -48,7 +59,7 @@ Password: 6Y02DL1Iq85v
 2.  Criar API para os serviços de informática usarem
 
 
-### Tabelas parametrização
+### Tabelas parametrização SAP
 
 - Dados webservice (user, password, NIF, clientName) - ZSMED_API_DATA
 - Dados das empresas (clientName, NIF) - ZSMED_EMPRESAS

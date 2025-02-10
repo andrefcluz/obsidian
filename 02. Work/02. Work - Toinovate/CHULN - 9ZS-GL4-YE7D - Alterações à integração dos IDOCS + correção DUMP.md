@@ -1,3 +1,7 @@
+---
+tags:
+  - chuln
+---
 DUMP: 
 ![[CHULN - YJN-J71-B4XX- Alterações à integração dos IDOCS + correção DUMP-20241119160610436.png]]
 

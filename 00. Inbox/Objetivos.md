@@ -1,0 +1,2 @@
+- Tenho sucesso financeiro
+- Sou uma pessoa saudável e ativa

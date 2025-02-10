@@ -1,3 +1,7 @@
+---
+tags:
+  - tools
+---
 No Windows Powershell executar o seguinte comando:
 
 ```

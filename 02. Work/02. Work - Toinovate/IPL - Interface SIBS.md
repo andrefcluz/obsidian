@@ -4,7 +4,7 @@ updated: 2024-07-22 10:30:22Z
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:
-  - ipl
+  - ipl/sibs
 ---
 
 ### Transportes
@@ -46,6 +46,8 @@ tags:
 | DPLK907131 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #1 - AL   | 18.07.2024 | 18.07.2024 |
 | DPLK907135 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #2 - AL   | 22.07.2024 | 22.07.2024 |
 | DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1  |            |            |
+| DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31 |            |            |
+|            |                                                            |            |            |
 
 * * *
 
