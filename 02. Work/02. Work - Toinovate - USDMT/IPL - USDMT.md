@@ -114,5 +114,9 @@ share_updated: 2024-09-17T10:24:23+01:00
 | DPLK907464 | USDMT - Correções e ajustes #44 - DFC            | 2024.12.11   | 2024.12.11   |
 | DPLK907518 | USDMT - Correções e ajustes #45                  | 2025.01.13   | 2025.01.13   |
 | DPLK907528 | USDMT - Correções e ajustes #46 - DFC            | 2025.01.13   | 2025.01.13   |
-| DPLK907560 | USDMT - Correções e ajustes #47                  |              |              |
+| DPLK907560 | USDMT - Correções e ajustes #47                  | 2025.02.24   | 2025.02.24   |
+| DPLK907646 | USDMT - Correções e ajustes #48                  | 2025.02.24   | 2025.02.24   |
+| DPLK907648 | USDMT - Correções e ajustes #49                  | 2025.02.24   | 2025.02.24   |
+| DPLK907650 | USDMT - Correções e ajustes #50                  | 2025.03.24   | 2025.03.24   |
+| DPLK907750 | USDMT - Correções e ajustes #51                  |              |              |
 

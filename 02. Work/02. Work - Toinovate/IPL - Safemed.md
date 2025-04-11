@@ -26,6 +26,7 @@ tags:
 | DPLK907483 | RH7-SH2-LQRD - Interface Safemed #6 - CUST - FR/AL | 2024.12.17     | 2025.02.03     |
 | DPLK907492 | RH7-SH2-LQRD - Interface Safemed #7 - FR/AL        | 2025.02.03     | 2025.02.03     |
 | DPLK907618 | RH7-SH2-LQRD - Interface Safemed #7 - CUST - FR/AL | 2025.02.03     | 2025.02.03     |
+| DPLK907638 | RH7-SH2-LQRD - Interface Safemed #8 - AL           | 2025.02.24     | 2025.02.24     |
 
 ### Dados Serviço
 

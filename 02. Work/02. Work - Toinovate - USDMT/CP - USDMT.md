@@ -45,3 +45,8 @@ tags:
 | CPQK948209 | USDMT - Customizing ABAP #7                        | 2024.10.22   |
 | CPQK948328 | USDMT - Correções e ajustes #16                    | 2025.02.04   |
 | CPQK948881 | USDMT - Customizing ABAP #8                        | 2025.02.06   |
+| CPQK948919 | USDMT - Correções e ajustes #17                    | 2025.02.13   |
+| CPQK948974 | USDMT - Correções e ajustes #18                    | 2025.02.14   |
+| CPQK948982 | USDMT - Correções e ajustes #19                    | 2025.02.17   |
+| CPQK948994 | USDMT - Correções e ajustes #20                    | 2025.02.21   |
+| CPQK949013 | USDMT - Correções e ajustes #21                    |              |

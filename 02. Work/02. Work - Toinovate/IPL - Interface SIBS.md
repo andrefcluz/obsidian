@@ -9,9 +9,8 @@ tags:
 
 ### Transportes
 
-|            |                                                            |            |            |
-| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
 | OT         | Descrição                                                  | QLD        | PRD        |
+| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
 | DPLK904872 | TOIN: Integração SIBS - Geração Referencias Multibanco     | 26/05/2021 | 18/11/2022 |
 | DPLK905043 | TOIN: Integração SIBS - Geração Referencias Multibanco #2  | 03/02/2022 | 18/11/2022 |
 | DPLK905508 | TOIN: Integração SIBS - Siubstituição meio pagamento       | 03/02/2022 | 18/11/2022 |
@@ -46,8 +45,7 @@ tags:
 | DPLK907131 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #1 - AL   | 18.07.2024 | 18.07.2024 |
 | DPLK907135 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #2 - AL   | 22.07.2024 | 22.07.2024 |
 | DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1  |            |            |
-| DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31 |            |            |
-|            |                                                            |            |            |
+| DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31 | 2025.02.24 | 2025.02.24 |
 
 * * *
 
@@ -80,11 +78,11 @@ Dados comerciante
 
 Dados de acesso ao backoffice
 
-|     |     |     |
-| --- | --- | --- |
-| URL | [*https://onlinepayments.pt/bip/login?merchant_name=00366940010SAS+IPL*](https://onlinepayments.pt/bip/login?merchant_name=00366940010SAS+IPL) | URL   de acesso ao BO |
-| User | [*fcarmo@sas.ipl.pt*](mailto:fcarmo@sas.ipl.pt) | Username   de acesso ao BO |
-| Chave Webhooks | ~~7E40E33448485F3631BB121177E78AD0AAAA3B52D58D3560B8DA1393512BD0D9~~  <br>7C9EF259E46BC94BB2243F325B98E224AF3E37635B5A580C09A6BFE6DB087E08 |     |
+|                |                                                                                                                                              |                            |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| URL            | [https://onlinepayments.pt/bip/login?merchant_name=00366940010SAS+IPL](https://onlinepayments.pt/bip/login?merchant_name=00366940010SAS+IPL) | URL   de acesso ao BO      |
+| User           | [fcarmo@sas.ipl.pt](mailto:fcarmo@sas.ipl.pt)                                                                                                | Username   de acesso ao BO |
+| Chave Webhooks | ~~7E40E33448485F3631BB121177E78AD0AAAA3B52D58D3560B8DA1393512BD0D9~~  <br>7C9EF259E46BC94BB2243F325B98E224AF3E37635B5A580C09A6BFE6DB087E08   |                            |
 
 Entidades
 
@@ -112,22 +110,22 @@ Criar ligação na SM59 em PRD para QLD com o nome SIBS_REMOTE
 
 Dados comerciante
 
-|     |     |     |
-| --- | --- | --- |
-| Comerciante |     | Nº   de comerciante no sistema SIBS |
-| userID |     | token representativo do comerciante |
-| entityID | 8ac7a4c876650154017666c9dd9706d3 | token representativo do terminal |
-| ACCESS TOKEN /Bearer | OGE4Mjk0MTg1YjY3NDU1NTAxNWI3YzE5MjhlODE3MzZ8UnI0N2VRZXNkVw== | token representativo do terminal |
-| URL | https://eu-test.oppwa.com/v1/payments | URL webservice |
+|                      |                                                              |                                     |
+| -------------------- | ------------------------------------------------------------ | ----------------------------------- |
+| Comerciante          |                                                              | Nº   de comerciante no sistema SIBS |
+| userID               |                                                              | token representativo do comerciante |
+| entityID             | 8ac7a4c876650154017666c9dd9706d3                             | token representativo do terminal    |
+| ACCESS TOKEN /Bearer | OGE4Mjk0MTg1YjY3NDU1NTAxNWI3YzE5MjhlODE3MzZ8UnI0N2VRZXNkVw== | token representativo do terminal    |
+| URL                  | https://eu-test.oppwa.com/v1/payments                        | URL webservice                      |
 
 Dados de acesso ao backoffice
 
-|     |     |     |
-| --- | --- | --- |
-| URL | [*https://test.onlinepayments.pt/bip/login*](https://test.onlinepayments.pt/bip/login) | URL   de acesso ao BO |
-| User | *andre.luz@toinovate.com* | Username   de acesso ao BO |
-| Password | andre.luz | Password de acesso ao BO |
-| Chave Webhooks |     |     |
+|                |                                                                                      |                            |
+| -------------- | ------------------------------------------------------------------------------------ | -------------------------- |
+| URL            | [https://test.onlinepayments.pt/bip/login](https://test.onlinepayments.pt/bip/login) | URL   de acesso ao BO      |
+| User           | andre.luz@toinovate.com                                                              | Username   de acesso ao BO |
+| Password       | andre.luz                                                                            | Password de acesso ao BO   |
+| Chave Webhooks |                                                                                      |                            |
 
 * * *
 
@@ -181,14 +179,14 @@ qas.erp.sap.app.ipl.pt   10.3.130.103
 
 https://portal.ipl.pt/ws/sibs-dev/sap/bc/srt/wsdl/flv_10002A111AD1/bndg_url/sap/bc/srt/rfc/sap/zfi_sibs_web_service_webhooks/100/zfi_sibs_web_service_webhooks/zfi_sibs_web_service_webhooks?sap-client=100
 
-[*https://portal.ipl.pt/ws/sibs-qe*](https://portal.ipl.pt/ws/sibs-qes/)*s*[/sap/bc/srt/wsdl/flv_10002A111AD1/bndg_url/sap/bc/srt/rfc/sap/zfi_sibs_web_service_webhooks/100/zfi_sibs_web_service_webhooks/zfi_sibs_web_service_webhooks?sap-client=100](http://saperpqas.ipl.pt:8000/sap/bc/srt/wsdl/flv_10002A111AD1/bndg_url/sap/bc/srt/rfc/sap/zfi_sibs_web_service_webhooks/100/zfi_sibs_web_service_webhooks/zfi_sibs_web_service_webhooks?sap-client=100)
+[*https://portal.ipl.pt/ws/sibs-qes*](https://portal.ipl.pt/ws/sibs-qes/)[/sap/bc/srt/wsdl/flv_10002A111AD1/bndg_url/sap/bc/srt/rfc/sap/zfi_sibs_web_service_webhooks/100/zfi_sibs_web_service_webhooks/zfi_sibs_web_service_webhooks?sap-client=100](http://saperpqas.ipl.pt:8000/sap/bc/srt/wsdl/flv_10002A111AD1/bndg_url/sap/bc/srt/rfc/sap/zfi_sibs_web_service_webhooks/100/zfi_sibs_web_service_webhooks/zfi_sibs_web_service_webhooks?sap-client=100)
 
 * * *
 
 FT: 4060000000 / 2021  
 NC: 4050000000 / 2021
 
-![image.png](image-98.png)
+![image.png|700](image-98.png)
 
 * * *
 
@@ -265,3 +263,27 @@ Após validação, informaremos que será dado seguimento ao pedido de envio das
 Qualquer dúvida ou esclarecimento adicional, não hesitem em entrar em contacto connosco. A caixa preferencial para apoio é: [onboarding@sibs.pt](mailto:onboarding@sibs.pt) (em CC).
 
 Muito Obrigada/Kind Regards,
+
+
+
+## Execução remota do serviço em QLD
+
+Tcode: SM59
+
+![[IPL - Interface SIBS-20250211093900213.png]]
+
+![[IPL - Interface SIBS-20250211093935187.png]]
+
+![[IPL - Interface SIBS-20250211094049889.png]]
+
+
+## Webhook
+
+Tcode: SICF
+
+![[IPL - Interface SIBS-20250211094146413.png]]
+
+![[IPL - Interface SIBS-20250211094156611.png]]
+
+![[IPL - Interface SIBS-20250211094212817.png]]
+

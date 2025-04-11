@@ -1,0 +1,19 @@
+- Segunda
+	- Bochechas
+	- Salada
+- Terça
+	- Douradinhos
+	- Sopa + Ovos
+- Quarta
+	- Douradinhos
+	- Sopa + Ovos
+- Quinta
+	- Hamburgers
+	- Sopa + Ovos
+- Sexta
+	- Frango + Arroz Basmati + Legumes Soja
+	- Sopa + Ovos
+- Sabado
+	- Frango + Arroz Basmati + Legumes Soja
+	- Sopa + Ovos
+- Domingo
