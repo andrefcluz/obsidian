@@ -1,6 +1,6 @@
 ---
 title: MF parciais
-updated: 2021-11-10 09:06:39Z
+updated: 2024-10-06 10:50
 created: 2018-03-05 17:22:15Z
 author: André Luz
 tags:

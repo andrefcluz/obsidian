@@ -1,9 +1,8 @@
 ---
 title: Servidores Holanda - PureVPN
-updated: 2021-05-22 18:20:56Z
+updated: 2024-10-06 10:50
 created: 2018-04-11 19:08:14Z
-source: >-
-  https://secure.livechatinc.com/licence/4454601/open_chat.cgi?groups=1&embedded=1&newWebserv=undefined&__lc_vv=2&session_id=S1523472880.6cdba3864a&server=secure.livechatinc.com#https://support.purevpn.com/vpn-servers
+source: https://secure.livechatinc.com/licence/4454601/open_chat.cgi?groups=1&embedded=1&newWebserv=undefined&__lc_vv=2&session_id=S1523472880.6cdba3864a&server=secure.livechatinc.com#https://support.purevpn.com/vpn-servers
 author: André Luz
 tags:
   - trading_tools

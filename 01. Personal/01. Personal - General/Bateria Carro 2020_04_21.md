@@ -1,6 +1,6 @@
 ---
 title: Bateria Carro 2020_04_21
-updated: 2020-04-24 16:32:59Z
+updated: 2024-10-06 10:51
 created: 2020-04-24 16:31:38Z
 author: André Luz
 tags:

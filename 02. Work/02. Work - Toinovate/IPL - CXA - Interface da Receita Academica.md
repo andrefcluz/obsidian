@@ -1,6 +1,6 @@
 ---
 title: Interface da Receita Academica
-updated: 2021-11-10 09:06:51Z
+updated: 2024-10-28 12:27
 created: 2018-09-10 10:17:30Z
 source: https://webmail.smartcloud.pt/owa/
 tags:

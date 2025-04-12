@@ -1,6 +1,6 @@
 ---
 title: CHULN - IDoc fica sempre com o mesma localização (GLN)
-updated: 2023-02-04 09:17:40Z
+updated: 2024-10-06 10:51
 created: 2023-01-24 16:50:42Z
 author: André Luz
 tags:

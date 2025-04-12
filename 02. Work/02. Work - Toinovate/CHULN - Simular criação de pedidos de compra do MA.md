@@ -1,6 +1,6 @@
 ---
 title: CHULN - Simular criação de pedidos de compra do MAXIMO
-updated: 2023-02-01 11:09:47Z
+updated: 2024-10-06 10:51
 created: 2022-07-20 09:16:47Z
 author: André Luz
 tags:

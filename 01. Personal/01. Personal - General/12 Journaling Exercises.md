@@ -1,6 +1,6 @@
 ---
 title: 12 Journaling Exercises
-updated: 2023-01-07 15:21:29Z
+updated: 2024-10-06 10:51
 created: 2022-11-06 07:39:04Z
 author: André Luz
 tags:

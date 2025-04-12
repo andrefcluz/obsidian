@@ -1,6 +1,6 @@
 ---
 title: Calcular Heart Rate Zones
-updated: 2020-08-03 18:13:18Z
+updated: 2024-10-06 10:51
 created: 2020-08-03 18:11:13Z
 author: André Luz
 tags:

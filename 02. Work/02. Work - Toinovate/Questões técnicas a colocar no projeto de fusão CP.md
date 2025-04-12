@@ -1,6 +1,6 @@
 ---
 title: Questões técnicas a colocar no projeto de fusão CP/EMEF
-updated: 2021-11-10 09:06:47Z
+updated: 2024-10-06 10:50
 created: 2019-10-09 09:21:12Z
 author: André Luz
 tags:

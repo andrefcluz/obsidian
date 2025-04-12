@@ -1,6 +1,6 @@
 ---
 title: Monthly Betting Plan - With Debt
-updated: 2021-11-01 13:59:06Z
+updated: 2024-10-06 10:50
 created: 2021-01-09 08:39:52Z
 author: André Luz
 tags:

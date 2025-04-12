@@ -1,6 +1,6 @@
 ---
 title: Plano alimentar 29.05.2020
-updated: 2020-06-30 18:50:56Z
+updated: 2024-10-06 10:51
 created: 2020-05-29 18:05:59Z
 tags:
   - eating_plan

@@ -1,6 +1,8 @@
 ---
 tags:
   - cp
+created: 2025-02-25 08:29
+updated: 2025-02-25 08:29
 ---
 OT Original: 
 CPQK946817       ALUZ         #8430 - Derivação CF requisições #1

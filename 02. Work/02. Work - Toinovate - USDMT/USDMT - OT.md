@@ -2,6 +2,8 @@
 tags:
   - ip
   - usdmt
+created: 2025-01-16 09:52
+updated: 2025-02-10 08:48
 ---
 - Criar estrutura para a ALV do relatório com os seguintes campos (/USDMT/ST_OT_FI_ORC)
 	- Empresa

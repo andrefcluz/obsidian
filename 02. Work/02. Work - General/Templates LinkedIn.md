@@ -1,6 +1,6 @@
 ---
 title: Templates LinkedIn
-updated: 2021-05-22 17:46:12Z
+updated: 2024-10-06 10:51
 created: 2018-05-31 17:55:14Z
 author: André Luz
 tags:

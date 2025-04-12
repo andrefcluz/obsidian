@@ -1,6 +1,6 @@
 ---
 title: CHULN - MIRO - Preencher compromisso e chave orçamental nas linha de IVA
-updated: 2024-01-12 16:14:11Z
+updated: 2024-10-06 10:51
 created: 2023-03-12 12:03:31Z
 author: André Luz
 tags:

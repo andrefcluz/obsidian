@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 07 - Descidas de mercado em jogos equilibrados
-updated: 2017-10-17 13:15:47Z
+updated: 2024-10-06 10:50
 created: 2017-10-17 12:25:05Z
 author: André Luz
 tags:

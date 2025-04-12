@@ -1,6 +1,6 @@
 ---
 title: Licenças Windows
-updated: 2021-05-22 17:58:32Z
+updated: 2024-10-06 10:51
 created: 2015-11-27 14:28:34Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Acessos ISCTE
-updated: 2021-11-10 09:06:51Z
+updated: 2024-10-06 10:51
 created: 2019-07-03 15:27:32Z
 author: André Luz
 tags:

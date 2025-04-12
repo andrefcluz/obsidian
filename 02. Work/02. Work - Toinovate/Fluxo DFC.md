@@ -1,6 +1,6 @@
 ---
 title: Fluxo DFC
-updated: 2021-11-10 09:06:51Z
+updated: 2024-10-06 10:50
 created: 2020-11-17 11:10:22Z
 author: André Luz
 tags:

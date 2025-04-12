@@ -1,6 +1,6 @@
 ---
 title: IPL - Fatura Eletronica
-updated: 2023-04-13 07:27:45Z
+updated: 2024-10-06 10:50
 created: 2022-01-04 12:30:06Z
 author: André Luz
 tags:

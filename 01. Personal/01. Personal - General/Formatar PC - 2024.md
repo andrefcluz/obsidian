@@ -1,6 +1,6 @@
 ---
 title: Formatar PC - 2024
-updated: 2024-02-04 17:43:33Z
+updated: 2024-10-06 10:51
 created: 2023-07-17 09:10:47Z
 author: André Luz
 tags:

@@ -1,8 +1,6 @@
 ---
-title: >-
-  CHULN - 29415 - Pedidos de Compra - enviar mail com as quantidades a
-  fornecedor
-updated: 2022-08-31 16:07:27Z
+title: CHULN - 29415 - Pedidos de Compra - enviar mail com as quantidades a fornecedor
+updated: 2024-10-06 10:51
 created: 2022-07-15 09:55:29Z
 author: André Luz
 tags:

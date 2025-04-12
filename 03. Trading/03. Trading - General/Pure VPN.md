@@ -1,6 +1,6 @@
 ---
 title: Pure VPN
-updated: 2021-05-22 18:19:04Z
+updated: 2024-10-06 10:50
 created: 2017-06-28 17:31:50Z
 source: https://support.purevpn.com/vpn-servers
 author: André Luz

@@ -1,6 +1,6 @@
 ---
 title: CHULN - Acessos
-updated: 2022-08-30 10:07:51Z
+updated: 2024-10-06 10:51
 created: 2021-03-08 10:42:44Z
 author: André Luz
 tags:

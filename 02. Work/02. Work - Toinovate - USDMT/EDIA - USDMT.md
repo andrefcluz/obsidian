@@ -1,6 +1,6 @@
 ---
 title: EDIA - USDMT
-updated: 2024-05-13 09:05:37Z
+updated: 2025-02-19 12:02
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Webservice Unileo - Configuração SOAMANAGER
-updated: 2021-11-10 09:06:40Z
+updated: 2024-10-06 10:50
 created: 2018-03-02 10:56:16Z
-source: >-
-  http://uii171-vip.topo.mfap:8000/sap/bc/webdynpro/sap/appl_soap_management?sap-language=PT
+source: http://uii171-vip.topo.mfap:8000/sap/bc/webdynpro/sap/appl_soap_management?sap-language=PT
 author: André Luz
 tags:
   - espap

@@ -1,6 +1,6 @@
 ---
 title: Configurar MiniPC para executar bot TrickyTips
-updated: 2021-07-24 14:59:48Z
+updated: 2024-10-06 10:51
 created: 2021-07-24 14:54:52Z
 author: André Luz
 tags:

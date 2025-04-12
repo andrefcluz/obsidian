@@ -1,6 +1,6 @@
 ---
 title: Home Workouts
-updated: 2021-05-22 18:06:46Z
+updated: 2024-10-06 10:51
 created: 2021-04-05 05:37:59Z
 author: André Luz
 tags:

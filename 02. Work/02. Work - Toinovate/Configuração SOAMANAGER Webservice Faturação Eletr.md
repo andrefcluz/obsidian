@@ -1,6 +1,6 @@
 ---
 title: Configuração SOAMANAGER Webservice Faturação Eletrónica
-updated: 2021-11-10 09:03:34Z
+updated: 2024-10-06 10:51
 created: 2019-07-23 09:15:40Z
 author: André Luz
 tags:

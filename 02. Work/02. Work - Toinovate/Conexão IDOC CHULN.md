@@ -1,6 +1,6 @@
 ---
 title: Conexão IDOC CHULN
-updated: 2021-11-10 09:06:54Z
+updated: 2024-10-06 10:51
 created: 2021-03-26 15:20:11Z
 author: André Luz
 tags:

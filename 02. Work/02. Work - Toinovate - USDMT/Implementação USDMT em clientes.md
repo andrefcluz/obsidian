@@ -1,6 +1,6 @@
 ---
 title: Implementação USDMT em clientes
-updated: 2023-06-14 10:49:26Z
+updated: 2025-03-06 11:56
 created: 2022-03-16 09:55:05Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Monthly Betting Plan
-updated: 2021-08-26 08:37:29Z
+updated: 2024-10-06 10:50
 created: 2021-01-09 08:39:52Z
 author: André Luz
 tags:

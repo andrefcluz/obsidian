@@ -1,6 +1,6 @@
 ---
 title: Modula - Inventário
-updated: 2024-07-22 15:02:13Z
+updated: 2025-02-11 21:08
 created: 2024-07-09 14:16:30Z
 latitude: 41.1579438
 longitude: -8.6291053

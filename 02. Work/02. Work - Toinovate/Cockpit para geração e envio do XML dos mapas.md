@@ -1,6 +1,6 @@
 ---
 title: Cockpit para geração e envio do XML dos mapas
-updated: 2023-02-04 09:18:29Z
+updated: 2024-10-06 10:51
 created: 2023-01-21 15:31:13Z
 author: André Luz
 tags:

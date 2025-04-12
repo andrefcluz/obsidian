@@ -1,10 +1,10 @@
 ---
 title: CHULN - Transações IDOCs
-updated: 2024-08-06 16:24:36Z
+updated: 2024-10-06 10:51
 created: 2023-11-21 16:00:33Z
-latitude: 41.15794380
-longitude: -8.62910530
-altitude: 0.0000
+latitude: 41.1579438
+longitude: -8.6291053
+altitude: 0
 tags:
   - chuln
   - idoc

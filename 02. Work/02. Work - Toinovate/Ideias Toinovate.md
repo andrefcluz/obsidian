@@ -1,6 +1,6 @@
 ---
 title: Ideias Toinovate
-updated: 2021-05-22 18:04:26Z
+updated: 2024-10-06 10:50
 created: 2019-09-05 15:53:15Z
 source: https://todoist.com/app#task%2F3210636487
 author: André Luz

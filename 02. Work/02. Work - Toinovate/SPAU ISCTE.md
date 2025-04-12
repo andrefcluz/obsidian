@@ -1,6 +1,6 @@
 ---
 title: SPAU ISCTE
-updated: 2021-11-10 09:06:46Z
+updated: 2024-10-06 10:50
 created: 2019-07-11 16:53:14Z
 author: André Luz
 tags:

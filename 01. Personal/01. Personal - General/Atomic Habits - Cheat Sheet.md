@@ -1,6 +1,6 @@
 ---
 title: Atomic Habits - Cheat Sheet
-updated: 2023-01-10 09:12:52Z
+updated: 2024-10-06 10:51
 created: 2023-01-10 09:05:37Z
 author: André Luz
 tags:

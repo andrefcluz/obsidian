@@ -1,6 +1,6 @@
 ---
 title: Diário Alimentar 22/07 - 26/07
-updated: 2024-07-29 09:29:46Z
+updated: 2024-10-06 10:51
 created: 2024-07-22 08:38:00Z
 latitude: 38.7222524
 longitude: -9.1393366

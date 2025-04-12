@@ -1,6 +1,6 @@
 ---
 title: DisplayFusion Triggers
-updated: 2021-12-16 19:51:20Z
+updated: 2024-10-06 10:51
 created: 2021-12-10 20:23:37Z
 author: André Luz
 tags:

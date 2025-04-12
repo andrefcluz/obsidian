@@ -1,6 +1,6 @@
 ---
 title: Receitas Saudáveis, Baratas e Rápidas
-updated: 2024-08-02 20:04:59Z
+updated: 2024-10-06 10:51
 created: 2024-07-17 13:17:29Z
 latitude: 38.7222524
 longitude: -9.1393366

@@ -1,6 +1,6 @@
 ---
 title: Curso de Finanças Pessoais Intensivo - 05.06.2018
-updated: 2021-05-22 18:13:18Z
+updated: 2024-10-06 10:51
 created: 2018-06-08 17:39:45Z
 tags:
   - courses

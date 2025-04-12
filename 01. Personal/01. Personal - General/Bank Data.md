@@ -1,10 +1,10 @@
 ---
 title: Bank Data
-updated: 2023-06-01 06:22:27Z
+updated: 2024-10-06 10:51
 created: 2020-12-11 22:28:52Z
-latitude: 38.79480000
-longitude: -9.11337000
-altitude: 83.5000
+latitude: 38.7948
+longitude: -9.11337
+altitude: 83.5
 tags:
   - _fav
   - finance

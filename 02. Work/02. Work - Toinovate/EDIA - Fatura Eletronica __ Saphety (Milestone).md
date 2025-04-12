@@ -1,6 +1,6 @@
 ---
 title: EDIA - Fatura Eletronica <> Saphety (Milestone)
-updated: 2022-03-16 16:10:36Z
+updated: 2024-10-06 10:51
 created: 2021-09-27 09:36:03Z
 author: André Luz
 tags:

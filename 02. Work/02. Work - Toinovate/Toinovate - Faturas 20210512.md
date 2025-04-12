@@ -1,6 +1,6 @@
 ---
 title: Toinovate - Faturas 20210512
-updated: 2021-05-22 18:15:28Z
+updated: 2024-10-06 10:50
 created: 2021-05-15 15:59:45Z
 author: André Luz
 tags:

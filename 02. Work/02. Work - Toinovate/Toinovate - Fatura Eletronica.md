@@ -1,6 +1,6 @@
 ---
 title: Toinovate - Fatura Eletronica
-updated: 2021-11-10 09:04:33Z
+updated: 2024-10-06 10:50
 created: 2021-07-20 13:30:50Z
 author: André Luz
 tags:

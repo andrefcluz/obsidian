@@ -1,10 +1,10 @@
 ---
 title: Lista Anime/Manga
-updated: 2024-07-07 07:34:53Z
+updated: 2024-10-06 10:51
 created: 2024-06-30 15:18:08Z
-latitude: 39.33844170
-longitude: -8.94270760
-altitude: 0.0000
+latitude: 39.3384417
+longitude: -8.9427076
+altitude: 0
 ---
 
 - Neon Genesis Evangelion

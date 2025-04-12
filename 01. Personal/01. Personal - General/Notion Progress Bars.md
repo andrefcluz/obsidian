@@ -1,6 +1,6 @@
 ---
 title: Notion Progress Bars
-updated: 2022-01-11 15:25:36Z
+updated: 2024-10-06 10:51
 created: 2022-01-04 07:56:05Z
 author: André Luz
 tags:

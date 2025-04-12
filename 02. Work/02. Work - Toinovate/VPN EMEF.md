@@ -1,6 +1,6 @@
 ---
 title: VPN EMEF
-updated: 2021-11-10 09:06:48Z
+updated: 2024-10-06 10:50
 created: 2020-03-16 15:44:00Z
 author: André Luz
 tags:

@@ -1,9 +1,8 @@
 ---
 title: Mapas Imobilizado
-updated: 2021-11-10 09:06:40Z
+updated: 2024-10-06 10:50
 created: 2018-03-15 09:46:01Z
-source: >-
-  file:///C:\Users\André%20Luz\Google%20Drive\02.Work\ToInovate\Clientes\eSPap\Gerfip%203.1\Mapas\Imobilizado\AI\%5bDSI_CC%5dDEV_R_AA-Quadros_AI_V1.0.docx
+source: file:///C:\Users\André%20Luz\Google%20Drive\02.Work\ToInovate\Clientes\eSPap\Gerfip%203.1\Mapas\Imobilizado\AI\%5bDSI_CC%5dDEV_R_AA-Quadros_AI_V1.0.docx
 author: André Luz
 tags:
   - espap

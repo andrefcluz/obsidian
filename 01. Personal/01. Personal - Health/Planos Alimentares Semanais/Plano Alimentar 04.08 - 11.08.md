@@ -1,6 +1,6 @@
 ---
 title: Plano Alimentar 04/08 - 11/08
-updated: 2024-08-10 11:18:33Z
+updated: 2024-10-06 10:51
 created: 2024-08-02 19:17:59Z
 latitude: 38.7222524
 longitude: -9.1393366

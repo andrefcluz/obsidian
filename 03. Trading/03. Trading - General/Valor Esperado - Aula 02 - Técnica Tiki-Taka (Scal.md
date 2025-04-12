@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 02 - Técnica Tiki-Taka (Scalping)
-updated: 2017-10-10 13:40:30Z
+updated: 2024-10-06 10:50
 created: 2017-10-09 13:12:39Z
 author: André Luz
 tags:

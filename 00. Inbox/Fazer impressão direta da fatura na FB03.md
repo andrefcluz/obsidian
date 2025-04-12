@@ -1,6 +1,8 @@
 ---
 tags:
   - toinovate_proj_internos
+created: 2024-11-12 16:16
+updated: 2025-02-16 19:07
 ---
 Cliente: ISQ
 

@@ -1,6 +1,6 @@
 ---
 title: Windows Shortcuts
-updated: 2022-03-19 11:36:51Z
+updated: 2024-10-06 10:51
 created: 2022-03-15 12:30:43Z
 author: André Luz
 tags:

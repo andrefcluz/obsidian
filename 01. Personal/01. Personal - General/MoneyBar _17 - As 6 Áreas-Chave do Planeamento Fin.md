@@ -1,8 +1,6 @@
 ---
-title: >-
-  MoneyBar #17 - As 6 Áreas-Chave do Planeamento Financeiro [Como Gerir as
-  Finanças Pessoais a 360°]
-updated: 2021-05-22 18:12:58Z
+title: "MoneyBar #17 - As 6 Áreas-Chave do Planeamento Financeiro [Como Gerir as Finanças Pessoais a 360°]"
+updated: 2024-10-06 10:51
 created: 2021-01-16 16:29:42Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 05 - Súbidas de Preço na 2ª Parte
-updated: 2017-10-17 13:55:20Z
+updated: 2024-10-06 10:50
 created: 2017-10-17 09:39:35Z
 author: André Luz
 tags:

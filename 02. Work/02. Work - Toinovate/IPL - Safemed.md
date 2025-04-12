@@ -1,6 +1,6 @@
 ---
 title: IPL - Safemed
-updated: 2024-08-06 17:15:15Z
+updated: 2025-02-24 12:17
 created: 2024-05-08 09:23:23Z
 latitude: 38.7222524
 longitude: -9.1393366

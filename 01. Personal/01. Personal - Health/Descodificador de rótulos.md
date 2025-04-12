@@ -1,6 +1,6 @@
 ---
 title: Descodificador de rótulos
-updated: 2019-03-01 09:14:31Z
+updated: 2024-10-06 10:51
 created: 2019-03-01 09:06:46Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Weekly Trading Plan
-updated: 2021-05-22 18:22:20Z
+updated: 2024-10-06 10:50
 created: 2020-07-26 00:07:47Z
 tags:
   - trading_tools

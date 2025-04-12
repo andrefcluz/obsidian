@@ -1,6 +1,6 @@
 ---
 title: Digital Declutter
-updated: 2023-09-10 20:21:45Z
+updated: 2024-10-06 10:51
 created: 2023-08-08 21:03:56Z
 author: André Luz
 tags:

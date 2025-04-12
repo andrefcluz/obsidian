@@ -1,6 +1,6 @@
 ---
 title: HFF - USDMT
-updated: 2024-04-15 15:13:33Z
+updated: 2024-11-14 12:30
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:

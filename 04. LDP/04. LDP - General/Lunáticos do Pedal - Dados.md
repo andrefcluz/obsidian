@@ -1,10 +1,10 @@
 ---
 title: Lunáticos do Pedal - Dados
-updated: 2017-09-06 15:19:13Z
+updated: 2024-10-06 10:50
 created: 2014-08-21 12:55:36Z
-latitude: 37.69560000
-longitude: -7.96572000
-altitude: 0.0000
+latitude: 37.6956
+longitude: -7.96572
+altitude: 0
 tags:
   - data
 ---

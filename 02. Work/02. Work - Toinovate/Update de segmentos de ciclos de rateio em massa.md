@@ -1,6 +1,6 @@
 ---
 title: Update de segmentos de ciclos de rateio em massa
-updated: 2021-07-24 14:20:34Z
+updated: 2024-10-06 10:50
 created: 2021-06-25 13:21:10Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Manual SoundPeats TrueAir2
-updated: 2022-07-30 17:21:00Z
+updated: 2024-10-06 10:51
 created: 2022-07-30 16:57:01Z
 author: André Luz
 tags:

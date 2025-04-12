@@ -1,6 +1,6 @@
 ---
 title: 12 Journaling Exercises - Template
-updated: 2022-11-06 19:13:21Z
+updated: 2024-10-06 10:51
 created: 2022-11-06 07:39:04Z
 author: André Luz
 tags:

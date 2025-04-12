@@ -1,9 +1,9 @@
 ---
 title: Declaração amigável 18/01/2020
-updated: 2020-03-20 18:41:06Z
+updated: 2024-10-06 10:51
 created: 2020-01-19 11:56:23Z
-latitude: 38.79480000
-longitude: -9.11327000
+latitude: 38.7948
+longitude: -9.11327
 altitude: 77.7115
 tags:
   - car

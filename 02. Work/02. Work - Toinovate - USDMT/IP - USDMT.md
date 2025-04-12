@@ -1,7 +1,7 @@
 ---
 title: IP - USDMT
-updated: 2024-08-07 08:07:26Z
-created: 2024-01-02 14:10:07Z
+updated: 2025-04-12 13:21
+created: 2024-01-02 14:10
 author: André Luz
 tags:
   - usdmt

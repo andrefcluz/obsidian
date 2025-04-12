@@ -1,12 +1,12 @@
 ---
 title: Betfair trick0418
-updated: 2021-05-22 18:23:46Z
+updated: 2024-10-06 10:50
 created: 2018-03-06 19:22:05Z
 source: https://www.messenger.com/t/100013890390558
 author: André Luz
 latitude: -26.92944444
 longitude: -49.05888889
-altitude: 0.0000
+altitude: 0
 tags:
   - trading_data
 ---

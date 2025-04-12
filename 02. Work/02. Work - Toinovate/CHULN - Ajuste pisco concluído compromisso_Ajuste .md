@@ -1,6 +1,6 @@
 ---
 title: CHULN - Ajuste pisco concluído compromisso/Ajuste de valor
-updated: 2022-11-04 14:16:37Z
+updated: 2024-10-06 10:51
 created: 2022-09-08 11:17:54Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Espap - Objectos
-updated: 2021-11-10 09:06:38Z
+updated: 2024-10-06 10:50
 created: 2017-07-10 08:54:22Z
 author: André Luz
 tags:

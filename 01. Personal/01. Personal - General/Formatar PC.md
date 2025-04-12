@@ -1,6 +1,6 @@
 ---
 title: Formatar PC
-updated: 2021-12-29 09:47:15Z
+updated: 2024-10-06 10:51
 created: 2014-08-15 13:49:46Z
 author: anfil89
 tags:

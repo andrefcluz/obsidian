@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 06 - Super favorito sofre golo
-updated: 2017-10-17 11:39:49Z
+updated: 2024-10-06 10:50
 created: 2017-10-17 10:36:05Z
 author: André Luz
 tags:

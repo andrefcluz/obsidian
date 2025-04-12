@@ -1,6 +1,6 @@
 ---
 title: SMAS - Ajuste contas mapa BA
-updated: 2023-10-15 10:52:08Z
+updated: 2024-10-06 10:50
 created: 2023-09-04 14:34:49Z
 author: André Luz
 tags:

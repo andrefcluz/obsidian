@@ -1,6 +1,6 @@
 ---
 title: Reunião técnica projeto de fusão CP/EMEF - 17/10/2019
-updated: 2021-11-10 09:06:47Z
+updated: 2024-10-06 10:50
 created: 2019-10-09 09:21:12Z
 author: André Luz
 tags:

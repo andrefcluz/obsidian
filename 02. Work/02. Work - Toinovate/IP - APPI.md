@@ -1,10 +1,10 @@
 ---
 title: IP - APPI
-updated: 2023-12-28 14:17:53Z
+updated: 2024-10-06 10:50
 created: 2023-12-28 14:17:41Z
-latitude: 39.33844170
-longitude: -8.94270760
-altitude: 0.0000
+latitude: 39.3384417
+longitude: -8.9427076
+altitude: 0
 tags:
   - ip
 ---

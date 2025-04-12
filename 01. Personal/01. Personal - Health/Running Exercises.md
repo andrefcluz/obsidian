@@ -1,6 +1,6 @@
 ---
 title: Running Exercises
-updated: 2021-05-22 18:04:58Z
+updated: 2024-10-06 10:51
 created: 2019-08-09 15:32:27Z
 author: André Luz
 tags:

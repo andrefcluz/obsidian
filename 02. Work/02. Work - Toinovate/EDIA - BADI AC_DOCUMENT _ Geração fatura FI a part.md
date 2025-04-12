@@ -1,6 +1,6 @@
 ---
 title: EDIA - BADI AC_DOCUMENT / Geração fatura FI a partir do SD
-updated: 2022-07-19 09:34:19Z
+updated: 2024-10-06 10:51
 created: 2022-07-14 11:51:40Z
 author: André Luz
 tags:

@@ -5,5 +5,7 @@
   "dataview",
   "obsidian-style-settings",
   "blur",
-  "tray"
+  "templater-obsidian",
+  "update-time-on-edit",
+  "obsidian-linter"
 ]

@@ -1,6 +1,6 @@
 ---
 title: Usar Virtual Env
-updated: 2022-10-21 10:30:06Z
+updated: 2024-10-06 10:51
 created: 2022-08-09 13:25:57Z
 author: André Luz
 tags:

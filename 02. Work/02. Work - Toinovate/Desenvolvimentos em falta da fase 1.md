@@ -1,9 +1,8 @@
 ---
 title: Desenvolvimentos em falta da fase 1
-updated: 2021-11-10 09:06:49Z
+updated: 2024-10-06 10:51
 created: 2020-04-16 08:55:20Z
-source: >-
-  file:///C:/Users/andre/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/5E27B048.xlsx
+source: file:///C:/Users/andre/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/5E27B048.xlsx
 author: André Luz
 tags:
   - cp/emef

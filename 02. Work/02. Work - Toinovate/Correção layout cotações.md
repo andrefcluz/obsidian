@@ -1,6 +1,6 @@
 ---
 title: Correção layout cotações
-updated: 2021-11-10 09:06:52Z
+updated: 2024-10-06 10:51
 created: 2021-01-22 09:08:54Z
 author: André Luz
 tags:

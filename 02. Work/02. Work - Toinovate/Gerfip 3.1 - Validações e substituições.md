@@ -1,6 +1,6 @@
 ---
 title: Gerfip 3.1 - Validações e substituições
-updated: 2021-11-10 09:06:38Z
+updated: 2024-10-06 10:50
 created: 2017-09-15 07:35:26Z
 author: André Luz
 tags:

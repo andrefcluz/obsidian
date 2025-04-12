@@ -1,6 +1,6 @@
 ---
 title: IPL - Implementação ATCUD
-updated: 2022-09-28 17:12:33Z
+updated: 2024-10-06 10:50
 created: 2022-09-27 14:13:00Z
 author: André Luz
 tags:

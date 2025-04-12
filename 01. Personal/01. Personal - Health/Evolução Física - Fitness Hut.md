@@ -1,6 +1,6 @@
 ---
 title: Evolução Física - Fitness Hut
-updated: 2018-11-03 18:51:07Z
+updated: 2024-10-06 10:51
 created: 2018-02-21 09:22:41Z
 author: André Luz
 tags:

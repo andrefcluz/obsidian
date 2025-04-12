@@ -1,6 +1,6 @@
 ---
 title: Promoção Subscrição Proteste Investe
-updated: 2022-02-17 10:18:18Z
+updated: 2024-10-06 10:51
 created: 2020-06-29 12:31:46Z
 author: André Luz
 tags:

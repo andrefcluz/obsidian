@@ -1,6 +1,6 @@
 ---
 title: Formação ABAP 2023 - Exercicios
-updated: 2023-10-22 15:16:23Z
+updated: 2024-10-06 10:50
 created: 2023-09-19 03:21:19Z
 author: André Luz
 tags:

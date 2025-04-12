@@ -1,6 +1,6 @@
 ---
 title: Trading Tools
-updated: 2021-05-22 18:19:05Z
+updated: 2024-10-06 10:50
 created: 2017-09-14 19:27:46Z
 author: André Luz
 tags:

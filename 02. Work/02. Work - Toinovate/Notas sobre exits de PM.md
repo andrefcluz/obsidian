@@ -1,10 +1,10 @@
 ---
 title: Notas sobre exits de PM
-updated: 2021-11-10 09:06:48Z
+updated: 2024-10-06 10:50
 created: 2019-12-03 17:52:07Z
-latitude: 38.71380000
-longitude: -9.14186000
-altitude: 0.0000
+latitude: 38.7138
+longitude: -9.14186
+altitude: 0
 tags:
   - cp
 ---

@@ -1,6 +1,6 @@
 ---
 title: Weekly Trading Plan - With Debt
-updated: 2021-05-22 18:22:20Z
+updated: 2024-10-06 10:50
 created: 2021-01-09 08:39:52Z
 tags:
   - trading_tools

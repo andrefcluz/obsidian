@@ -1,6 +1,6 @@
 ---
 title: Trading Rules
-updated: 2021-05-22 18:23:46Z
+updated: 2024-10-06 10:50
 created: 2017-09-20 07:57:02Z
 author: André Luz
 tags:

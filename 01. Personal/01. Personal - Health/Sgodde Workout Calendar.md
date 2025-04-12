@@ -1,6 +1,6 @@
 ---
 title: Sgodde Workout Calendar
-updated: 2022-07-30 17:22:22Z
+updated: 2024-10-06 10:51
 created: 2022-07-30 15:50:09Z
 author: André Luz
 tags:

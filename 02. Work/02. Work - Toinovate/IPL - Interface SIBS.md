@@ -1,6 +1,6 @@
 ---
 title: IPL - Interface SIBS
-updated: 2024-07-22 10:30:22Z
+updated: 2025-03-12 16:04
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:

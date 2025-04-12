@@ -1,6 +1,6 @@
 ---
 title: CP - Relatório DR por funções
-updated: 2023-03-31 22:41:54Z
+updated: 2024-10-06 10:51
 created: 2023-03-06 20:13:18Z
 author: André Luz
 tags:

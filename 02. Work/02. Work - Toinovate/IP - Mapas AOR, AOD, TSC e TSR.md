@@ -1,6 +1,6 @@
 ---
 title: IP - Mapas AOR, AOD, TSC e TSR
-updated: 2023-03-19 11:19:28Z
+updated: 2024-10-06 10:50
 created: 2023-03-03 10:39:00Z
 author: André Luz
 tags:

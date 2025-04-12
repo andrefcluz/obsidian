@@ -1,10 +1,10 @@
 ---
 title: Avaliação Toinovate 2017
-updated: 2021-05-22 18:02:30Z
+updated: 2024-10-06 10:51
 created: 2018-03-21 13:14:01Z
-latitude: 38.73660000
-longitude: -9.21686000
-altitude: 214.0000
+latitude: 38.7366
+longitude: -9.21686
+altitude: 214
 tags:
   - toinovate_dados
 ---

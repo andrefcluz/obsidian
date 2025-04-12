@@ -1,10 +1,10 @@
 ---
 title: Chave Windows 11 Pro - CDKeySales - 2024.01.10
-updated: 2024-01-10 11:38:58Z
+updated: 2024-10-06 10:51
 created: 2024-01-10 11:32:05Z
-latitude: 39.32229510
-longitude: -9.05190680
-altitude: 0.0000
+latitude: 39.3222951
+longitude: -9.0519068
+altitude: 0
 tags:
   - computer
 ---

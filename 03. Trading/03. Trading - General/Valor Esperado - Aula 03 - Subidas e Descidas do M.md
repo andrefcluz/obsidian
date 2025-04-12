@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 03 - Subidas e Descidas do Mercado (Introdução)
-updated: 2017-10-17 13:55:35Z
+updated: 2024-10-06 10:50
 created: 2017-10-09 13:51:19Z
 author: André Luz
 tags:

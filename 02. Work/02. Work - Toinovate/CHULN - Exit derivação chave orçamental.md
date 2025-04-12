@@ -1,6 +1,6 @@
 ---
 title: CHULN - Exit derivação chave orçamental
-updated: 2023-02-04 09:17:56Z
+updated: 2024-10-06 10:51
 created: 2023-02-01 10:52:21Z
 author: André Luz
 tags:

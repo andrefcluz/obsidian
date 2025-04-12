@@ -1,6 +1,6 @@
 ---
 title: Ferramenta de reclassificação - Ajustes FMCT
-updated: 2021-11-10 09:06:53Z
+updated: 2024-10-06 10:50
 created: 2021-01-18 17:42:31Z
 author: André Luz
 tags:

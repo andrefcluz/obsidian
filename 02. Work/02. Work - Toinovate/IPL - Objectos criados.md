@@ -1,6 +1,6 @@
 ---
 title: IPL - Objectos criados
-updated: 2021-11-10 09:06:43Z
+updated: 2024-10-06 10:50
 created: 2018-06-12 08:44:40Z
 author: André Luz
 tags:

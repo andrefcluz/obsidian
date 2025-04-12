@@ -1,6 +1,6 @@
 ---
 title: Plano de Treino para Casa
-updated: 2023-09-10 16:50:24Z
+updated: 2024-10-06 10:51
 created: 2023-05-06 10:58:47Z
 author: André Luz
 tags:

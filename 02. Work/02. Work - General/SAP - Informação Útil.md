@@ -1,6 +1,6 @@
 ---
 title: SAP - Informação Útil
-updated: 2022-11-01 11:12:22Z
+updated: 2024-11-28 12:28
 created: 2017-07-25 14:38:27Z
 source: https://blogs.sap.com/2013/10/10/enhancement-of-standard-search-helps-in-sap/
 author: André Luz

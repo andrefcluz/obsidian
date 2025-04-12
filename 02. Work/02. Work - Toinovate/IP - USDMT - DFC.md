@@ -1,6 +1,6 @@
 ---
 title: IP - USDMT - DFC
-updated: 2022-02-16 15:03:06Z
+updated: 2024-10-06 10:50
 created: 2022-01-07 11:51:55Z
 author: André Luz
 tags:

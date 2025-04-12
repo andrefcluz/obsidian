@@ -1,6 +1,6 @@
 ---
 title: Plano Alimentar 25.01.2023
-updated: 2023-01-28 12:51:32Z
+updated: 2024-10-06 10:51
 created: 2023-01-28 12:50:43Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Running/Exercise Youtube
-updated: 2021-05-22 18:05:00Z
+updated: 2024-10-06 10:51
 created: 2020-03-24 19:09:13Z
 source: https://www.youtube.com/watch?v=bmQPcObZ5iM&list=WL&index=7
 author: André Luz

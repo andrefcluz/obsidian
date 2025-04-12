@@ -1,6 +1,6 @@
 ---
 title: IP Dedicado
-updated: 2023-03-03 10:26:58Z
+updated: 2024-10-06 10:50
 created: 2023-01-02 18:26:04Z
 author: André Luz
 tags:

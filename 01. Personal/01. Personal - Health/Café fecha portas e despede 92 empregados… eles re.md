@@ -1,9 +1,8 @@
 ---
 title: Café fecha portas e despede 92 empregados… eles revelam receita mítica!
-updated: 2021-05-22 17:50:23Z
+updated: 2024-10-06 10:51
 created: 2019-03-18 08:03:52Z
-source: >-
-  https://elegante.pt/2017/01/19/cafe-fecha-portas-e-despede-92-empregados-eles-revelam-receita-mitica/
+source: https://elegante.pt/2017/01/19/cafe-fecha-portas-e-despede-92-empregados-eles-revelam-receita-mitica/
 tags:
   - food
 ---

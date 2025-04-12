@@ -1,6 +1,6 @@
 ---
 title: CHULN - Condições de preço (KOMV-KSCHL)
-updated: 2022-09-24 07:10:32Z
+updated: 2024-10-06 10:51
 created: 2022-09-14 15:30:34Z
 author: André Luz
 tags:

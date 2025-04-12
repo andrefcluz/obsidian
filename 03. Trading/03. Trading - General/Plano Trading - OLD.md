@@ -1,6 +1,6 @@
 ---
 title: Plano Trading - OLD
-updated: 2021-05-22 18:22:05Z
+updated: 2024-10-06 10:50
 created: 2019-07-15 16:31:21Z
 author: André Luz
 tags:

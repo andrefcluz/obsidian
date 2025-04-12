@@ -1,6 +1,6 @@
 ---
 title: Plano Alimentar 19.10.2022
-updated: 2022-10-20 06:55:56Z
+updated: 2024-10-06 10:51
 created: 2022-10-20 06:55:09Z
 author: André Luz
 tags:

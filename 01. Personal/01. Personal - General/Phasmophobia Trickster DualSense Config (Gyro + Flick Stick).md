@@ -1,6 +1,8 @@
 ---
 tags:
   - gaming
+created: 2024-10-01 15:30
+updated: 2024-10-12 00:13
 ---
 ## DualSense Config (Steam Input)
 

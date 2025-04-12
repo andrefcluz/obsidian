@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 04 - Correções de Preço (Ajuste de Odds)
-updated: 2017-10-12 12:25:07Z
+updated: 2024-10-06 10:50
 created: 2017-10-09 15:37:05Z
 author: André Luz
 tags:

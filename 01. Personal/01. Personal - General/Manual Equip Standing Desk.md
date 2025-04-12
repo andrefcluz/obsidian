@@ -1,6 +1,6 @@
 ---
 title: Manual Equip Standing Desk
-updated: 2020-09-12 12:10:56Z
+updated: 2024-10-06 10:51
 created: 2018-01-28 21:41:39Z
 author: André Luz
 tags:

@@ -1,12 +1,10 @@
 ---
-title: >-
-  CHULN - 8QZ-QZD-XUQS - #171672 - Criação de validação do preço da NE com base
-  num contrato
-updated: 2024-01-24 12:18:06Z
+title: "CHULN - 8QZ-QZD-XUQS - #171672 - Criação de validação do preço da NE com base num contrato"
+updated: 2024-10-06 10:51
 created: 2024-01-24 09:59:54Z
-latitude: 39.32229510
-longitude: -9.05190680
-altitude: 0.0000
+latitude: 39.3222951
+longitude: -9.0519068
+altitude: 0
 tags:
   - chuln
 ---

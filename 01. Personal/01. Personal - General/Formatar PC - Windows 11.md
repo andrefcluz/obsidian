@@ -1,6 +1,6 @@
 ---
 title: Formatar PC - Windows 11
-updated: 2022-06-18 11:48:23Z
+updated: 2024-10-06 10:51
 created: 2022-05-22 19:39:52Z
 author: André Luz
 tags:

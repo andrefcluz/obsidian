@@ -1,6 +1,6 @@
 ---
 title: CHULN - USDMT
-updated: 2024-07-08 15:04:39Z
+updated: 2024-10-06 10:50
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:

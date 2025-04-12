@@ -1,6 +1,6 @@
 ---
 title: VPN Toinovate
-updated: 2022-09-04 07:53:08Z
+updated: 2024-10-06 10:50
 created: 2022-09-02 10:52:11Z
 author: André Luz
 tags:

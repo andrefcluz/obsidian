@@ -1,6 +1,6 @@
 ---
 title: Lucro diário necessário por dias trabalhados mensalmente
-updated: 2021-05-22 18:23:45Z
+updated: 2024-10-06 10:50
 created: 2018-08-17 12:50:39Z
 author: André Luz
 tags:

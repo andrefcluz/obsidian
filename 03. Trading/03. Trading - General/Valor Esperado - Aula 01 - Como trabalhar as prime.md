@@ -1,6 +1,6 @@
 ---
 title: Valor Esperado - Aula 01 - Como trabalhar as primeiras partes
-updated: 2017-10-09 18:19:20Z
+updated: 2024-10-06 10:50
 created: 2017-09-30 22:23:23Z
 author: André Luz
 tags:

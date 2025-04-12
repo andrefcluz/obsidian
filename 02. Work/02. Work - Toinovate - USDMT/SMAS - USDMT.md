@@ -1,6 +1,6 @@
 ---
 title: SMAS - USDMT
-updated: 2024-08-02 16:10:32Z
+updated: 2024-11-28 11:24
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:

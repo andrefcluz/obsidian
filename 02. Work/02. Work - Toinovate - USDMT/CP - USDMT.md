@@ -1,6 +1,6 @@
 ---
 title: CP - USDMT
-updated: 2024-07-31 09:48:18Z
+updated: 2025-02-21 11:13
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:

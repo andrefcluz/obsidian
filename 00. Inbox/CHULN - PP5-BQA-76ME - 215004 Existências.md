@@ -1,8 +1,12 @@
 ---
 share_link: https://share.note.sx/hbuxt3zx
 share_updated: 2025-04-08T17:18:23+01:00
+created: 2025-04-12 09:35
+updated: 2025-04-12 22:42
+tags:
+  - chuln
 ---
-O objetivo do relatório é permitir visualizar o stock e valores desagregado por depósito, num determina intervalo de datas. O SAP de forma standard só permite fazer isso para a data atual, ou então para um intervalo de datas, mas não é desagregado por depósito.
+O objetivo do relatório é permitir visualizar o stock e valores desagregado por depósito, num determina intervalo de datas. O SAP de forma standard só permite fazer isso para a data atual, ou então para um intervalo de datas, mas não é desagregado por depósito. 
 
 #### Parâmetros e seleção (SELECT-OPTIONS):
 - SO_BUDAT - Data de lançamento - Tipo BUDAT - Obrigatório
@@ -30,3 +34,14 @@ O objetivo do relatório é permitir visualizar o stock e valores desagregado po
 
 
 ----
+
+
+
+--- 
+
+
+![[Untitled 2-1742537759206.png]]
+
+
+![[Untitled 2-1742537768501.png]]
+

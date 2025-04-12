@@ -1,6 +1,6 @@
 ---
 title: Configurações IPL
-updated: 2022-02-28 15:56:26Z
+updated: 2024-10-08 16:31
 created: 2018-09-11 07:31:19Z
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: CHULN - 28683 - Contrato Codificado de Valor (ZWC)
-updated: 2022-07-30 17:26:36Z
+updated: 2024-10-06 10:51
 created: 2022-06-23 09:54:51Z
 author: André Luz
 tags:

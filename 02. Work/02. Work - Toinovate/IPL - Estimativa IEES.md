@@ -1,6 +1,6 @@
 ---
 title: IPL - Estimativa IEES
-updated: 2021-11-12 16:10:42Z
+updated: 2024-10-06 10:50
 created: 2021-11-10 09:51:56Z
 author: André Luz
 tags:

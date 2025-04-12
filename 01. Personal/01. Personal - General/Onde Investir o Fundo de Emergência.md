@@ -1,6 +1,6 @@
 ---
 title: Onde Investir o Fundo de Emergência
-updated: 2021-05-22 18:13:59Z
+updated: 2024-10-06 10:51
 created: 2020-06-22 10:39:39Z
 author: André Luz
 tags:

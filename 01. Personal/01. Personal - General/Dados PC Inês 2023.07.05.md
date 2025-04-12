@@ -1,6 +1,6 @@
 ---
 title: Dados PC Inês 2023.07.05
-updated: 2023-07-06 07:23:31Z
+updated: 2024-10-06 10:51
 created: 2023-07-05 20:37:06Z
 author: André Luz
 ---

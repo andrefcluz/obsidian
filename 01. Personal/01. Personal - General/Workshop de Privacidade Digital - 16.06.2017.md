@@ -1,10 +1,10 @@
 ---
 title: Workshop de Privacidade Digital - 16.06.2017
-updated: 2021-05-22 18:13:21Z
+updated: 2024-10-06 10:51
 created: 2018-06-02 09:40:34Z
-latitude: 38.79440000
-longitude: -9.11104000
-altitude: 75.0000
+latitude: 38.7944
+longitude: -9.11104
+altitude: 75
 tags:
   - courses
 ---

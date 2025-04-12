@@ -1,10 +1,10 @@
 ---
 title: Toinovate - Faturas 20210812
-updated: 2021-08-23 10:58:29Z
+updated: 2024-10-06 10:50
 created: 2021-08-23 06:59:51Z
 author: André Luz
-latitude: 38.79573450
-longitude: -9.11708190
+latitude: 38.7957345
+longitude: -9.1170819
 altitude: 87.4631
 tags:
   - toinovate_faturas

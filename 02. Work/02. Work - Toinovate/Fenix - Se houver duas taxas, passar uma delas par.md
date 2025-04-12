@@ -1,8 +1,6 @@
 ---
-title: >-
-  Fenix - Se houver duas taxas, passar uma delas para a segunda prestação das
-  propinas
-updated: 2021-11-10 09:06:48Z
+title: Fenix - Se houver duas taxas, passar uma delas para a segunda prestação das propinas
+updated: 2024-10-06 10:50
 created: 2020-01-28 12:05:50Z
 source: https://www.saptutorial.org/change-billing-plan-data-sales-order-contract/
 author: André Luz

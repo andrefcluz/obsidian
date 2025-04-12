@@ -1,6 +1,6 @@
 ---
 title: IPL - CXA - Compensações parciais
-updated: 2024-02-04 17:42:33Z
+updated: 2024-10-28 12:27
 created: 2024-01-26 10:02:25Z
 latitude: 37.1356631
 longitude: -8.4517228

@@ -1,10 +1,10 @@
 ---
 title: Plano Alimentar 17.11.2020
-updated: 2020-11-23 09:40:09Z
+updated: 2024-10-06 10:51
 created: 2020-11-23 09:37:47Z
-latitude: 38.79490000
-longitude: -9.11333000
-altitude: 83.2000
+latitude: 38.7949
+longitude: -9.11333
+altitude: 83.2
 tags:
   - eating_plan
   - food

@@ -1,6 +1,6 @@
 ---
 title: Reformulação DFC
-updated: 2024-08-06 15:14:17Z
+updated: 2024-10-27 12:28
 created: 2024-08-06 14:54:56Z
 latitude: 38.7222524
 longitude: -9.1393366

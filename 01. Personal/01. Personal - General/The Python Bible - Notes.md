@@ -1,6 +1,6 @@
 ---
 title: The Python Bible - Notes
-updated: 2021-05-22 18:13:00Z
+updated: 2024-10-06 10:51
 created: 2021-02-07 15:02:30Z
 author: André Luz
 tags:

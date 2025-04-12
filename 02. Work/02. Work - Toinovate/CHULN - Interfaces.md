@@ -1,6 +1,6 @@
 ---
 title: CHULN - Interfaces
-updated: 2023-03-31 22:39:47Z
+updated: 2024-10-06 10:51
 created: 2023-03-30 11:29:42Z
 author: André Luz
 tags:

@@ -1,10 +1,10 @@
 ---
 title: Espap - Modelo EA das Tabelas de Lançamento de FI
-updated: 2021-11-10 09:06:39Z
+updated: 2024-10-06 10:50
 created: 2017-07-11 08:56:13Z
-latitude: 38.73750000
-longitude: -9.21561000
-altitude: 159.0000
+latitude: 38.7375
+longitude: -9.21561
+altitude: 159
 tags:
   - espap
 ---
