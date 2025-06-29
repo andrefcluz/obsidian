@@ -1,6 +1,6 @@
 ---
 created: 2025-04-06 18:01
-updated: 2025-04-06 18:16
+updated: 2025-04-13 09:20
 ---
 - Segunda
 	- Bochechas
@@ -21,3 +21,4 @@ updated: 2025-04-06 18:16
 	- Frango + Arroz Basmati + Legumes Soja
 	- Sopa + Ovos
 - Domingo
+-  

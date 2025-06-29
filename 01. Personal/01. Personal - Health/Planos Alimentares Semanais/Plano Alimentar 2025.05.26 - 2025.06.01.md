@@ -1,0 +1,25 @@
+---
+created: 2025-05-18 09:11
+updated: 2025-05-25 15:35
+---
+- Segunda-Feira
+	- Almoço: [Frango Tikka Masala](https://www.instagram.com/reel/DJXc8V_IFDm/)
+	- Jantar: 
+- Terça-Feira
+	- Almoço: Frango Tikka Masala
+	- Jantar: 
+- Quarta-Feira
+	- Almoço: [Empada Atum](https://www.instagram.com/p/DCUjJwNsibU/)
+	- Jantar: 
+- Quinta-Feira
+	- Almoço: Empada Atum
+	- Jantar: 
+- Sexta-Feira
+	- Almoço: Salada Salmão
+	- Jantar: 
+- Sábado
+	- Almoço: Salada Salmão
+	- Jantar: 
+- Domingo
+	- Almoço: Fora (Sushi)
+	- Jantar: 

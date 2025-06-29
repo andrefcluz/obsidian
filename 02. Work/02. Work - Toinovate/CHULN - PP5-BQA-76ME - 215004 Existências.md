@@ -1,8 +1,8 @@
 ---
 share_link: https://share.note.sx/hbuxt3zx
-share_updated: 2025-04-08T17:18:23+01:00
+share_updated: 2025-04-14T12:18:47+01:00
 created: 2025-04-12 09:35
-updated: 2025-04-12 22:42
+updated: 2025-04-14 12:18
 tags:
   - chuln
 ---
@@ -33,15 +33,41 @@ O objetivo do relatório é permitir visualizar o stock e valores desagregado po
 1. a
 
 
-----
+---
+
+![[CHULN - PP5-BQA-76ME - 215004 Existências 2025-04-14 09.52.10.excalidraw.svg]]
+%%[[CHULN - PP5-BQA-76ME - 215004 Existências 2025-04-14 09.52.10.excalidraw.md|🖋 Edit in Excalidraw]]%%
+
+
+Objetivo: Saber o stock e valor de cada material por deposito numa data especifica
+
+O que temos?
+- Stock e valor atual de cada material por centro (MBEW)
+- Stock atual de cada material por deposito (MARD)
+- Movimentos (quantidade e valor) feitos para cada material por deposito/centro por data (MSEG)
+
+Como é que calculamos o stock de um material para um deposito para uma data especifica?
+- Ler o stock atual (MARD)
+- Ler os movimentos entre essa data e a data atual (MSEG)
+- Subtrair/somar o stock de todos os movimentos ao stock atual
+
+Como é que calculamos o valor de um material para um deposito para uma data especifica?
+- Ler valor atual do centro (MBEW)
+- Ler todos os movimentos feitos para aquele centro a partir da data (movimentos de todos os depósitos do centro) (MSEG)
+- Subtrair/somar o valor de todos os movimentos ao valor atual do centro
+- Ficamos com o valor do centro para aquela data (Sabemos que o stock e valor do centro é a soma do stock e valor de todos os depósitos daquele centro)
+	- Valor do material por centro para a data
+	- Stock do material por centro para a data
+	- Stock do material por deposito para a data
+	- Valor do material por deposito para a data = ( {Valor do material por centro para a data} * {Stock do material por deposito para a data} ) / {Stock do material por centro para a data}
 
 
 
 --- 
 
-
-![[Untitled 2-1742537759206.png]]
-
+##### Teste MB5B
 
 ![[Untitled 2-1742537768501.png]]
 
+
+![[Untitled 2-1742537759206.png]]

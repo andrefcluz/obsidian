@@ -1,6 +1,6 @@
 ---
 title: CHULN - USDMT
-updated: 2024-10-06 10:50
+updated: 2025-05-08 14:49
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:
@@ -85,3 +85,6 @@ tags:
 | DEVK917328 | USDMT - Correções e ajustes #62                     | 08.07.2024   | 08.07.2024   |
 | DEVK917330 | USDMT - Correções e ajustes #63                     | 08.07.2024   | 08.07.2024   |
 | DEVK917334 | USDMT - Correções e ajustes #64                     | 08.07.2024   | 08.07.2024   |
+| DEVK919119 | USDMT - Correções e ajustes #65                     | 2025.04.21   | 2025.04.21   |
+| DEVK919122 | USDMT - Correções e ajustes #66                     | 2025.04.21   | 2025.04.21   |
+| DEVK919232 | USDMT - Correções e ajustes #67                     | 2025.05.08   | 2025.05.08   |

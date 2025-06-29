@@ -1,6 +1,6 @@
 ---
 title: HFF - USDMT
-updated: 2024-11-14 12:30
+updated: 2025-04-16 16:18
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:
@@ -78,3 +78,5 @@ tags:
 | D01K905782 | USDMT - Correções e ajustes #55                           | 15.04.2024   | 15.04.2024   |
 | D01K905784 | USDMT - Correções e ajustes #56                           | 15.04.2024   | 15.04.2024   |
 | D01K906281 | USDMT - Correções e ajustes #57                           | 2024.11.14   | 2024.11.14   |
+| D01K906458 | USDMT - Correções e ajustes #58                           | 2025.04.16   | 2025.04.16   |
+| D01K906460 | USDMT - Correções e ajustes #59                           | 2025.04.16   | 2025.04.16   |

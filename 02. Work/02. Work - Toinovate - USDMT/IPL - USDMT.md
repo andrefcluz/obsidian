@@ -1,6 +1,6 @@
 ---
 title: IPL - USDMT
-updated: 2025-04-01 09:05
+updated: 2025-05-20 17:49
 created: 2024-01-02 14:10:07Z
 author: André Luz
 tags:
@@ -118,5 +118,12 @@ share_updated: 2024-09-17T10:24:23+01:00
 | DPLK907646 | USDMT - Correções e ajustes #48                  | 2025.02.24   | 2025.02.24   |
 | DPLK907648 | USDMT - Correções e ajustes #49                  | 2025.02.24   | 2025.02.24   |
 | DPLK907650 | USDMT - Correções e ajustes #50                  | 2025.03.24   | 2025.03.24   |
-| DPLK907750 | USDMT - Correções e ajustes #51                  |              |              |
+| DPLK907750 | USDMT - Correções e ajustes #51                  | 2025.04.15   | 2025.04.15   |
+| DPLK907798 | USDMT - Correções e ajustes #52                  | 2025.05.20   | 2025.05.20   |
+| DPLK907818 | USDMT - Correções e ajustes #53                  | 2025.05.20   | 2025.05.20   |
+| DPLK907820 | USDMT - Correções e ajustes #54                  | 2025.05.20   | 2025.05.20   |
+| DPLK907822 | USDMT - Correções e ajustes #55                  | 2025.05.20   | 2025.05.20   |
+| DPLK907824 | USDMT - Correções e ajustes #56                  | 2025.05.20   | 2025.05.20   |
+| DPLK907826 | USDMT - Correções e ajustes #57                  | 2025.05.20   | 2025.05.20   |
+| DPLK907828 | USDMT - Correções e ajustes #58                  | 2025.05.20   | 2025.05.20   |
 

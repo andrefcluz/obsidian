@@ -1,0 +1,25 @@
+---
+created: 2025-05-17 15:13
+updated: 2025-05-17 16:03
+---
+- Segunda-Feira
+	- Almoço: [Vaca + Brócolos + Arroz](https://www.instagram.com/p/DHln-ZbgwV5/)
+	- Jantar: Sopa + 
+- Terça-Feira
+	- Almoço: [Vaca + Brócolos + Arroz](https://www.instagram.com/p/DHln-ZbgwV5/)
+	- Jantar: Sopa + 
+- Quarta-Feira
+	- Almoço: [Frango à Pizzaiola + Massa](https://www.instagram.com/p/DAd34cct9Gc/)
+	- Jantar: Sopa + 
+- Quinta-Feira
+	- Almoço: [Frango à Pizzaiola + Massa](https://www.instagram.com/p/DAd34cct9Gc/)
+	- Jantar: Sopa + 
+- Sexta-Feira
+	- Almoço: [Empada Atum](https://www.instagram.com/p/DCUjJwNsibU/)
+	- Jantar: Sopa + 
+- Sábado
+	- Almoço: Fora
+	- Jantar: Sopa + 
+- Domingo
+	- Almoço: Salada (César ou outra)
+	- Jantar: Sopa + 

@@ -1,6 +1,6 @@
 ---
 title: IPL - Safemed
-updated: 2025-02-24 12:17
+updated: 2025-06-24 12:20
 created: 2024-05-08 09:23:23Z
 latitude: 38.7222524
 longitude: -9.1393366
@@ -27,6 +27,11 @@ tags:
 | DPLK907492 | RH7-SH2-LQRD - Interface Safemed #7 - FR/AL        | 2025.02.03     | 2025.02.03     |
 | DPLK907618 | RH7-SH2-LQRD - Interface Safemed #7 - CUST - FR/AL | 2025.02.03     | 2025.02.03     |
 | DPLK907638 | RH7-SH2-LQRD - Interface Safemed #8 - AL           | 2025.02.24     | 2025.02.24     |
+| DPLK907859 | JP1-639-S35V - Safemed ajustes #1 - AL             | 2025.06.03     | 2025.06.05     |
+| DPLK907864 | JP1-639-S35V - Safemed ajustes #2 - AL             | 2025.06.05     | 2025.06.05     |
+| DPLK907869 | JP1-639-S35V - Safemed ajustes #3 - AL             | 2025.06.18     | 2025.06.18     |
+| DPLK907882 | JP1-639-S35V - Safemed ajustes #4 - AL             | 2025.06.24     | 2025.06.24     |
+| DPLK907884 | JP1-639-S35V - Safemed ajustes #5 - AL             | 2025.06.24     | 2025.06.24     |
 
 ### Dados Serviço
 
