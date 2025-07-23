@@ -1,0 +1,8 @@
+---
+created: 2025-07-08 19:01
+updated: 2025-07-08 19:01
+---
+ANDREAS
+MARIA
+HANNA
+XKV4H

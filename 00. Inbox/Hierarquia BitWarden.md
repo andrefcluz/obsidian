@@ -1,0 +1,28 @@
+---
+created: 2025-07-08 15:15
+updated: 2025-07-08 16:00
+---
+- Personal
+	- Finance
+		- Banking
+		- Investments
+	- Running
+	- General
+		- Learning
+	- Social
+	- Shopping
+		- General
+		- Sport
+		- Health
+	- Tools
+	- Gaming
+	- Travel
+		- Flights
+		- Stays
+	- Housing
+- Work
+	- Toinovate
+- Trading
+	- Betting Trading
+	- Forex
+- LDP

@@ -1,6 +1,6 @@
 ---
 title: IPL - Safemed
-updated: 2025-06-24 12:20
+updated: 2025-07-21 15:58
 created: 2024-05-08 09:23:23Z
 latitude: 38.7222524
 longitude: -9.1393366
@@ -32,6 +32,13 @@ tags:
 | DPLK907869 | JP1-639-S35V - Safemed ajustes #3 - AL             | 2025.06.18     | 2025.06.18     |
 | DPLK907882 | JP1-639-S35V - Safemed ajustes #4 - AL             | 2025.06.24     | 2025.06.24     |
 | DPLK907884 | JP1-639-S35V - Safemed ajustes #5 - AL             | 2025.06.24     | 2025.06.24     |
+| DPLK907901 | JP1-639-S35V - Safemed ajustes #6 - AL             | 2025.07.10     | 2025.07.10     |
+| DPLK907907 | JP1-639-S35V - Safemed ajustes #7 - AL             | 2025.07.11     | 2025.07.11     |
+| DPLK907911 | JP1-639-S35V - Safemed ajustes #8 - AL             | 2025.07.17     | 2025.07.17     |
+| DPLK907913 | JP1-639-S35V - Safemed ajustes #9 - AL             | 2025.07.18     | 2025.07.18     |
+| DPLK907915 | JP1-639-S35V - Safemed ajustes #10 - AL            | 2025.07.18     | 2025.07.18     |
+| DPLK907917 | JP1-639-S35V - Safemed ajustes #11 - AL            | 2025.07.18     | 2025.07.18     |
+| DPLK907919 | JP1-639-S35V - Safemed ajustes #12 - AL            | 2025.07.21     | 2025.07.21     |
 
 ### Dados Serviço
 

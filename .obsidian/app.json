@@ -25,13 +25,5 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "00. Inbox",
-  "attachmentFolderPath": "99. Misc/_resources",
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "99. Misc/_resources"
 }
