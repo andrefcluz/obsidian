@@ -1,6 +1,6 @@
 ---
 title: IP - USDMT
-updated: 2025-05-20 11:40
+updated: 2025-08-04 16:43
 created: 2024-01-02 14:10
 author: André Luz
 tags:

@@ -1,6 +1,6 @@
 ---
 title: CP - USDMT
-updated: 2025-05-20 10:38
+updated: 2025-07-30 08:59
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:
@@ -52,3 +52,4 @@ tags:
 | CPQK949013 | USDMT - Correções e ajustes #21                    | 2025.05.16   |
 | CPQK949333 | USDMT - Correções e ajustes #22                    | 2025.05.16   |
 | CPQK949383 | USDMT - Correções e ajustes #23                    |              |
+| CPQK949618 | USDMT - Customizing ABAP #9                        |              |

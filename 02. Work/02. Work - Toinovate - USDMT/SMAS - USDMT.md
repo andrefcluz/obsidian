@@ -1,6 +1,6 @@
 ---
 title: SMAS - USDMT
-updated: 2024-11-28 11:24
+updated: 2025-08-01 10:22
 created: 2022-03-16 09:30:15Z
 author: André Luz
 tags:
@@ -107,3 +107,5 @@ tags:
 | SNDK905801 | USDMT - Correções e ajustes #78                             | 2024.10.22   | 2024.10.22   |
 | SNDK905807 | USDMT - Correções e ajustes #79                             | 2024.10.22   | 2024.10.22   |
 | SNDK905840 | USDMT - Correções e ajustes #80                             | 2024.11.28   | 2024.11.28   |
+| SNDK906218 | USDMT - Correções e ajustes #81                             | 2025.08.01   | 2025.08.01   |
+| SNDK906220 | USDMT - Correções e ajustes #82                             | 2025.08.01   | 2025.08.01   |
