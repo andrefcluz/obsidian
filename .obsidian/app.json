@@ -26,5 +26,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00. Inbox",
   "attachmentFolderPath": "99. Misc/_resources",
-  "propertiesInDocument": "visible"
+  "showLineNumber": false,
+  "readableLineLength": true
 }

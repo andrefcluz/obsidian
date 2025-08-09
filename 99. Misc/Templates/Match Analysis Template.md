@@ -1,18 +1,22 @@
 <%*
-const date = tp.date.now("YYYY-MM-DD");
 const id = await tp.system.prompt("Enter bet sequence number (e.g., 01):");
+const days = await tp.system.prompt("Enter date (0 = today, 1 = tomorrow,...):");
+const time = await tp.system.prompt("Enter time:");
+const date = tp.date.now("YYYY-MM-DD", Number(days));
 const home = await tp.system.prompt("Enter Home Team:");
 const away = await tp.system.prompt("Enter Away Team:");
 const comp = await tp.system.prompt("Enter Competition:");
+//const market = await tp.system.prompt("Enter Market:");
 const title = `${date}_${id} - ${home} x ${away}`;
 tp.file.rename(title);
 %>---
 date: <% `${date}` %>
-bet_id: <% `${tp.date.now("YYYYMMDD")}_${id}` %>
-league: <% `"${comp}"` %>
-home_team: <% `"${home}"` %>
-away_team: <% `"${away}"` %>
-market: 
+time: <% `${time}` %>
+bet_id: <% `${tp.date.now("YYYYMMDD", Number(days))}_${id}` %>
+competition: 
+home_team: 
+away_team: 
+market:
 odds: 
 stake_units:     # In units (1 unit = 1% of bankroll)
 bankroll_before: 
@@ -20,14 +24,14 @@ profit_units:
 bankroll_after:   # Fill after result
 result: pending # win / lose / pending
 ---
-# 📝 Bet Log — Over X.5 Goals
+# 📝 Bet Log
 
 ## Match Details 
 
 - **League:** <% `${comp}` %>
 - **Home Team:** <% `${home}` %>
 - **Away Team:**  <% `${away}` %>
-- **Date/Time:** 
+- **Date/Time:** <% `${date} ${time}` %>
 - **Market:** 
 - **Result:** 
 
