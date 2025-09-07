@@ -1,10 +1,11 @@
 ---
 title: Correção layout cotações
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2021-01-22 09:08:54Z
 author: André Luz
 tags:
   - cp/emef
+cliente: cp
 ---
 
 ZMIGRA_EMEF_SD_COTACAO_CED

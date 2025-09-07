@@ -1,9 +1,12 @@
 ---
 created: 2025-05-26 14:35
-updated: 2025-07-30 12:11
+updated: 2025-08-20 15:30
 share_link: https://share.note.sx/r3n1vmct
 share_updated: 2025-06-06T18:23:37+01:00
 tags:
+  - babel
+  - cml
+cliente:
   - babel
   - cml
 ---

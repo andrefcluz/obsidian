@@ -1,10 +1,11 @@
 ---
 title: Cockpit para geração e envio do XML dos mapas
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:32
 created: 2023-01-21 15:31:13Z
 author: André Luz
 tags:
   - toinovate_proj_internos
+cliente: toinovate_proj_interno
 ---
 
 - Tabelas

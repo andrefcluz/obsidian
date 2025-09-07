@@ -1,10 +1,11 @@
 ---
 title: Configuração SOAMANAGER Webservice Faturação Eletrónica
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:32
 created: 2019-07-23 09:15:40Z
 author: André Luz
 tags:
   - proj_internos-fatura_eletronica_saphety
+cliente: toinovate_proj_interno
 ---
 
 **Segurança do consumidor**

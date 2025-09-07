@@ -1,12 +1,13 @@
 ---
 title: CP - 8574 - Correção erro Job Pagamentos // CFLEV - FMF0
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2024-03-08 16:50:13Z
 latitude: 38.7168863
 longitude: -9.260731
 altitude: 0
 tags:
   - cp
+cliente: cp
 ---
 
 <span style="color: #000000;">FMCF</span>

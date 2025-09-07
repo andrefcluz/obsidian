@@ -1,10 +1,11 @@
 ---
 title: IPL - Implementação ATCUD
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2022-09-27 14:13:00Z
 author: André Luz
 tags:
   - ipl
+cliente: ipl
 ---
 
 [Estimativa Técnica ATCUD IPL.xlsx](Estimativa_T_cnica_ATCUD_IPL.xls)

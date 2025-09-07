@@ -1,11 +1,12 @@
 ---
 title: Reunião técnica projeto de fusão CP/EMEF - 17/10/2019
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2019-10-09 09:21:12Z
 author: André Luz
 tags:
   - cp
   - cp/emef
+cliente: cp
 ---
 
 **- [X] Versões SAP**

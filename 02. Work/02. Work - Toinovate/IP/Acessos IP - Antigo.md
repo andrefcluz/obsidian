@@ -1,11 +1,12 @@
 ---
 title: Acessos IP - Antigo
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:28
 created: 2019-01-24 17:00:26Z
 source: https://webmail.smartcloud.pt/owa/
 author: André Luz
 tags:
   - ip
+cliente: ip
 ---
 
 **SAP**

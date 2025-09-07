@@ -1,6 +1,6 @@
 ---
 title: CHULN - Transações IDOCs
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2023-11-21 16:00:33Z
 latitude: 41.1579438
 longitude: -8.6291053
@@ -8,6 +8,7 @@ altitude: 0
 tags:
   - chuln
   - idoc
+cliente: chuln
 ---
 
 WE19 - Ferramenta de testes de processamento de IDOCs

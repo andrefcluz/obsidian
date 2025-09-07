@@ -1,10 +1,11 @@
 ---
 title: Interface da Receita Academica
-updated: 2024-10-28 12:27
+updated: 2025-08-20 15:28
 created: 2018-09-10 10:17:30Z
 source: https://webmail.smartcloud.pt/owa/
 tags:
   - ipl/cxa
+cliente: ipl
 ---
 
 Dúvidas

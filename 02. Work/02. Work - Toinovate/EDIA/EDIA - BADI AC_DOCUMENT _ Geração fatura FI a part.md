@@ -1,10 +1,11 @@
 ---
 title: EDIA - BADI AC_DOCUMENT / Geração fatura FI a partir do SD
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:27
 created: 2022-07-14 11:51:40Z
 author: André Luz
 tags:
   - edia
+cliente: edia
 ---
 
 Implementação BADI AC_DOCUMENT

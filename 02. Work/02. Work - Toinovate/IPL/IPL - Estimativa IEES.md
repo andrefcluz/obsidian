@@ -1,10 +1,11 @@
 ---
 title: IPL - Estimativa IEES
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2021-11-10 09:51:56Z
 author: André Luz
 tags:
   - ipl
+cliente: ipl
 ---
 
 Email Emilia 04/11/2021 (Outlook - Pasta IPL)

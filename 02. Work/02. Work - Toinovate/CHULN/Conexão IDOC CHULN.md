@@ -1,10 +1,11 @@
 ---
 title: Conexão IDOC CHULN
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2021-03-26 15:20:11Z
 author: André Luz
 tags:
   - chuln
+cliente: chuln
 ---
 
 Pedido compra - ME22N - 60248122 - Mensagens - Repetir

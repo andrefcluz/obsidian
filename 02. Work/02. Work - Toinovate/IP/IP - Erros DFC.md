@@ -1,12 +1,13 @@
 ---
 title: IP - Erros DFC
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2023-11-27 12:14:06Z
 latitude: 38.7222524
 longitude: -9.1393366
 altitude: 0
 tags:
   - ip
+cliente: ip
 ---
 
 22173 2800005149 DFC

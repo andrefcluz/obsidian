@@ -1,10 +1,11 @@
 ---
 title: PS - Estimativa interface acinGOV
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2020-03-20 14:58:53Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 **Configurar ligações à plataforma acinGOV | 1 hora - ??? horas**

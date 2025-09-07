@@ -1,8 +1,9 @@
 ---
 created: 2025-07-07 12:20
-updated: 2025-07-08 12:23
+updated: 2025-08-20 15:26
 tags:
   - cp
+cliente: cp
 ---
 ![[CP - Validações NIF comentadas-1751887250510.png]]
 

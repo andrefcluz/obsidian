@@ -1,12 +1,13 @@
 ---
 title: IPL - Safemed
-updated: 2025-07-21 15:58
+updated: 2025-08-20 15:28
 created: 2024-05-08 09:23:23Z
 latitude: 38.7222524
 longitude: -9.1393366
 altitude: 0
 tags:
   - ipl/safemed
+cliente: ipl
 ---
 ### Ordens de Transporte
 

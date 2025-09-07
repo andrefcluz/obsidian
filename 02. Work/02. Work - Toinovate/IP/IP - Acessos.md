@@ -1,10 +1,11 @@
 ---
 title: IP - Acessos
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2021-10-26 09:25:47Z
 author: André Luz
 tags:
   - ip
+cliente: ip
 ---
 
 VPN

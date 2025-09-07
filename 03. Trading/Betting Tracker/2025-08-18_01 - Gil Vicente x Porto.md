@@ -1,27 +1,30 @@
 ---
-date: 2025-08-06
-bet_id: 20250806_01
-league: Liga Portugal
-home_team: Benfica
-away_team: Porto
-market: O2.5
-odds: 11.9
-bankroll_before: 1000
-stake_units: 1
-profit_units: 0.76
-bankroll_after: 1000.76
-result: pending
-created: 2025-08-06 23:36
-updated: 2025-08-06 23:36
+date: 2025-08-18
+time: 20:15
+bet_id: 20250818_01
+competition:
+  - (POR) Liga Portugal
+home_team:
+  - (POR) Gil Vicente
+away_team:
+  - (POR) Porto
+market: 
+odds: 
+stake_units: 
+bankroll_before: 100
+profit_units: 
+bankroll_after: 
+result:
+  - pending
 ---
-# 📝 Bet Log — Over X.5 Goals
+# 📝 Bet Log
 
 ## Match Details 
 
 - **League:** Liga Portugal
-- **Home Team:** Benfica
+- **Home Team:** Gil Vicente
 - **Away Team:**  Porto
-- **Date/Time:** 
+- **Date/Time:** 2025-08-18 20:15
 - **Market:** 
 - **Result:** 
 

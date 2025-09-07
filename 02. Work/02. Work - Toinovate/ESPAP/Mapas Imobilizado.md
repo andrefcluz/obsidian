@@ -1,12 +1,13 @@
 ---
 title: Mapas Imobilizado
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:27
 created: 2018-03-15 09:46:01Z
 source: file:///C:\Users\André%20Luz\Google%20Drive\02.Work\ToInovate\Clientes\eSPap\Gerfip%203.1\Mapas\Imobilizado\AI\%5bDSI_CC%5dDEV_R_AA-Quadros_AI_V1.0.docx
 author: André Luz
 tags:
   - espap
   - espap-gerfip31
+cliente: espap
 ---
 
 Domínios

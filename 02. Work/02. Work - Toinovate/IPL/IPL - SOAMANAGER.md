@@ -1,12 +1,13 @@
 ---
 title: IPL - SOAMANAGER
-updated: 2024-10-25 16:40
+updated: 2025-08-20 15:28
 created: 2024-07-22 11:08:33Z
 latitude: 38.7222524
 longitude: -9.1393366
 altitude: 0
 tags:
   - ipl
+cliente: ipl
 ---
 DEV
 [SOAMANAGER - IPL DEV](https://192.168.1.98:8001/sap/bc/webdynpro/sap/appl_soap_management?sap-language)

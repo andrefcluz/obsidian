@@ -1,12 +1,13 @@
 ---
 title: IP - APPI
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2023-12-28 14:17:41Z
 latitude: 39.3384417
 longitude: -8.9427076
 altitude: 0
 tags:
   - ip
+cliente: ip
 ---
 
 1.  Selecionar cabimentos - Aqui consigo melhorar bastante o tempo apenas mudando a forma como trata os dados

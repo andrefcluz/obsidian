@@ -1,10 +1,11 @@
 ---
 title: Ajuda de pesquisa contas do razão - IPL
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2019-07-03 16:37:38Z
 author: André Luz
 tags:
   - ipl
+cliente: ipl
 ---
 
 SH Base: SAKO

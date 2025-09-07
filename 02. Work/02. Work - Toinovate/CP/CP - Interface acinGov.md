@@ -1,10 +1,11 @@
 ---
 title: CP - Interface acinGov
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2020-07-24 08:24:16Z
 author: André Luz
 tags:
   - cp/acingov
+cliente: cp
 ---
 
 **Ambiente de teste**

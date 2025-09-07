@@ -2,7 +2,8 @@
 tags:
   - chuln
 created: 2024-11-19 16:05
-updated: 2025-01-19 15:40
+updated: 2025-08-20 15:26
+cliente: chuln
 ---
 DUMP: 
 ![[CHULN - YJN-J71-B4XX- Alterações à integração dos IDOCS + correção DUMP-20241119160610436.png]]

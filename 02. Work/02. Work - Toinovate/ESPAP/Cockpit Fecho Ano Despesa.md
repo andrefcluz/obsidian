@@ -1,10 +1,11 @@
 ---
 title: "#44834: G31 Cockpit Fecho Ano Despesa"
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:27
 created: 2018-05-17 13:58:46Z
 author: André Luz
 tags:
   - espap
+cliente: espap
 ---
 
 Transição

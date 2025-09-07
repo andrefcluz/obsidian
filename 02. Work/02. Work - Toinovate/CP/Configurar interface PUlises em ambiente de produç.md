@@ -1,10 +1,11 @@
 ---
 title: Configurar interface PUlises em ambiente de produção da CP
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2019-12-18 09:32:08Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 1. Fazer configurações com base no manual de parametrização e com as configurações já existentes em ambiente de produção da EMEF

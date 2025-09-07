@@ -1,11 +1,12 @@
 ---
 title: MF parciais
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:27
 created: 2018-03-05 17:22:15Z
 author: André Luz
 tags:
   - espap
   - espap-gerfip31
+cliente: espap
 ---
 
 ![53a330b7b8909495816e8f08ec0aedfc.png](53a330b7b8909495816e8f08ec0aedfc)

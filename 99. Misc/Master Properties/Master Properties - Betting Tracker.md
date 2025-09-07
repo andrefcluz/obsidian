@@ -1,9 +1,447 @@
 ---
-market: [MatchOdds, Halftime, Over 0.5, Over 1.5, Over 2.5, Over 3.5, Over 4.5, Over 5.5, Over 6.5, Over 7.5, Over 8.5, Over 9.5, Under x.5, Correct Score, Over 0.5 HT, Over 1.5 HT, Over 2.5 HT, Under x.5 HT, CS HT, HT/FT, Handicap, BTTS]	
-competition: [(GER) Bundesliga 1, (GER) Bundesliga 2, (GER) Other Comps, (GER) DFB-Pokal, (ESP) LaLiga, (ESP) LaLiga 2, (ESP) Copa Del Rey, (ESP) Other Comps, (FRA) Ligue 1, (FRA) Cup, (FRA) League Cup, (FRA) Other Comps, (ENG) Premier League, (ENG) Championship, (ENG) FA Cup, (ENG) EFL Cup, (ENG) Other Comps, (ITA) Serie A, (ITA) Serie B, (ITA) Coppa Italia, (ITA) Other Comps, (POR) Liga Portugal, (POR) Liga Portugal 2, (POR) Taca de Portugal, (POR) Taca da Liga, (POR) Other Comps, (NLD) Eredivisie, (NLD) Cup, (NLD) Other Comps, (INT Club) UEFA Champions League, (INT Club) UEFA Europa League, (INT Club) UEFA Conference League, (INT Club) Other Competitions , (INT Club) Friendly, (INT NT) FIFA World Cup, (INT NT) UEFA Euro, (INT NT) UEFA Nations League, (INT NT) CONMEBOL Copa America, (INT NT) Other Competitions , (INT NT) Friendly, (Other Countries) League, (Other Countries) Cup, (Other Countres) Other Comps]	
-home_team: [(ESP) Real Madrid, (ESP) Barcelona, (ESP) Atletico Madrid, (ESP) Sevilla, (ESP) Valencia, (ESP) Villarreal, (ESP) Real Sociedad, (ESP) Real Betis, (ESP) Athletic Bilbao, (ESP) Espanyol, (ENG) Manchester City, (ENG) Manchester United, (ENG) Liverpool, (ENG) Chelsea, (ENG) Arsenal, (ENG) Tottenham Hotspur, (ENG) Newcastle United, (ENG) Aston Villa, (ENG) West Ham United, (ENG) Everton, (ENG) Leicester City, (ENG) Leeds United, (ENG) Wolverhampton Wanderers, (ENG) Crystal Palace, (ENG) Brighton Hove Albion, (ENG) Brentford, (ENG) Fulham, (ENG) Sheffield United, (ENG) Burnley, (ENG) Bournemouth, (ITA) Juventus, (ITA) Inter Milan, (ITA) AC Milan, (ITA) Napoli, (ITA) Roma, (ITA) Lazio, (ITA) Atalanta, (ITA) Fiorentina, (ITA) Torino, (ITA) Bologna, (ITA) Sampdoria, (ITA) Udinese, (ITA) Empoli, (ITA) Sassuolo, (ITA) Genoa, (ITA) Parma, (ITA) Palermo, (GER) Bayern Munich, (GER) Borussia Dortmund, (GER) RB Leipzig, (GER) Bayer Leverkusen, (GER) Schalke 04, (GER) Eintracht Frankfurt, (GER) VfL Wolfsburg, (GER) Borussia Monchengladbach, (GER) Hoffenheim, (GER) VfB Stuttgart, (GER) Werder Bremen, (GER) Mainz 05, (GER) Freiburg, (GER) Hertha BSC, (GER) FC Koln, (FRA) Paris Saint Germain, (FRA) Marseille, (FRA) Lyon, (FRA) Monaco, (FRA) Lille, (FRA) Lens, (FRA) Nice, (FRA) Rennes, (FRA) Bordeaux, (FRA) Saint Etienne, (NED) Ajax, (NED) PSV Eindhoven, (NED) Feyenoord, (NED) AZ Alkmaar, (NED) FC Twente, (NED) Vitesse Arnhem, (NED) FC Utrecht, (NED) Groningen, (POR) Benfica, (POR) Porto, (POR) Sporting CP, (POR) Braga, (POR) Boavista, (POR) Vitoria Guimaraes, (POR) Maritimo, (POR) Pacos de Ferreira, (BEL) Club Brugge, (BEL) Anderlecht, (BEL) Gent, (BEL) Genk, (BEL) Standard Liege, (BEL) Charleroi, (BEL) Union SG, (SCO) Celtic, (SCO) Rangers, (SCO) Aberdeen, (SCO) Hearts, (SCO) Hibernian, (TUR) Galatasaray, (TUR) Fenerbahce, (TUR) Besiktas, (TUR) Trabzonspor, (TUR) Basaksehir, (TUR) Sivasspor, (GRE) Olympiacos, (GRE) Panathinaikos, (GRE) PAOK, (GRE) AEK Athens, (GRE) Aris Thessaloniki, (AUT) Red Bull Salzburg, (AUT) Rapid Wien, (AUT) Sturm Graz, (AUT) Austria Wien, (SUI) Young Boys, (SUI) Basel, (SUI) FC Zurich, (SUI) Lugano, (SUI) St Gallen, (CZE) Slavia Praha, (CZE) Sparta Praha, (CZE) Viktoria Plzen, (CZE) Banik Ostrava, (POL) Legia Warsaw, (POL) Lech Poznan, (POL) Rakow Czestochowa, (POL) Pogon Szczecin, (ROU) CFR Cluj, (ROU) FCSB, (ROU) Universitatea Craiova, (BUL) Ludogorets Razgrad, (BUL) CSKA Sofia, (BUL) Levski Sofia, (SRB) Red Star Belgrade, (SRB) Partizan Belgrade, (SRB) Vojvodina, (CRO) Dinamo Zagreb, (CRO) Hajduk Split, (CRO) Osijek, (SLO) Maribor, (SLO) Olimpija Ljubljana, (HUN) Ferencvaros, (HUN) Fehervar, (ISR) Maccabi Tel Aviv, (ISR) Hapoel Beer Sheva, (ISR) Maccabi Haifa, (RUS) Zenit St Petersburg, (RUS) CSKA Moscow, (RUS) Spartak Moscow, (RUS) Lokomotiv Moscow, (RUS) Rubin Kazan, (UKR) Shakhtar Donetsk, (UKR) Dynamo Kyiv, (UKR) Dnipro 1, (UKR) Zorya Luhansk, (UKR) Vorskla Poltava, (SWE) Malmo FF, (SWE) AIK Stockholm, (SWE) IFK Goteborg, (SWE) Djurgarden, (NOR) Rosenborg, (NOR) Molde, (NOR) Bodoe Glimt, (DEN) Copenhagen, (DEN) Midtjylland, (DEN) Brondby, (FIN) HJK Helsinki, (ISL) KR Reykjavik, (ISL) Valur Reykjavik, (MDA) Sheriff Tiraspol, (AZE) Qarabag, (AZE) Neftci Baku, (ARM) Pyunik, (GEO) Dinamo Tbilisi, (KAZ) Astana, (CYP) APOEL Nicosia, (CYP) Omonia Nicosia, (MLT) Valletta, (BIH) Zrinjski Mostar, (SVK) Slovan Bratislava, (LUX) F91 Dudelange, (MKD) Vardar Skopje]	
-away_team: [(ESP) Real Madrid, (ESP) Barcelona, (ESP) Atletico Madrid, (ESP) Sevilla, (ESP) Valencia, (ESP) Villarreal, (ESP) Real Sociedad, (ESP) Real Betis, (ESP) Athletic Bilbao, (ESP) Espanyol, (ENG) Manchester City, (ENG) Manchester United, (ENG) Liverpool, (ENG) Chelsea, (ENG) Arsenal, (ENG) Tottenham Hotspur, (ENG) Newcastle United, (ENG) Aston Villa, (ENG) West Ham United, (ENG) Everton, (ENG) Leicester City, (ENG) Leeds United, (ENG) Wolverhampton Wanderers, (ENG) Crystal Palace, (ENG) Brighton Hove Albion, (ENG) Brentford, (ENG) Fulham, (ENG) Sheffield United, (ENG) Burnley, (ENG) Bournemouth, (ITA) Juventus, (ITA) Inter Milan, (ITA) AC Milan, (ITA) Napoli, (ITA) Roma, (ITA) Lazio, (ITA) Atalanta, (ITA) Fiorentina, (ITA) Torino, (ITA) Bologna, (ITA) Sampdoria, (ITA) Udinese, (ITA) Empoli, (ITA) Sassuolo, (ITA) Genoa, (ITA) Parma, (ITA) Palermo, (GER) Bayern Munich, (GER) Borussia Dortmund, (GER) RB Leipzig, (GER) Bayer Leverkusen, (GER) Schalke 04, (GER) Eintracht Frankfurt, (GER) VfL Wolfsburg, (GER) Borussia Monchengladbach, (GER) Hoffenheim, (GER) VfB Stuttgart, (GER) Werder Bremen, (GER) Mainz 05, (GER) Freiburg, (GER) Hertha BSC, (GER) FC Koln, (FRA) Paris Saint Germain, (FRA) Marseille, (FRA) Lyon, (FRA) Monaco, (FRA) Lille, (FRA) Lens, (FRA) Nice, (FRA) Rennes, (FRA) Bordeaux, (FRA) Saint Etienne, (NED) Ajax, (NED) PSV Eindhoven, (NED) Feyenoord, (NED) AZ Alkmaar, (NED) FC Twente, (NED) Vitesse Arnhem, (NED) FC Utrecht, (NED) Groningen, (POR) Benfica, (POR) Porto, (POR) Sporting CP, (POR) Braga, (POR) Boavista, (POR) Vitoria Guimaraes, (POR) Maritimo, (POR) Pacos de Ferreira, (BEL) Club Brugge, (BEL) Anderlecht, (BEL) Gent, (BEL) Genk, (BEL) Standard Liege, (BEL) Charleroi, (BEL) Union SG, (SCO) Celtic, (SCO) Rangers, (SCO) Aberdeen, (SCO) Hearts, (SCO) Hibernian, (TUR) Galatasaray, (TUR) Fenerbahce, (TUR) Besiktas, (TUR) Trabzonspor, (TUR) Basaksehir, (TUR) Sivasspor, (GRE) Olympiacos, (GRE) Panathinaikos, (GRE) PAOK, (GRE) AEK Athens, (GRE) Aris Thessaloniki, (AUT) Red Bull Salzburg, (AUT) Rapid Wien, (AUT) Sturm Graz, (AUT) Austria Wien, (SUI) Young Boys, (SUI) Basel, (SUI) FC Zurich, (SUI) Lugano, (SUI) St Gallen, (CZE) Slavia Praha, (CZE) Sparta Praha, (CZE) Viktoria Plzen, (CZE) Banik Ostrava, (POL) Legia Warsaw, (POL) Lech Poznan, (POL) Rakow Czestochowa, (POL) Pogon Szczecin, (ROU) CFR Cluj, (ROU) FCSB, (ROU) Universitatea Craiova, (BUL) Ludogorets Razgrad, (BUL) CSKA Sofia, (BUL) Levski Sofia, (SRB) Red Star Belgrade, (SRB) Partizan Belgrade, (SRB) Vojvodina, (CRO) Dinamo Zagreb, (CRO) Hajduk Split, (CRO) Osijek, (SLO) Maribor, (SLO) Olimpija Ljubljana, (HUN) Ferencvaros, (HUN) Fehervar, (ISR) Maccabi Tel Aviv, (ISR) Hapoel Beer Sheva, (ISR) Maccabi Haifa, (RUS) Zenit St Petersburg, (RUS) CSKA Moscow, (RUS) Spartak Moscow, (RUS) Lokomotiv Moscow, (RUS) Rubin Kazan, (UKR) Shakhtar Donetsk, (UKR) Dynamo Kyiv, (UKR) Dnipro 1, (UKR) Zorya Luhansk, (UKR) Vorskla Poltava, (SWE) Malmo FF, (SWE) AIK Stockholm, (SWE) IFK Goteborg, (SWE) Djurgarden, (NOR) Rosenborg, (NOR) Molde, (NOR) Bodoe Glimt, (DEN) Copenhagen, (DEN) Midtjylland, (DEN) Brondby, (FIN) HJK Helsinki, (ISL) KR Reykjavik, (ISL) Valur Reykjavik, (MDA) Sheriff Tiraspol, (AZE) Qarabag, (AZE) Neftci Baku, (ARM) Pyunik, (GEO) Dinamo Tbilisi, (KAZ) Astana, (CYP) APOEL Nicosia, (CYP) Omonia Nicosia, (MLT) Valletta, (BIH) Zrinjski Mostar, (SVK) Slovan Bratislava, (LUX) F91 Dudelange, (MKD) Vardar Skopje]
-result: [win, lose, pending]
+market:
+  - MatchOdds
+  - Halftime
+  - Over 0.5
+  - Over 1.5
+  - Over 2.5
+  - Over 3.5
+  - Over 4.5
+  - Over 5.5
+  - Over 6.5
+  - Over 7.5
+  - Over 8.5
+  - Over 9.5
+  - Under x.5
+  - Correct Score
+  - Over 0.5 HT
+  - Over 1.5 HT
+  - Over 2.5 HT
+  - Under x.5 HT
+  - CS HT
+  - HT/FT
+  - Handicap
+  - BTTS
+competition:
+  - (GER) Bundesliga 1
+  - (GER) Bundesliga 2
+  - (GER) Other Comps
+  - (GER) DFB-Pokal
+  - (ESP) LaLiga
+  - (ESP) LaLiga 2
+  - (ESP) Copa Del Rey
+  - (ESP) Other Comps
+  - (FRA) Ligue 1
+  - (FRA) Cup
+  - (FRA) League Cup
+  - (FRA) Other Comps
+  - (ENG) Premier League
+  - (ENG) Championship
+  - (ENG) FA Cup
+  - (ENG) EFL Cup
+  - (ENG) Other Comps
+  - (ITA) Serie A
+  - (ITA) Serie B
+  - (ITA) Coppa Italia
+  - (ITA) Other Comps
+  - (POR) Liga Portugal
+  - (POR) Liga Portugal 2
+  - (POR) Taca de Portugal
+  - (POR) Taca da Liga
+  - (POR) Other Comps
+  - (NLD) Eredivisie
+  - (NLD) Cup
+  - (NLD) Other Comps
+  - (INT Club) UEFA Champions League
+  - (INT Club) UEFA Europa League
+  - (INT Club) UEFA Conference League
+  - (INT Club) Other Competitions
+  - (INT Club) Friendly
+  - (INT NT) FIFA World Cup
+  - (INT NT) UEFA Euro
+  - (INT NT) UEFA Nations League
+  - (INT NT) CONMEBOL Copa America
+  - (INT NT) Other Competitions
+  - (INT NT) Friendly
+  - (Other Countries) League
+  - (Other Countries) Cup
+  - (Other Countres) Other Comps
+home_team:
+  - (ESP) Real Madrid
+  - (ESP) Barcelona
+  - (ESP) Atletico Madrid
+  - (ESP) Sevilla
+  - (ESP) Valencia
+  - (ESP) Villarreal
+  - (ESP) Real Sociedad
+  - (ESP) Real Betis
+  - (ESP) Athletic Bilbao
+  - (ESP) Espanyol
+  - (ENG) Manchester City
+  - (ENG) Manchester United
+  - (ENG) Liverpool
+  - (ENG) Chelsea
+  - (ENG) Arsenal
+  - (ENG) Tottenham Hotspur
+  - (ENG) Newcastle United
+  - (ENG) Aston Villa
+  - (ENG) West Ham United
+  - (ENG) Everton
+  - (ENG) Leicester City
+  - (ENG) Leeds United
+  - (ENG) Wolverhampton Wanderers
+  - (ENG) Crystal Palace
+  - (ENG) Brighton Hove Albion
+  - (ENG) Brentford
+  - (ENG) Fulham
+  - (ENG) Sheffield United
+  - (ENG) Burnley
+  - (ENG) Bournemouth
+  - (ITA) Juventus
+  - (ITA) Inter Milan
+  - (ITA) AC Milan
+  - (ITA) Napoli
+  - (ITA) Roma
+  - (ITA) Lazio
+  - (ITA) Atalanta
+  - (ITA) Fiorentina
+  - (ITA) Torino
+  - (ITA) Bologna
+  - (ITA) Sampdoria
+  - (ITA) Udinese
+  - (ITA) Empoli
+  - (ITA) Sassuolo
+  - (ITA) Genoa
+  - (ITA) Parma
+  - (ITA) Palermo
+  - (GER) Bayern Munich
+  - (GER) Borussia Dortmund
+  - (GER) RB Leipzig
+  - (GER) Bayer Leverkusen
+  - (GER) Schalke 04
+  - (GER) Eintracht Frankfurt
+  - (GER) VfL Wolfsburg
+  - (GER) Borussia Monchengladbach
+  - (GER) Hoffenheim
+  - (GER) VfB Stuttgart
+  - (GER) Werder Bremen
+  - (GER) Mainz 05
+  - (GER) Freiburg
+  - (GER) Hertha BSC
+  - (GER) FC Koln
+  - (FRA) Paris Saint Germain
+  - (FRA) Marseille
+  - (FRA) Lyon
+  - (FRA) Monaco
+  - (FRA) Lille
+  - (FRA) Lens
+  - (FRA) Nice
+  - (FRA) Rennes
+  - (FRA) Bordeaux
+  - (FRA) Saint Etienne
+  - (NED) Ajax
+  - (NED) PSV Eindhoven
+  - (NED) Feyenoord
+  - (NED) AZ Alkmaar
+  - (NED) FC Twente
+  - (NED) Vitesse Arnhem
+  - (NED) FC Utrecht
+  - (NED) Groningen
+  - (POR) Benfica
+  - (POR) Porto
+  - (POR) Sporting CP
+  - (POR) Braga
+  - (POR) Boavista
+  - (POR) Vitoria Guimaraes
+  - (POR) Maritimo
+  - (POR) Pacos de Ferreira
+  - (BEL) Club Brugge
+  - (BEL) Anderlecht
+  - (BEL) Gent
+  - (BEL) Genk
+  - (BEL) Standard Liege
+  - (BEL) Charleroi
+  - (BEL) Union SG
+  - (SCO) Celtic
+  - (SCO) Rangers
+  - (SCO) Aberdeen
+  - (SCO) Hearts
+  - (SCO) Hibernian
+  - (TUR) Galatasaray
+  - (TUR) Fenerbahce
+  - (TUR) Besiktas
+  - (TUR) Trabzonspor
+  - (TUR) Basaksehir
+  - (TUR) Sivasspor
+  - (GRE) Olympiacos
+  - (GRE) Panathinaikos
+  - (GRE) PAOK
+  - (GRE) AEK Athens
+  - (GRE) Aris Thessaloniki
+  - (AUT) Red Bull Salzburg
+  - (AUT) Rapid Wien
+  - (AUT) Sturm Graz
+  - (AUT) Austria Wien
+  - (SUI) Young Boys
+  - (SUI) Basel
+  - (SUI) FC Zurich
+  - (SUI) Lugano
+  - (SUI) St Gallen
+  - (CZE) Slavia Praha
+  - (CZE) Sparta Praha
+  - (CZE) Viktoria Plzen
+  - (CZE) Banik Ostrava
+  - (POL) Legia Warsaw
+  - (POL) Lech Poznan
+  - (POL) Rakow Czestochowa
+  - (POL) Pogon Szczecin
+  - (ROU) CFR Cluj
+  - (ROU) FCSB
+  - (ROU) Universitatea Craiova
+  - (BUL) Ludogorets Razgrad
+  - (BUL) CSKA Sofia
+  - (BUL) Levski Sofia
+  - (SRB) Red Star Belgrade
+  - (SRB) Partizan Belgrade
+  - (SRB) Vojvodina
+  - (CRO) Dinamo Zagreb
+  - (CRO) Hajduk Split
+  - (CRO) Osijek
+  - (SLO) Maribor
+  - (SLO) Olimpija Ljubljana
+  - (HUN) Ferencvaros
+  - (HUN) Fehervar
+  - (ISR) Maccabi Tel Aviv
+  - (ISR) Hapoel Beer Sheva
+  - (ISR) Maccabi Haifa
+  - (RUS) Zenit St Petersburg
+  - (RUS) CSKA Moscow
+  - (RUS) Spartak Moscow
+  - (RUS) Lokomotiv Moscow
+  - (RUS) Rubin Kazan
+  - (UKR) Shakhtar Donetsk
+  - (UKR) Dynamo Kyiv
+  - (UKR) Dnipro 1
+  - (UKR) Zorya Luhansk
+  - (UKR) Vorskla Poltava
+  - (SWE) Malmo FF
+  - (SWE) AIK Stockholm
+  - (SWE) IFK Goteborg
+  - (SWE) Djurgarden
+  - (NOR) Rosenborg
+  - (NOR) Molde
+  - (NOR) Bodoe Glimt
+  - (DEN) Copenhagen
+  - (DEN) Midtjylland
+  - (DEN) Brondby
+  - (FIN) HJK Helsinki
+  - (ISL) KR Reykjavik
+  - (ISL) Valur Reykjavik
+  - (MDA) Sheriff Tiraspol
+  - (AZE) Qarabag
+  - (AZE) Neftci Baku
+  - (ARM) Pyunik
+  - (GEO) Dinamo Tbilisi
+  - (KAZ) Astana
+  - (CYP) APOEL Nicosia
+  - (CYP) Omonia Nicosia
+  - (MLT) Valletta
+  - (BIH) Zrinjski Mostar
+  - (SVK) Slovan Bratislava
+  - (LUX) F91 Dudelange
+  - (MKD) Vardar Skopje
+  - (POR) Gil Vicente
+away_team:
+  - (ESP) Real Madrid
+  - (ESP) Barcelona
+  - (ESP) Atletico Madrid
+  - (ESP) Sevilla
+  - (ESP) Valencia
+  - (ESP) Villarreal
+  - (ESP) Real Sociedad
+  - (ESP) Real Betis
+  - (ESP) Athletic Bilbao
+  - (ESP) Espanyol
+  - (ENG) Manchester City
+  - (ENG) Manchester United
+  - (ENG) Liverpool
+  - (ENG) Chelsea
+  - (ENG) Arsenal
+  - (ENG) Tottenham Hotspur
+  - (ENG) Newcastle United
+  - (ENG) Aston Villa
+  - (ENG) West Ham United
+  - (ENG) Everton
+  - (ENG) Leicester City
+  - (ENG) Leeds United
+  - (ENG) Wolverhampton Wanderers
+  - (ENG) Crystal Palace
+  - (ENG) Brighton Hove Albion
+  - (ENG) Brentford
+  - (ENG) Fulham
+  - (ENG) Sheffield United
+  - (ENG) Burnley
+  - (ENG) Bournemouth
+  - (ITA) Juventus
+  - (ITA) Inter Milan
+  - (ITA) AC Milan
+  - (ITA) Napoli
+  - (ITA) Roma
+  - (ITA) Lazio
+  - (ITA) Atalanta
+  - (ITA) Fiorentina
+  - (ITA) Torino
+  - (ITA) Bologna
+  - (ITA) Sampdoria
+  - (ITA) Udinese
+  - (ITA) Empoli
+  - (ITA) Sassuolo
+  - (ITA) Genoa
+  - (ITA) Parma
+  - (ITA) Palermo
+  - (GER) Bayern Munich
+  - (GER) Borussia Dortmund
+  - (GER) RB Leipzig
+  - (GER) Bayer Leverkusen
+  - (GER) Schalke 04
+  - (GER) Eintracht Frankfurt
+  - (GER) VfL Wolfsburg
+  - (GER) Borussia Monchengladbach
+  - (GER) Hoffenheim
+  - (GER) VfB Stuttgart
+  - (GER) Werder Bremen
+  - (GER) Mainz 05
+  - (GER) Freiburg
+  - (GER) Hertha BSC
+  - (GER) FC Koln
+  - (FRA) Paris Saint Germain
+  - (FRA) Marseille
+  - (FRA) Lyon
+  - (FRA) Monaco
+  - (FRA) Lille
+  - (FRA) Lens
+  - (FRA) Nice
+  - (FRA) Rennes
+  - (FRA) Bordeaux
+  - (FRA) Saint Etienne
+  - (NED) Ajax
+  - (NED) PSV Eindhoven
+  - (NED) Feyenoord
+  - (NED) AZ Alkmaar
+  - (NED) FC Twente
+  - (NED) Vitesse Arnhem
+  - (NED) FC Utrecht
+  - (NED) Groningen
+  - (POR) Benfica
+  - (POR) Porto
+  - (POR) Sporting CP
+  - (POR) Braga
+  - (POR) Boavista
+  - (POR) Vitoria Guimaraes
+  - (POR) Maritimo
+  - (POR) Pacos de Ferreira
+  - (BEL) Club Brugge
+  - (BEL) Anderlecht
+  - (BEL) Gent
+  - (BEL) Genk
+  - (BEL) Standard Liege
+  - (BEL) Charleroi
+  - (BEL) Union SG
+  - (SCO) Celtic
+  - (SCO) Rangers
+  - (SCO) Aberdeen
+  - (SCO) Hearts
+  - (SCO) Hibernian
+  - (TUR) Galatasaray
+  - (TUR) Fenerbahce
+  - (TUR) Besiktas
+  - (TUR) Trabzonspor
+  - (TUR) Basaksehir
+  - (TUR) Sivasspor
+  - (GRE) Olympiacos
+  - (GRE) Panathinaikos
+  - (GRE) PAOK
+  - (GRE) AEK Athens
+  - (GRE) Aris Thessaloniki
+  - (AUT) Red Bull Salzburg
+  - (AUT) Rapid Wien
+  - (AUT) Sturm Graz
+  - (AUT) Austria Wien
+  - (SUI) Young Boys
+  - (SUI) Basel
+  - (SUI) FC Zurich
+  - (SUI) Lugano
+  - (SUI) St Gallen
+  - (CZE) Slavia Praha
+  - (CZE) Sparta Praha
+  - (CZE) Viktoria Plzen
+  - (CZE) Banik Ostrava
+  - (POL) Legia Warsaw
+  - (POL) Lech Poznan
+  - (POL) Rakow Czestochowa
+  - (POL) Pogon Szczecin
+  - (ROU) CFR Cluj
+  - (ROU) FCSB
+  - (ROU) Universitatea Craiova
+  - (BUL) Ludogorets Razgrad
+  - (BUL) CSKA Sofia
+  - (BUL) Levski Sofia
+  - (SRB) Red Star Belgrade
+  - (SRB) Partizan Belgrade
+  - (SRB) Vojvodina
+  - (CRO) Dinamo Zagreb
+  - (CRO) Hajduk Split
+  - (CRO) Osijek
+  - (SLO) Maribor
+  - (SLO) Olimpija Ljubljana
+  - (HUN) Ferencvaros
+  - (HUN) Fehervar
+  - (ISR) Maccabi Tel Aviv
+  - (ISR) Hapoel Beer Sheva
+  - (ISR) Maccabi Haifa
+  - (RUS) Zenit St Petersburg
+  - (RUS) CSKA Moscow
+  - (RUS) Spartak Moscow
+  - (RUS) Lokomotiv Moscow
+  - (RUS) Rubin Kazan
+  - (UKR) Shakhtar Donetsk
+  - (UKR) Dynamo Kyiv
+  - (UKR) Dnipro 1
+  - (UKR) Zorya Luhansk
+  - (UKR) Vorskla Poltava
+  - (SWE) Malmo FF
+  - (SWE) AIK Stockholm
+  - (SWE) IFK Goteborg
+  - (SWE) Djurgarden
+  - (NOR) Rosenborg
+  - (NOR) Molde
+  - (NOR) Bodoe Glimt
+  - (DEN) Copenhagen
+  - (DEN) Midtjylland
+  - (DEN) Brondby
+  - (FIN) HJK Helsinki
+  - (ISL) KR Reykjavik
+  - (ISL) Valur Reykjavik
+  - (MDA) Sheriff Tiraspol
+  - (AZE) Qarabag
+  - (AZE) Neftci Baku
+  - (ARM) Pyunik
+  - (GEO) Dinamo Tbilisi
+  - (KAZ) Astana
+  - (CYP) APOEL Nicosia
+  - (CYP) Omonia Nicosia
+  - (MLT) Valletta
+  - (BIH) Zrinjski Mostar
+  - (SVK) Slovan Bratislava
+  - (LUX) F91 Dudelange
+  - (MKD) Vardar Skopje
+  - (POR) Gil Vicente
+result:
+  - win
+  - lose
+  - pending
+created: 2025-08-09 19:00
+updated: 2025-08-17 23:21
 ---
 
 # 200.99 Properties

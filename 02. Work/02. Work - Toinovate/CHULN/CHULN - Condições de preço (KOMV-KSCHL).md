@@ -1,10 +1,11 @@
 ---
 title: CHULN - Condições de preço (KOMV-KSCHL)
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2022-09-14 15:30:34Z
 author: André Luz
 tags:
   - chuln
+cliente: chuln
 ---
 
 KOMV-KSCHL

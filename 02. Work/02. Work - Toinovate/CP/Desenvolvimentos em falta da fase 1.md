@@ -1,11 +1,12 @@
 ---
 title: Desenvolvimentos em falta da fase 1
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2020-04-16 08:55:20Z
 source: file:///C:/Users/andre/AppData/Local/Microsoft/Windows/INetCache/Content.MSO/5E27B048.xlsx
 author: André Luz
 tags:
   - cp/emef
+cliente: cp
 ---
 
 **Exit - CMOD    ZMMEXIT1    EXIT_SAPLMEREQ_010    Cliente na requisição de compra**

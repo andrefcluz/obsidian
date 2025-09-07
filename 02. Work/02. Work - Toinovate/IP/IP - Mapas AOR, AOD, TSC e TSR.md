@@ -1,10 +1,11 @@
 ---
 title: IP - Mapas AOR, AOD, TSC e TSR
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2023-03-03 10:39:00Z
 author: André Luz
 tags:
   - ip
+cliente: ip
 ---
 
 Todos eles serão com base nos mapas que estão no IPL, mas não esquecer que a IP tem as suas particularidades, nomeadamente:

@@ -1,10 +1,11 @@
 ---
 title: IPL - Fatura Eletronica
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2022-01-04 12:30:06Z
 author: André Luz
 tags:
   - ipl/fatura eletronica
+cliente: ipl
 ---
 
 ### Transportes

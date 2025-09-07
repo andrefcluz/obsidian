@@ -1,10 +1,11 @@
 ---
 title: Processo de Faturação Eletrónica
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:32
 created: 2019-07-23 08:58:14Z
 author: André Luz
 tags:
   - proj_internos-fatura_eletronica_saphety
+cliente: toinovate_proj_interno
 ---
 
 **Webservice**

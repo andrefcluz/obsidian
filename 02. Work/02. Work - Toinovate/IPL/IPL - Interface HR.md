@@ -1,11 +1,12 @@
 ---
 title: Interface HR
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2018-10-22 09:43:27Z
 source: http://saperpdev.ipl.pt:8000/sap/bc/webdynpro/sap/appl_soap_management?sap-system-login-basic_auth=X&sap-client=100&sap-language=PT
 author: André Luz
 tags:
   - ipl
+cliente: ipl
 ---
 
 **WebServices**

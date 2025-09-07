@@ -1,10 +1,11 @@
 ---
 title: Dados IPL
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2018-06-04 10:01:11Z
 author: André Luz
 tags:
   - ipl
+cliente: ipl
 ---
 
 Empresas

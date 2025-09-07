@@ -1,8 +1,9 @@
 ---
 created: 2025-05-30 10:27
-updated: 2025-06-29 16:33
+updated: 2025-08-20 15:26
 tags:
   - cp
+cliente: cp
 ---
 Hierarquia na CJ20N e respetiva representação em tabela interna: 
 

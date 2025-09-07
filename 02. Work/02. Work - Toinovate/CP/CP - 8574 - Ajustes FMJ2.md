@@ -1,12 +1,13 @@
 ---
 title: CP - 8574 - Ajustes FMJ2
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2024-06-28 08:27:48Z
 latitude: 39.3384417
 longitude: -8.9427076
 altitude: 0
 tags:
   - cp
+cliente: cp
 ---
 
 1000

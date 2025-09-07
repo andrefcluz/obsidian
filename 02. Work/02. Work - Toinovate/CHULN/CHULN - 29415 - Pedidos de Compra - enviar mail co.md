@@ -1,10 +1,11 @@
 ---
 title: CHULN - 29415 - Pedidos de Compra - enviar mail com as quantidades a fornecedor
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2022-07-15 09:55:29Z
 author: André Luz
 tags:
   - chuln
+cliente: chuln
 ---
 
 Programa: ZMM_EMAIL_FORNECEDORES

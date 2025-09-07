@@ -4,7 +4,9 @@ tags:
   - sap
   - isq
 created: 2024-11-12 16:16
-updated: 2025-06-29 16:37
+updated: 2025-08-20 15:30
+cliente:
+  - isq
 ---
 Cliente: ISQ
 

@@ -1,11 +1,12 @@
 ---
 title: Questões técnicas a colocar no projeto de fusão CP/EMEF
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2019-10-09 09:21:12Z
 author: André Luz
 tags:
   - cp
   - cp/emef
+cliente: cp
 ---
 
 - Comparar estrutura organizacional de ambas as empresas

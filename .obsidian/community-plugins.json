@@ -1,11 +1,11 @@
 [
   "lazy-plugins",
   "remotely-save",
-  "chronology",
-  "dataview",
-  "obsidian-style-settings",
-  "blur",
   "update-time-on-edit",
   "homepage",
-  "tray"
+  "tray",
+  "blur",
+  "chronology",
+  "dataview",
+  "obsidian-style-settings"
 ]

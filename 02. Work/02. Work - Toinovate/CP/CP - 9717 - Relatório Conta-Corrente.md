@@ -1,8 +1,10 @@
 ---
 created: 2025-08-11 16:26
-updated: 2025-08-12 16:18
+updated: 2025-09-07 18:45
 share_link: https://share.note.sx/1up9snes
 share_updated: 2025-08-12T16:05:47+01:00
+cliente:
+  - cp
 ---
 
 - Item Fin.

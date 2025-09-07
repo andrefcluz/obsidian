@@ -1,12 +1,13 @@
 ---
 title: Configurações IPL
-updated: 2024-10-08 16:31
+updated: 2025-08-20 15:28
 created: 2018-09-11 07:31:19Z
 author: André Luz
 tags:
   - ipl
 share_link: https://share.note.sx/4tov6pjc
 share_updated: 2024-10-08T16:31:04+01:00
+cliente: ipl
 ---
 
 #### Rede

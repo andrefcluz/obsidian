@@ -1,10 +1,11 @@
 ---
 title: Fluxo DFC
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2020-11-17 11:10:22Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 1. Faz match dos documentos DFC com orçamental - **FEITO**

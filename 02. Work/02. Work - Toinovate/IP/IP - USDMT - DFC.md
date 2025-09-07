@@ -1,11 +1,12 @@
 ---
 title: IP - USDMT - DFC
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:28
 created: 2022-01-07 11:51:55Z
 author: André Luz
 tags:
   - ip
   - usdmt
+cliente: ip
 ---
 
 Tabelas FLQ*

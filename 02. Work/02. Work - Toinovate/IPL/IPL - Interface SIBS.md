@@ -1,51 +1,53 @@
 ---
 title: IPL - Interface SIBS
-updated: 2025-03-12 16:04
+updated: 2025-09-04 13:22
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:
   - ipl/sibs
+cliente: ipl
 ---
 
 ### Transportes
 
-| OT         | Descrição                                                  | QLD        | PRD        |
-| ---------- | ---------------------------------------------------------- | ---------- | ---------- |
-| DPLK904872 | TOIN: Integração SIBS - Geração Referencias Multibanco     | 26/05/2021 | 18/11/2022 |
-| DPLK905043 | TOIN: Integração SIBS - Geração Referencias Multibanco #2  | 03/02/2022 | 18/11/2022 |
-| DPLK905508 | TOIN: Integração SIBS - Siubstituição meio pagamento       | 03/02/2022 | 18/11/2022 |
-| DPLK905513 | TOIN: Integração SIBS - Geração Referencias Multibanco #3  | 04/02/2022 | 18/11/2022 |
-| DPLK905525 | TOIN: Integração SIBS - Geração Referencias Multibanco #4  | 10/02/2022 | 18/11/2022 |
-| DPLK905532 | TOIN: Integração SIBS - Geração Referencias Multibanco #5  | 10/02/2022 | 18/11/2022 |
-| DPLK905540 | TOIN: Integração SIBS - Geração Referencias Multibanco #6  | 15/02/2022 | 18/11/2022 |
-| DPLK905556 | TOIN: Integração SIBS - Geração Referencias Multibanco #7  | 21/02/2022 | 18/11/2022 |
-| DPLK905566 | TOIN: Integração SIBS - Geração Referencias Multibanco #8  | 24/02/2022 | 18/11/2022 |
-| DPLK905568 | TOIN: Integração SIBS - Geração Referencias Multibanco #9  | 03/03/2022 | 18/11/2022 |
-| DPLK905570 | TOIN: Integração SIBS - Geração Referencias Multibanco #10 | 04/03/2022 | 18/11/2022 |
-| DPLK905757 | TOIN: Integração SIBS - Geração Referencias Multibanco #11 | 20/06/2022 | 18/11/2022 |
-| DPLK905804 | TOIN: Integração SIBS - Geração Referencias Multibanco #12 | 12/07/2022 | 18/11/2022 |
-| DPLK905812 | TOIN: Integração SIBS - Geração Referencias Multibanco #13 | 18/07/2022 | 18/11/2022 |
-| DPLK905814 | TOIN: Integração SIBS - Geração Referencias Multibanco #14 | 02/08/2022 | 18/11/2022 |
-| DPLK905920 | TOIN: Integração SIBS - Geração Referencias Multibanco #15 | 18/11/2022 | 18/11/2022 |
-| DPLK905969 | TOIN: Integração SIBS - Geração Referencias Multibanco #16 | 15/12/2022 | 15/12/2022 |
-| DPLK906023 | TOIN: Integração SIBS - Geração Referencias Multibanco #17 | 09.01.2023 | 09.01.2023 |
-| DPLK906025 | TOIN: Integração SIBS - Geração Referencias Multibanco #18 | 09.01.2023 | 09.01.2023 |
-| DPLK906029 | TOIN: Integração SIBS - Geração Referencias Multibanco #19 | 09.01.2023 | 09.01.2023 |
-| DPLK906044 | TOIN: Integração SIBS - Geração Referencias Multibanco #20 | 11.01.2023 | 11.01.2023 |
-| DPLK906050 | TOIN: Integração SIBS - Geração Referencias Multibanco #21 | 12.01.2023 | 12.01.2023 |
-| DPLK906052 | TOIN: Integração SIBS - Geração Referencias Multibanco #22 | 12.01.2023 | 12.01.2023 |
-| DPLK906054 | TOIN: Integração SIBS - Geração Referencias Multibanco #23 | 12.01.2023 | 12.01.2023 |
-| DPLK906058 | TOIN: Integração SIBS - Geração Referencias Multibanco #24 | 12.01.2023 | 12.01.2023 |
-| DPLK906060 | TOIN: Integração SIBS - Geração Referencias Multibanco #25 | 25.01.2023 | 25.01.2023 |
-| DPLK906181 | TOIN: Integração SIBS - Geração Referencias Multibanco #26 | 02.03.2023 | 02.03.2023 |
-| DPLK906193 | TOIN: Integração SIBS - Geração Referencias Multibanco #27 | 08.03.2023 | 08.03.2023 |
-| DPLK906195 | TOIN: Integração SIBS - Geração Referencias Multibanco #28 | 08.03.2023 | 08.03.2023 |
-| DPLK906197 | TOIN: Integração SIBS - Geração Referencias Multibanco #29 | 08.05.2023 | 08.05.2023 |
-| DPLK906526 | TOIN: Integração SIBS - Geração Referencias Multibanco #30 | 17.11.2023 | 05.12.2023 |
-| DPLK907131 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #1 - AL   | 18.07.2024 | 18.07.2024 |
-| DPLK907135 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #2 - AL   | 22.07.2024 | 22.07.2024 |
-| DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1  |            |            |
-| DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31 | 2025.02.24 | 2025.02.24 |
+| OT         | Descrição                                                    | QLD        | PRD        |
+| ---------- | ------------------------------------------------------------ | ---------- | ---------- |
+| DPLK904872 | TOIN: Integração SIBS - Geração Referencias Multibanco       | 26/05/2021 | 18/11/2022 |
+| DPLK905043 | TOIN: Integração SIBS - Geração Referencias Multibanco #2    | 03/02/2022 | 18/11/2022 |
+| DPLK905508 | TOIN: Integração SIBS - Siubstituição meio pagamento         | 03/02/2022 | 18/11/2022 |
+| DPLK905513 | TOIN: Integração SIBS - Geração Referencias Multibanco #3    | 04/02/2022 | 18/11/2022 |
+| DPLK905525 | TOIN: Integração SIBS - Geração Referencias Multibanco #4    | 10/02/2022 | 18/11/2022 |
+| DPLK905532 | TOIN: Integração SIBS - Geração Referencias Multibanco #5    | 10/02/2022 | 18/11/2022 |
+| DPLK905540 | TOIN: Integração SIBS - Geração Referencias Multibanco #6    | 15/02/2022 | 18/11/2022 |
+| DPLK905556 | TOIN: Integração SIBS - Geração Referencias Multibanco #7    | 21/02/2022 | 18/11/2022 |
+| DPLK905566 | TOIN: Integração SIBS - Geração Referencias Multibanco #8    | 24/02/2022 | 18/11/2022 |
+| DPLK905568 | TOIN: Integração SIBS - Geração Referencias Multibanco #9    | 03/03/2022 | 18/11/2022 |
+| DPLK905570 | TOIN: Integração SIBS - Geração Referencias Multibanco #10   | 04/03/2022 | 18/11/2022 |
+| DPLK905757 | TOIN: Integração SIBS - Geração Referencias Multibanco #11   | 20/06/2022 | 18/11/2022 |
+| DPLK905804 | TOIN: Integração SIBS - Geração Referencias Multibanco #12   | 12/07/2022 | 18/11/2022 |
+| DPLK905812 | TOIN: Integração SIBS - Geração Referencias Multibanco #13   | 18/07/2022 | 18/11/2022 |
+| DPLK905814 | TOIN: Integração SIBS - Geração Referencias Multibanco #14   | 02/08/2022 | 18/11/2022 |
+| DPLK905920 | TOIN: Integração SIBS - Geração Referencias Multibanco #15   | 18/11/2022 | 18/11/2022 |
+| DPLK905969 | TOIN: Integração SIBS - Geração Referencias Multibanco #16   | 15/12/2022 | 15/12/2022 |
+| DPLK906023 | TOIN: Integração SIBS - Geração Referencias Multibanco #17   | 09.01.2023 | 09.01.2023 |
+| DPLK906025 | TOIN: Integração SIBS - Geração Referencias Multibanco #18   | 09.01.2023 | 09.01.2023 |
+| DPLK906029 | TOIN: Integração SIBS - Geração Referencias Multibanco #19   | 09.01.2023 | 09.01.2023 |
+| DPLK906044 | TOIN: Integração SIBS - Geração Referencias Multibanco #20   | 11.01.2023 | 11.01.2023 |
+| DPLK906050 | TOIN: Integração SIBS - Geração Referencias Multibanco #21   | 12.01.2023 | 12.01.2023 |
+| DPLK906052 | TOIN: Integração SIBS - Geração Referencias Multibanco #22   | 12.01.2023 | 12.01.2023 |
+| DPLK906054 | TOIN: Integração SIBS - Geração Referencias Multibanco #23   | 12.01.2023 | 12.01.2023 |
+| DPLK906058 | TOIN: Integração SIBS - Geração Referencias Multibanco #24   | 12.01.2023 | 12.01.2023 |
+| DPLK906060 | TOIN: Integração SIBS - Geração Referencias Multibanco #25   | 25.01.2023 | 25.01.2023 |
+| DPLK906181 | TOIN: Integração SIBS - Geração Referencias Multibanco #26   | 02.03.2023 | 02.03.2023 |
+| DPLK906193 | TOIN: Integração SIBS - Geração Referencias Multibanco #27   | 08.03.2023 | 08.03.2023 |
+| DPLK906195 | TOIN: Integração SIBS - Geração Referencias Multibanco #28   | 08.03.2023 | 08.03.2023 |
+| DPLK906197 | TOIN: Integração SIBS - Geração Referencias Multibanco #29   | 08.05.2023 | 08.05.2023 |
+| DPLK906526 | TOIN: Integração SIBS - Geração Referencias Multibanco #30   | 17.11.2023 | 05.12.2023 |
+| DPLK907131 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #1 - AL     | 18.07.2024 | 18.07.2024 |
+| DPLK907135 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #2 - AL     | 22.07.2024 | 22.07.2024 |
+| DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1    |            |            |
+| DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31   | 2025.02.24 | 2025.02.24 |
+| DPLK908002 | GQY-UUE-DN4L - SIBS - Não gerar ref MB em doc estorn #1 - AL | 2025-09-03 | 2025-09-04 |
 
 * * *
 

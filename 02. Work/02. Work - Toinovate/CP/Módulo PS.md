@@ -1,10 +1,11 @@
 ---
 title: Módulo PS
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2019-07-24 10:00:10Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 Projeto CMOD: ZPS00001

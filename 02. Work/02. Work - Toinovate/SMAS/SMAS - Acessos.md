@@ -1,10 +1,11 @@
 ---
 title: SMAS - Acessos
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:32
 created: 2021-06-21 10:37:11Z
 author: André Luz
 tags:
   - smas
+cliente: smas
 ---
 
 VPN

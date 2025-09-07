@@ -2,8 +2,10 @@
 share_link: https://share.note.sx/hbuxt3zx
 share_updated: 2025-04-14T12:18:47+01:00
 created: 2025-04-12 09:35
-updated: 2025-04-14 12:18
+updated: 2025-08-20 15:10
 tags:
+  - chuln
+cliente:
   - chuln
 ---
 O objetivo do relatório é permitir visualizar o stock e valores desagregado por depósito, num determina intervalo de datas. O SAP de forma standard só permite fazer isso para a data atual, ou então para um intervalo de datas, mas não é desagregado por depósito. 

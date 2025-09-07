@@ -1,11 +1,12 @@
 ---
 title: Update de segmentos de ciclos de rateio em massa
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2021-06-25 13:21:10Z
 author: André Luz
 tags:
   - cp
   - cp/emef
+cliente: cp
 ---
 
 Programa ja existente - ZCOB2616

@@ -1,9 +1,11 @@
 ---
 title: SPAU ISCTE
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:31
 created: 2019-07-11 16:53:14Z
 author: André Luz
 tags:
+  - iscte
+cliente:
   - iscte
 ---
 

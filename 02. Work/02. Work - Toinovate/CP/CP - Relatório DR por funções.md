@@ -1,10 +1,11 @@
 ---
 title: CP - Relatório DR por funções
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2023-03-06 20:13:18Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 Relatório construido com objetos locais: ZSDB2841

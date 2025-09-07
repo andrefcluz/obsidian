@@ -1,10 +1,11 @@
 ---
 title: Ferramenta de reclassificação - Ajustes FMCT
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:26
 created: 2021-01-18 17:42:31Z
 author: André Luz
 tags:
   - cp
+cliente: cp
 ---
 
 FMIFIIT - Quando tem linhas 57, copiar as linhas e mudar para 54 e meter o pisco em estatistico (STATS)

@@ -1,10 +1,11 @@
 ---
 title: CHULN - 28683 - Contrato Codificado de Valor (ZWC)
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:26
 created: 2022-06-23 09:54:51Z
 author: André Luz
 tags:
   - chuln
+cliente: chuln
 ---
 
 ### Criar campo "Valor Fixado Bruto" no cabeçalho do contrato

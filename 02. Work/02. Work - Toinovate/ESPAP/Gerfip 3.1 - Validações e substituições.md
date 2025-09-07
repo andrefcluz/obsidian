@@ -1,10 +1,11 @@
 ---
 title: Gerfip 3.1 - Validações e substituições
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:27
 created: 2017-09-15 07:35:26Z
 author: André Luz
 tags:
   - espap
+cliente: espap
 ---
 
 **RGUGBR00**

@@ -1,10 +1,11 @@
 ---
 title: EDIA - Fatura Eletronica <> Saphety (Milestone)
-updated: 2024-10-06 10:51
+updated: 2025-08-20 15:27
 created: 2021-09-27 09:36:03Z
 author: André Luz
 tags:
   - edia
+cliente: edia
 ---
 
 # Acessos

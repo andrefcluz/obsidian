@@ -1,10 +1,11 @@
 ---
 title: Toinovate - Fatura Eletronica
-updated: 2024-10-06 10:50
+updated: 2025-08-20 15:32
 created: 2021-07-20 13:30:50Z
 author: André Luz
 tags:
   - proj_internos-fatura_eletronica_espap
+cliente: toinovate_proj_interno
 ---
 
 2015abap
