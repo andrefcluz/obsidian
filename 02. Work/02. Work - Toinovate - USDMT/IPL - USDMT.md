@@ -1,6 +1,6 @@
 ---
 title: IPL - USDMT
-updated: 2025-08-06 09:59
+updated: 2025-09-24 10:39
 created: 2024-01-02 14:10:07Z
 author: André Luz
 tags:
@@ -13,7 +13,7 @@ share_updated: 2024-09-17T10:24:23+01:00
 
 | **OT**     | **Descrição**                                    | **Data QLD** | **Data PRD** |
 | ---------- | ------------------------------------------------ | ------------ | ------------ |
-| DPLK906604 | USDMT - Correções e ajustes #1                   | 09.01.2024   | 12.01.2024   |
+| DPLK906604 | USDMT - Correções e ajustes #1<br>               | 09.01.2024   | 12.01.2024   |
 | DPLK906610 | USDMT - Customizing ABAP #1                      | 09.01.2024   | 12.01.2024   |
 | DPLK906620 | USDMT - Ajustes mapas DODES e DOREC              | 09.01.2024   | 12.01.2024   |
 | DPLK906636 | USDMT - Ajustes mapas DODES e DOREC #2           | 11.01.2024   | 12.01.2024   |
@@ -131,4 +131,6 @@ share_updated: 2024-09-17T10:24:23+01:00
 | DPLK907951 | USDMT - Correções e ajustes #59                  | 2025.08.06   | 2025.08.06   |
 | DPLK907972 | USDMT - Correções e ajustes #60                  | 2025.08.06   | 2025.08.06   |
 | DPLK907974 | USDMT - Correções e ajustes #61                  | 2025.08.06   | 2025.08.06   |
+| DPLK908014 | USDMT - Correções e ajustes #62                  | 2025-09-19   | 2025-09-19   |
+| DPLK908019 | USDMT - Correções e ajustes #63                  |              |              |
 

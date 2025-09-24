@@ -1,6 +1,46 @@
 ---
 created: 2025-08-21 15:27
-updated: 2025-09-02 18:51
+updated: 2025-09-11 22:44
+---
+## 🎯 Paces
+
+#### Goal Paces
+
+
+
+#### 1️⃣ Block 1 Paces
+
+- **E:** 5:25-5:50/km
+- **M:** 4:54-5:04/km
+- **T:** 4:35-4:45/km
+- **I:** 4:13-4:23/km
+- **R:** 3:58-4:08/km
+
+#### 2️⃣ Block 2 Paces
+
+- **E:** 
+- **M:** 
+- **T:** 
+- **I:** 
+- **R:** 
+
+#### 3️⃣ Block 3 Paces
+
+- **E:** 
+- **M:** 
+- **T:** 
+- **I:** 
+- **R:** 
+
+#### 4️⃣ Block 4 Paces (Goal) 🎯
+
+- **E:** 5:20-5:40/km
+- **M:** 4:40-4:50/km
+- **T:** 4:10-4:15/km
+- **I:** 3:55-4:00/km
+- **R:** 3:40-3:45/km
+- **Race Pace (5K):** 4:00/km
+
 ---
 ## Plan Blocks
 
@@ -13,7 +53,7 @@ updated: 2025-09-02 18:51
 ---
 
 ### **Block 2 (Weeks 5–8: VO₂max & Endurance Progression)
-**
+
 - **Wed (Quality):** 6×800m @ I (3:05–3:10/800), jog 2–3 min.
 - **Fri (T+R):** 20 min @ T + 6×200m @ R (44s), full jog recoveries.
 - **Sun (LR):** 16–18 km E, last 15 min @ T.
@@ -45,18 +85,7 @@ updated: 2025-09-02 18:51
     - Fri: 3×3 min @ I (controlled)
     - Sun: **Race Day – Sub-20 attempt 🚀**
 
----
 
-## 🎯 Paces (for Sub-20 5K, VDOT ~52)
-
-- **E:** 5:20–5:40/km
-- **M:** ~4:45/km
-- **T:** 4:10–4:15/km
-- **I:** 3:55–4:00/km
-- **R:** 3:40–3:45/km
-- **Race Pace (5K):** 4:00/km
-
----
 
 ## 📅 16-Week Sub-20 5K Plan (with Weekly Quality Sessions)
 
@@ -140,26 +169,3 @@ updated: 2025-09-02 18:51
     - Sun: **RACE DAY – Sub-20 attempt 🚀**
 
 ---
-
-### 🎯 Training Paces (for Sub-20 goal, VDOT ~52)
-
-- **E:** 5:20–5:40/km
-- **M:** ~4:45/km
-- **T:** 4:10–4:15/km
-- **I:** 3:55–4:00/km
-- **R:** 3:40–3:45/km
-- **5K Race Pace:** 4:00/km
-
-
-- **E:** 5:34/km - 6:59/km
-- **M:** 4:54/km - 5:30/km
-- **T:** 4:29/km - 4:41/km
-- **I:** 4:07/km - 4:20/km
-- **R:** 3:45/km - 3:56/km
-
-
-- **E:** 5:34/km - 6:59/km
-- **M:** 4:54/km - 5:30/km
-- **T:** 4:25/km - 4:40/km
-- **I:** 3:55/km - 4:10/km
-- **R:** 3:40/km - 3:55/km

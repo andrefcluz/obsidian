@@ -1,6 +1,6 @@
 ---
 created: 2025-04-22 16:00
-updated: 2025-07-11 08:08
+updated: 2025-09-22 10:01
 tags:
   - chuln
 ---
@@ -9,7 +9,7 @@ Pacote: **ZVORT**
 
 Configuração da porta na tabela **ZMM_INT_CONFIG**
 
-Utilizador: 701229015_241203162431
+Utilizador: 701229015_241203162431 
 Palavra-Chave: (QwMZB_8nE
 Código da Entidade: 	70122901
 Códigos de Utilizadores:
@@ -63,3 +63,48 @@ ls_offer_detail-OFFER_DETAIL-BASE-QUESTIONNAIRES-BASE-NEW_ENTITIES-ITEMS-QUESTIO
 ...-SPECIFICATIONS-BASE-NEW_ENTITIES-ITEMS-SPECIFICATION_QUESTION_EXTERNA[]-...
 
 ...-BASE-REPLY_VALUE (Valor???)
+
+
+...-LINES-BASE-NEW_ENTITIES-ITEMS-LINE_QUESTION_EXTERNAL_INTEGRA[]-BASE :
+- Quantity - Quantidade
+- ReplyPrice (Preço unitário) - Valor unitário
+- ReplyPriceTotal - Valor total (Quantity x ReplyPrice)
+
+
+Saber que item modificar:
+- No XML ler descrição do material e lote
+- Ler dados da solicitação na EKPO, ver as requisições (EKPO-BANFN) e ver que requisições têm o lote que vem no XML
+- Depois na requisição ver o item que tem a descrição do material que vem no XML
+- Ver na solicitação qual o item que tem requisição/item obtidos nos pontos anteriores e modificar esse item
+
+Prazo de entrega e prazo de pagamento ????
+
+
+---
+
+Requisições/itens/lote Vortal
+Solicitação cotação
+
+Ligar itens da solicitação de cotação com as requisições, para depois obter os itens da solicitação através da descrição do material e lote da requisição
+
+Criar tabela interna e ao lançar a solicitação preencher com:
+- Solicitação - preencher depois de lançar a solicitação com sucesso
+- Item solicitação - preencher ao carregar os dados de batch input
+- Descrição material - ler o material da requisição, e depois ler a descrição na MARA (ou descrição direta da requisição)
+- Lote - preencher ao carregar os dados de batch input
+- Requisição (Opcional) - preencher ao carregar os dados de batch input
+- Item requisição (Opcional) - preencher ao carregar os dados de batch input
+
+
+
+---
+
+Campos em falta:
+
+
+
+
+
+
+
+

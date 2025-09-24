@@ -1,6 +1,6 @@
 ---
 title: IPL - Interface SIBS
-updated: 2025-09-04 13:22
+updated: 2025-09-10 18:23
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:
@@ -48,6 +48,7 @@ cliente: ipl
 | DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1    |            |            |
 | DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31   | 2025.02.24 | 2025.02.24 |
 | DPLK908002 | GQY-UUE-DN4L - SIBS - Não gerar ref MB em doc estorn #1 - AL | 2025-09-03 | 2025-09-04 |
+| DPLK908004 | GQY-UUE-DN4L - SIBS - Não gerar ref quando FAT tem NC #1 -AL | 2025-09-09 | 2025-09-10 |
 
 * * *
 

@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - "!cliente.isEmpty()"
+    order:
+      - file.name
+      - cliente
+      - updated
+      - file.folder
+    sort:
+      - property: cliente
+        direction: ASC
+    columnSize:
+      file.name: 500
+      note.updated: 145
