@@ -1,20 +1,9 @@
 ---
-updated: 2025-08-20 14:51
+updated: 2025-09-30 12:29
 created: 2025-08-07 09:47
 share_link: https://share.note.sx/497r9mhl
 share_updated: 2025-08-20T14:51:48+01:00
 ---
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
 # 📘 USDMT - Documentação Técnica
 
   

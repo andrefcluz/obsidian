@@ -1,6 +1,6 @@
 ---
 title: Formatar PC - 2024
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2023-07-17 09:10:47Z
 author: André Luz
 tags:
@@ -153,8 +153,8 @@ Menu Iniciar
 
 Formatos Região
 
-![image.png](../../_resources/image-131.png)![image.png](../../_resources/image-127.png)![image.png](../../_resources/image-130.png)![image.png](../../_resources/image-122.png)![image.png](../../_resources/image-126.png)
+![image.png](../../_resources/image-131.png)![image.png](image-127.png)![image.png](../../_resources/image-130.png)![image.png](image-122.png)![image.png](image-126.png)
 
 Foxy Proxy
 
-![image.png](../../_resources/image-128.png)![image.png](../../_resources/image-124.png)
+![image.png](../../_resources/image-128.png)![image.png](image-124.png)

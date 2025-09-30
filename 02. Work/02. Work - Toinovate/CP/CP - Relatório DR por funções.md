@@ -1,6 +1,6 @@
 ---
 title: CP - Relatório DR por funções
-updated: 2025-08-20 15:26
+updated: 2025-09-26 14:45
 created: 2023-03-06 20:13:18Z
 author: André Luz
 tags:
@@ -36,6 +36,6 @@ Campos GLPCA
 | Montante | KSL |
 | Centro de custo | KOSTL |
 
-![image.png](image-2.png)![image.png](image-1.png)
+![image.png](EDIA_IPL%20-%20Ajuste%20ZPFM_HRDOCS-1758894190997.png)![image.png](image-1.png)
 
 c

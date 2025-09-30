@@ -1,6 +1,6 @@
 ---
 title: Formatar PC - Windows 11
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2022-05-22 19:39:52Z
 author: André Luz
 tags:
@@ -113,7 +113,7 @@ Jogos
 
 ## Start Menu
 
-![image.png](../../_resources/image-109.png)
+![image.png](image-109.png)
 
 ![image.png](../../_resources/image-119.png)![image.png](../../_resources/image-117.png)
 
@@ -127,14 +127,14 @@ Jogos
 
 ## Explorer
 
-![image.png](../../_resources/image-114.png)
+![image.png](image-114.png)
 
 * * *
 
 ## Configurações sistema
 
-![image.png](../../_resources/image-118.png)![image.png](../../_resources/image-116.png)![image.png](../../_resources/image-108.png)![image.png](../../_resources/image-111.png)![image.png](../../_resources/image-113.png)
+![image.png](../../_resources/image-118.png)![image.png](image-116.png)![image.png](image-108.png)![image.png](image-111.png)![image.png](../../_resources/image-113.png)
 
 * * *
 
-![image.png](../../_resources/image-115.png)![image.png](../../_resources/image-107.png)![image.png](../../_resources/image-110.png)
+![image.png](../../_resources/image-115.png)![image.png](image-107.png)![image.png](image-110.png)

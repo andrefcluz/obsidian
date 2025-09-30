@@ -1,6 +1,6 @@
 ---
 created: 2025-07-30 12:35
-updated: 2025-08-20 15:31
+updated: 2025-09-30 14:49
 cliente:
   - manutencao
   - navigator
@@ -16,6 +16,9 @@ Password-02
 **VPN (FortiClient)**
 hcsequeira
 Navi_1023
+
+ancolaco
+25Nvg.0190
 
 ![[Navigator - Acessos-1753946949417.png]]
 

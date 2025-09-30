@@ -1,6 +1,6 @@
 ---
 title: Separador "Dados Adicionais" nos dados mestre de fornecedor - FK03
-updated: 2025-08-20 15:28
+updated: 2025-09-30 08:45
 created: 2018-06-04 11:54:24Z
 author: André Luz
 tags:
@@ -24,6 +24,6 @@ SPRO -> Contabilidade Financeira -> Contabilidade de clientes e fornecedores -> 
 
 - Desativado o separador "Dados adicionais de sector público" - Grupo de telas PS
 
-![FK03 - Dados adicionais de setor publico (1).png](FK03_-_Dados_adicionais_de_setor-1)
+![FK03 - Dados adicionais de setor publico (1).png](FK03_-_Dados_adicionais_de_setor-1.md)
 
 ![FK03 - Dados adicionais de setor publico (2).png](FK03_-_Dados_adicionais_de_setor)

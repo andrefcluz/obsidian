@@ -1,6 +1,6 @@
 ---
 title: Formatar PC
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2014-08-15 13:49:46Z
 author: anfil89
 tags:
@@ -89,4 +89,4 @@ Cold Turkey
 
 Definições de Sistema
 
-![Screenshot 2020-09-26 234546.png](../../_resources/Screenshot_2020-09-26_234546.png)![Screenshot 2020-09-26 234609.png](../../_resources/Screenshot_2020-09-26_234609.png)![Screenshot 2020-09-26 234623.png](../../_resources/Screenshot_2020-09-26_234623.png)![Screenshot 2020-09-26 234636.png](../../_resources/Screenshot_2020-09-26_234636.png)![Screenshot 2020-09-26 234646.png](../../_resources/Screenshot_2020-09-26_234646.png)
+![Screenshot 2020-09-26 234546.png](../../_resources/Screenshot_2020-09-26_234546.png)![Screenshot 2020-09-26 234609.png](Screenshot_2020-09-26_234609.png)![Screenshot 2020-09-26 234623.png](../../_resources/Screenshot_2020-09-26_234623.png)![Screenshot 2020-09-26 234636.png](../../_resources/Screenshot_2020-09-26_234636.png)![Screenshot 2020-09-26 234646.png](../../_resources/Screenshot_2020-09-26_234646.png)

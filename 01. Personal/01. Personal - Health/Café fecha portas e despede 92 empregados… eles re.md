@@ -1,6 +1,6 @@
 ---
 title: Café fecha portas e despede 92 empregados… eles revelam receita mítica!
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2019-03-18 08:03:52Z
 source: https://elegante.pt/2017/01/19/cafe-fecha-portas-e-despede-92-empregados-eles-revelam-receita-mitica/
 tags:
@@ -19,4 +19,4 @@ Os antigos funcionários, atentos a estas mensagens, lançaram um desafio nas re
 
 Isto não teve qualquer problema para o café, visto que fechou portas, e deixou os clientes satisfeitos, agora que podem reproduzir a receita em casa e continuar a deliciar-se com os míticos cachorros.. ou quem sabe até abrir um café!
 
-![Untitled-5-4.jpg](../../_resources/Untitled-5-4.jpg)
+![Untitled-5-4.jpg](Untitled-5-4.jpg)

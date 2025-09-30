@@ -1,6 +1,6 @@
 ---
 title: Evolução Física - Fitness Hut
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2018-02-21 09:22:41Z
 author: André Luz
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 26.06.2018
-[Análise corporal.pdf](../../_resources/An_lise_corporal.pdf)
+[Análise corporal.pdf](An_lise_corporal.pdf)
 
 21.02.2018
 

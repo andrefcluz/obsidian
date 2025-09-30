@@ -1,6 +1,6 @@
 ---
 title: IPL - Interface SIBS
-updated: 2025-09-10 18:23
+updated: 2025-09-26 18:17
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:
@@ -56,7 +56,7 @@ Ticket: HEM-6RA-YD6P
 
 * * *
 
-Passos transportes
+**Passos transportes**
 
 - Parametrizar tabela ZSIBS_ENTIDADES
 - Parametrizar tabela ZSIBS_API_DATA
@@ -69,7 +69,7 @@ Passos transportes
 
 ### Dados PRD
 
-Dados comerciante
+**Dados comerciante**
 
 |     |     |     |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ Dados comerciante
 | ACCESS TOKEN /Bearer | OGFjOWE0Y2U4NDViZWMyYjAxODRjN2YyMTg4ZjE2MWZ8YXRwWGVXM0g5bQ== | token representativo do terminal |
 | URL | https://oppwa.com/v1/payments | URL webservice |
 
-Dados de acesso ao backoffice
+**Dados de acesso ao backoffice**
 
 |                |                                                                                                                                              |                            |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -87,7 +87,9 @@ Dados de acesso ao backoffice
 | User           | [fcarmo@sas.ipl.pt](mailto:fcarmo@sas.ipl.pt)                                                                                                | Username   de acesso ao BO |
 | Chave Webhooks | ~~7E40E33448485F3631BB121177E78AD0AAAA3B52D58D3560B8DA1393512BD0D9~~  <br>7C9EF259E46BC94BB2243F325B98E224AF3E37635B5A580C09A6BFE6DB087E08   |                            |
 
-Entidades
+**Entidades**
+
+(Para QLD/testes utilizar a entidade 27111 ou 25051)  
 
 |     |     |     |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

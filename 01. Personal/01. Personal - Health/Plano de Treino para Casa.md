@@ -1,6 +1,6 @@
 ---
 title: Plano de Treino para Casa
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2023-05-06 10:58:47Z
 author: André Luz
 tags:
@@ -38,7 +38,7 @@ tags:
 
 # **Resistance Bands Exercises**
 
-![image.png](../../_resources/image-105.png)
+![image.png](image-105.png)
 
 * * *
 

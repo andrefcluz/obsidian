@@ -1,6 +1,6 @@
 ---
 title: Plano Alimentar 31.03.2021
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2021-04-01 08:10:29Z
 author: André Luz
 latitude: 38.7948705
@@ -12,4 +12,4 @@ tags:
   - health
 ---
 
-![Snapshot.jpg](../../_resources/Snapshot-17.jpg)![Snapshot.jpg](../../_resources/Snapshot-16.jpg)![Snapshot.jpg](../../_resources/Snapshot-15.jpg)
+![Snapshot.jpg](../../_resources/Snapshot-17.jpg)![Snapshot.jpg](Snapshot-16.jpg)![Snapshot.jpg](Snapshot-15.jpg)

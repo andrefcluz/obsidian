@@ -1,6 +1,6 @@
 ---
 created: 2025-04-22 16:00
-updated: 2025-09-22 10:01
+updated: 2025-09-29 11:33
 tags:
   - chuln
 ---
@@ -71,10 +71,23 @@ ls_offer_detail-OFFER_DETAIL-BASE-QUESTIONNAIRES-BASE-NEW_ENTITIES-ITEMS-QUESTIO
 - ReplyPriceTotal - Valor total (Quantity x ReplyPrice)
 
 
+OFFER_DETAIL-BASE-QUESTIONNAIRES-BASE-NEW_ENTITIES-ITEMS-QUESTIONNAIRE_EXTERNAL_INTEGRA[]-
+
+-BASE-QUESTIONS-BASE-NEW_ENTITIES-ITEMS-QUESTION_EXTERNAL_INTEGRATION[]-
+
+-BASE-
+
+-LOT_NUMBER
+
+-LINES-BASE-NEW_ENTITIES-ITEMS-LINE_QUESTION_EXTERNAL_INTEGRA[]
+-BASE-QUANTITY/REPLY_PRICE/REPLY_PRICE_TOTAL
+
+
+
 Saber que item modificar:
 - No XML ler descrição do material e lote
-- Ler dados da solicitação na EKPO, ver as requisições (EKPO-BANFN) e ver que requisições têm o lote que vem no XML
-- Depois na requisição ver o item que tem a descrição do material que vem no XML
+- Ler dados da solicitação na EKPO, ver as requisições (EKPO-BANFN) e ver que requisições têm o lote (EBAN-ZZLOTE_VORTAL) que vem no XML
+- Depois na requisição ver o item que tem a descrição do material que vem no XML (EBAN-TXZ01)
 - Ver na solicitação qual o item que tem requisição/item obtidos nos pontos anteriores e modificar esse item
 
 Prazo de entrega e prazo de pagamento ????
@@ -98,13 +111,3 @@ Criar tabela interna e ao lançar a solicitação preencher com:
 
 
 ---
-
-Campos em falta:
-
-
-
-
-
-
-
-

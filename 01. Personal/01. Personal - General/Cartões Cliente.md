@@ -1,6 +1,6 @@
 ---
 title: Cartões Cliente
-updated: 2024-10-06 10:51
+updated: 2025-09-30 08:45
 created: 2018-07-21 06:39:24Z
 tags:
   - _fav
@@ -8,12 +8,12 @@ tags:
 ---
 
 E-FATURA
-![1547583472271.jpg](../../_resources/1547583472271.jpg)
+![1547583472271.jpg](1547583472271.jpg)
 
 * * *
 
 DECATHLON
-![Screenshot_20180721-073959.png](../../_resources/Screenshot_20180721-073959.png)
+![Screenshot_20180721-073959.png](Screenshot_20180721-073959.png)
 
 * * *
 
@@ -25,4 +25,4 @@ IKEA
 * * *
 
 Dador Sangue
-![Snapshot.jpg](../../_resources/Snapshot-18.jpg)
+![Snapshot.jpg](Snapshot-18.jpg)
