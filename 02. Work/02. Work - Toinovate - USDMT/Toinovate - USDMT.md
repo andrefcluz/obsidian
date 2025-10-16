@@ -1,6 +1,6 @@
 ---
 title: Toinovate - USDMT
-updated: 2024-10-06 10:50
+updated: 2025-10-10 17:48
 created: 2021-06-29 15:14:36Z
 author: André Luz
 tags:
@@ -15,7 +15,9 @@ https://blogs.sap.com/2018/09/19/creating-your-own-namespace-how/
 https://answers.sap.com/questions/3604528/create-a-new-namespace.html
 
 /USDMT/
-![Untitled.jpeg](Untitled.jpeg)
+
+![[Toinovate - USDMT - 20251010_173706-1.png|600x371]]
+
 07986643674067557938
 37964496811581600175
 

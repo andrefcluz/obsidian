@@ -1,6 +1,6 @@
 ---
 title: IPL - Interface SIBS
-updated: 2025-09-26 18:17
+updated: 2025-10-01 16:43
 created: 2021-04-16 10:49:30Z
 author: André Luz
 tags:
@@ -45,10 +45,10 @@ cliente: ipl
 | DPLK906526 | TOIN: Integração SIBS - Geração Referencias Multibanco #30   | 17.11.2023 | 05.12.2023 |
 | DPLK907131 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #1 - AL     | 18.07.2024 | 18.07.2024 |
 | DPLK907135 | RSN-3X6-97R9 - SAS - Erros de refs de multibanco #2 - AL     | 22.07.2024 | 22.07.2024 |
-| DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1    |            |            |
 | DPLK907628 | TOIN: Integração SIBS - Geração Referencias Multibanco #31   | 2025.02.24 | 2025.02.24 |
 | DPLK908002 | GQY-UUE-DN4L - SIBS - Não gerar ref MB em doc estorn #1 - AL | 2025-09-03 | 2025-09-04 |
 | DPLK908004 | GQY-UUE-DN4L - SIBS - Não gerar ref quando FAT tem NC #1 -AL | 2025-09-09 | 2025-09-10 |
+| DPLK907225 | L51-H52-HDUP: Anulação de Referência Multibanco - AL - #1    | 2025-10-01 | 2025-10-01 |
 
 * * *
 

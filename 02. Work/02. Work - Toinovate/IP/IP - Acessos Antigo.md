@@ -1,6 +1,6 @@
 ---
 title: Acessos IP - Antigo
-updated: 2025-08-20 15:28
+updated: 2025-10-16T10:12
 created: 2019-01-24 17:00:26Z
 source: https://webmail.smartcloud.pt/owa/
 author: André Luz
@@ -29,7 +29,7 @@ Password: iP.134250
 Username: EXPPIRES
 Password: iP.140546
 
-# https://support.microsoft.com/en-us/help/926179/how-to-configure-an-l2tp-ipsec-server-behind-a-nat-t-device-in-windows
+https://support.microsoft.com/en-us/help/926179/how-to-configure-an-l2tp-ipsec-server-behind-a-nat-t-device-in-windows
 
 New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\PolicyAgent" -Name "AssumeUDPEncapsulationContextOnSendRule" -Value "2" -PropertyType DWORD -Force
 
