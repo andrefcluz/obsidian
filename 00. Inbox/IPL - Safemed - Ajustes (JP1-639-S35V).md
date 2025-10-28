@@ -1,8 +1,10 @@
 ---
 created: 2025-06-02 17:10
-updated: 2025-07-21 15:33
+updated: 2025-10-21T15:55
 tags:
   - ipl/safemed
+cliente:
+  - ipl
 ---
 Nota original: [[IPL - Safemed]]
 

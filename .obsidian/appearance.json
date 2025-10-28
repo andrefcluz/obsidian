@@ -1,5 +1,5 @@
 {
   "baseFontSize": 15,
-  "cssTheme": "Cupertino",
-  "showRibbon": true
+  "cssTheme": "Things",
+  "accentColor": "#9773f6"
 }

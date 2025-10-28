@@ -1,12 +1,12 @@
 ---
 created: 2025-08-21 15:27
-updated: 2025-09-25 06:25
+updated: 2025-10-21T15:56
+tags:
+  - running
 ---
 ## 🎯 Paces
 
 #### Goal Paces
-
-
 
 #### 1️⃣ Block 1 Paces
 

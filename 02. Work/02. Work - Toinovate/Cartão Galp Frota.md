@@ -1,6 +1,6 @@
 ---
 title: Cartão Galp Frota
-updated: 2025-05-31 08:29
+updated: 2025-10-28T06:27
 created: 2020-05-29 14:33:12Z
 latitude: 38.756
 longitude: -9.22566
@@ -11,5 +11,3 @@ tags:
 ---
 
 PIN: 1870
-
-![picture.png](picture.png)

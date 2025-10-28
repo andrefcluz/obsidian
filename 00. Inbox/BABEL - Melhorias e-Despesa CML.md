@@ -1,6 +1,8 @@
 ---
 created: 2025-10-08 11:33
-updated: 2025-10-13 15:04
+updated: 2025-10-21T15:55
+cliente:
+  - babel
 ---
 **1 - ZWS_PD_GET_DOC_IMP - alterar designação do documento (4h)**
    

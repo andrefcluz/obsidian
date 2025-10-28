@@ -1,10 +1,9 @@
 ---
-updated: 2025-10-16T11:22
+updated: 2025-10-23T15:15
 created: 2025-08-07 09:47
 share_link: https://share.note.sx/497r9mhl
 share_updated: 2025-10-16T11:21:26+01:00
 ---
-
 Este documento descreve tecnicamente os objetos desenvolvidos no âmbito da ferramenta USDMT (UNILEO SAP Data Management Tool).
 
 ---
@@ -519,6 +518,310 @@ FUNCTION ZUSDMTX_TRATA_DADOS_FINAL.
       APPEND LINES OF lt_dados_aux TO t_dados.  
   
   ENDCASE.  
+  
+ENDFUNCTION.
+```
+
+Também foi criado um exit adicional, que permite definir os semáforos/icones na ALV principal do DODES e DOREC. Alguns clientes têm regras diferentes, portanto apenas o código "standard" deixou de dar resposta em algumas situações.
+
+- ZUSDMTX_DODES_DOREC_ICONS - Permite ajustar os ícones nos relatórios DODES e DOREC
+
+Se o pressuposto for que o exit seja usado em vez do código "standard", a flag C_EXIT_ATIVO deve ser preenchida no módulo de função, para que o código standard seja ignorado. Para além disso deve ser incluído o código necessário para ajustar os ícones de acordo com as necessidades do cliente.
+Exemplo de implementação do exit:
+
+
+```
+FUNCTION ZUSDMTX_DODES_DOREC_ICONS.  
+*"----------------------------------------------------------------------  
+*"*"Interface local:  
+*"  IMPORTING  
+*"     REFERENCE(I_ID_MAPA) TYPE  /USDMT/ID_MAPA  
+*"     REFERENCE(I_CONTAS_OPT) TYPE  CHAR1 OPTIONAL  
+*"  EXPORTING  
+*"     REFERENCE(C_EXIT_ATIVO) TYPE  XFLAG  
+*"  CHANGING  
+*"     REFERENCE(T_DODES) TYPE  /USDMT/TT_DODES_ALV OPTIONAL  
+*"     REFERENCE(T_DOREC) TYPE  /USDMT/TT_DOREC_ALV OPTIONAL  
+*"----------------------------------------------------------------------  
+  
+  FIELD-SYMBOLS:  <fs_dodes> TYPE /usdmt/st_dodes_alv,  
+                  <fs_dorec> TYPE /usdmt/st_dorec_alv.  
+  
+  DATA: ls_dodes TYPE /usdmt/st_dodes_alv,  
+        ls_dorec TYPE /usdmt/st_dorec_alv.  
+  
+  DATA: lv_exc_rc11(1),  
+        lv_tot_col    TYPE /USDMT/MONT_MAPAS,  
+        lv_tot_regra  TYPE /USDMT/MONT_MAPAS.  
+  
+  
+  C_EXIT_ATIVO = 'X'. "Prenche flag, para depois não executar o codigo standard  
+  
+  
+  IF i_id_mapa EQ 'DODES'.  
+  
+    "Valida se a regra 11 é excluida da validação do semaforo  
+    LOOP AT T_DODES INTO ls_dodes WHERE fistl NE 'ZTOTAL'.  
+      lv_tot_col = lv_tot_col + ls_dodes-desp_pagar_per_ant.  
+    ENDLOOP.  
+    READ TABLE T_DODES INTO ls_dodes WITH KEY fistl = 'ZTOTAL'.  
+    lv_tot_regra = ls_dodes-rc11.  
+    IF abs( lv_tot_col ) EQ abs( lv_tot_regra ).  
+      lv_exc_rc11 = 'X'.  
+    ENDIF.  
+  
+    LOOP AT T_DODES ASSIGNING <fs_dodes>.  
+      IF i_contas_opt IS INITIAL.  
+        IF  <fs_dodes>-rm1    NE 0 OR  
+            <fs_dodes>-rm2    NE 0 OR  
+            <fs_dodes>-rm4    NE 0 OR  
+            <fs_dodes>-rm3    NE 0 OR  
+            <fs_dodes>-rm5    NE 0 OR  
+            <fs_dodes>-rm7    NE 0 OR  
+            <fs_dodes>-rm8    NE 0 OR  
+            <fs_dodes>-rm6_1  NE 0 OR  
+            <fs_dodes>-rm6_2  NE 0 OR  
+            <fs_dodes>-rm6_3  NE 0 OR  
+            <fs_dodes>-rm6_4  NE 0 OR  
+            <fs_dodes>-rm6_5  NE 0 OR  
+            <fs_dodes>-dot_corrigidas           LT 0 OR  
+            <fs_dodes>-desp_pagar_per_ant       LT 0 OR  
+            <fs_dodes>-cativos                  LT 0 OR  
+            <fs_dodes>-descativos               LT 0 OR  
+            <fs_dodes>-cativo_descativo         LT 0 OR  
+            <fs_dodes>-cabimentos               LT 0 OR  
+            <fs_dodes>-compromissos             LT 0 OR  
+            <fs_dodes>-dot_disponiveis          LT 0 OR  
+            <fs_dodes>-obrigacoes               LT 0 OR  
+            <fs_dodes>-desp_pag_brutas          LT 0 OR  
+            <fs_dodes>-rep_abat_pag_emitidas    LT 0 OR  
+            <fs_dodes>-rep_abat_pag_rec         LT 0 OR  
+            <fs_dodes>-desp_pag_liq_anterior    LT 0 OR  
+            <fs_dodes>-desp_pag_liq_corrente    LT 0 OR  
+            <fs_dodes>-desp_pag_liq_total       LT 0 OR  
+            <fs_dodes>-compromisso_transitar    LT 0 OR  
+            <fs_dodes>-obrigacoes_por_pagar     LT 0 OR  
+            <fs_dodes>-compr_assum_fut_nm1      LT 0 OR  
+            <fs_dodes>-compr_assum_fut_nm2      LT 0 OR  
+            <fs_dodes>-compr_assum_fut_nm3      LT 0 OR  
+            <fs_dodes>-compr_assum_fut_nm4      LT 0 OR  
+            <fs_dodes>-compr_assum_fut_seg      LT 0 OR  
+            <fs_dodes>-obrig_period_futuro_n1   LT 0 OR  
+            <fs_dodes>-obrig_period_futuro_n2   LT 0 OR  
+            <fs_dodes>-obrig_period_futuro_n3   LT 0 OR  
+            <fs_dodes>-obrig_period_futuro_n4   LT 0 OR  
+            <fs_dodes>-obrig_period_seguintes   LT 0.  
+  
+          <fs_dodes>-icon = '@0A@'. "Vermelho  
+  
+        ELSEIF  <fs_dodes>-rc12   NE 0 OR  
+                ( <fs_dodes>-rc11   NE 0 AND lv_exc_rc11 IS INITIAL ) OR  
+                <fs_dodes>-rc13   NE 0 OR  
+                <fs_dodes>-rc14   NE 0 OR  
+                <fs_dodes>-rc16   NE 0 OR  
+                <fs_dodes>-rc17   NE 0 OR  
+                <fs_dodes>-rc15   NE 0 OR  
+                <fs_dodes>-rc18   NE 0 OR  
+                <fs_dodes>-rc19   NE 0 OR  
+                <fs_dodes>-rc20   NE 0 OR  
+                <fs_dodes>-rc21   NE 0 OR  
+                <fs_dodes>-rc22   NE 0 OR  
+                <fs_dodes>-rc23   NE 0 OR  
+                <fs_dodes>-rc24   NE 0 OR  
+                <fs_dodes>-rc25   NE 0 OR  
+                <fs_dodes>-rc26   NE 0 OR  
+                <fs_dodes>-rc27   NE 0 OR  
+                <fs_dodes>-rc28   NE 0 OR  
+                <fs_dodes>-rc29   NE 0 OR  
+                <fs_dodes>-rc30   NE 0 OR  
+                <fs_dodes>-rc31   NE 0 OR  
+                <fs_dodes>-rc32   NE 0 OR  
+                <fs_dodes>-rc33   NE 0 OR  
+                <fs_dodes>-rc34   NE 0 OR  
+                <fs_dodes>-rc35   NE 0.  
+  
+          IF i_contas_opt IS INITIAL.  
+            <fs_dodes>-icon = '@09@'. "Amarelo  
+          ELSE.  
+            <fs_dodes>-icon = '@08@'. "Verde  
+          ENDIF.  
+        ELSE.  
+          <fs_dodes>-icon = '@08@'. "Verde  
+        ENDIF.  
+        IF <fs_dodes>-fistl EQ 'ZTOTAL'.  
+          <fs_dodes>-icon = '@08@'. "Verde  
+        ENDIF.  
+  
+      ELSE.  
+        IF  <fs_dodes>-rm1    NE 0 OR  
+            <fs_dodes>-rm2    NE 0 OR  
+            <fs_dodes>-rm4    NE 0 OR  
+            <fs_dodes>-rm3    NE 0 OR  
+            <fs_dodes>-rm5    NE 0 OR  
+            <fs_dodes>-rm7    NE 0 OR  
+            <fs_dodes>-rm8    NE 0 OR  
+            <fs_dodes>-rm6_1  NE 0 OR  
+            <fs_dodes>-rm6_2  NE 0 OR  
+            <fs_dodes>-rm6_3  NE 0 OR  
+            <fs_dodes>-rm6_4  NE 0 OR  
+            <fs_dodes>-rm6_5  NE 0 OR  
+            <fs_dodes>-CONTAS_12  LT 0 OR  
+            <fs_dodes>-CONTAS_11  LT 0 OR  
+            <fs_dodes>-CONTAS_13  LT 0 OR  
+            <fs_dodes>-CONTAS_14  LT 0 OR  
+            <fs_dodes>-CONTAS_16  LT 0 OR  
+            <fs_dodes>-CONTAS_17  LT 0 OR  
+            <fs_dodes>-CONTAS_15  LT 0 OR  
+            <fs_dodes>-CONTAS_18  LT 0 OR  
+            <fs_dodes>-CONTAS_19  LT 0 OR  
+            <fs_dodes>-CONTAS_20  LT 0 OR  
+            <fs_dodes>-CONTAS_21  LT 0 OR  
+            <fs_dodes>-CONTAS_22  LT 0 OR  
+            <fs_dodes>-CONTAS_23  LT 0 OR  
+*            <fs_dodes>-desp_pag_liq_total       LT 0 OR  
+            <fs_dodes>-CONTAS_24  LT 0 OR  
+            <fs_dodes>-CONTAS_25  LT 0 OR  
+            <fs_dodes>-CONTAS_26  LT 0 OR  
+            <fs_dodes>-CONTAS_27  LT 0 OR  
+            <fs_dodes>-CONTAS_28  LT 0 OR  
+            <fs_dodes>-CONTAS_29  LT 0 OR  
+            <fs_dodes>-CONTAS_30  LT 0 OR  
+            <fs_dodes>-CONTAS_31  LT 0 OR  
+            <fs_dodes>-CONTAS_32  LT 0 OR  
+            <fs_dodes>-CONTAS_33  LT 0 OR  
+            <fs_dodes>-CONTAS_34  LT 0 OR  
+            <fs_dodes>-CONTAS_35  LT 0.  
+  
+          <fs_dodes>-icon = '@0A@'.  
+  
+        ELSE.  
+          <fs_dodes>-icon = '@08@'. "Verde  
+        ENDIF.  
+        IF <fs_dodes>-fistl EQ 'ZTOTAL'.  
+          <fs_dodes>-icon = '@08@'. "Verde  
+        ENDIF.  
+      ENDIF.  
+  
+      IF <fs_dodes>-fistl EQ 'ZTOTAL'.  
+        <fs_dodes>-line_color = 'C310'.  
+*      ELSE.  
+*        IF <fs_dodes>-chave_mapa EQ ''.  
+*          <fs_dodes>-line_color = 'C700'.  
+*        ENDIF.  
+      ENDIF.  
+    ENDLOOP.  
+  
+    "Elimina linhas que não são chave de mapa e têm semaforo verde.  
+    DELETE T_DODES  WHERE fistl       NE 'ZTOTAL' AND  
+                          icon        EQ '@08@'   AND  
+                          chave_mapa  EQ ''.  
+  
+  ELSEIF i_id_mapa EQ 'DOREC'.  
+    LOOP AT T_DOREC ASSIGNING <fs_dorec>.  
+      IF i_contas_opt IS INITIAL.  
+        IF      "<fs_dorec>-RM1    NE 0 OR  
+                <fs_dorec>-rm2    NE 0 OR  
+                <fs_dorec>-rm3    NE 0 OR  
+                <fs_dorec>-rm4    NE 0 OR  
+                <fs_dorec>-rm5    NE 0 OR  
+                <fs_dorec>-prev_corrigidas          LT 0 OR  
+                <fs_dorec>-rec_cobr_anteriores      LT 0 OR  
+                <fs_dorec>-rec_liquidadas           LT 0 OR  
+                <fs_dorec>-liq_anuladas             LT 0 OR  
+*                <fs_dorec>-rec_cobbrutas            LT 0 OR  
+                <fs_dorec>-reemb_restit_emit        LT 0 OR  
+                <fs_dorec>-reemb_restit_pagos       LT 0 OR  
+*                <fs_dorec>-rec_cob_liq_anterior     LT 0 OR  
+*                <fs_dorec>-rec_cob_liq_corrente     LT 0 OR  
+*                <fs_dorec>-rec_cob_liq_total        LT 0 OR  
+                <fs_dorec>-rec_cobr_final_peri      LT 0 OR  
+                <fs_dorec>-liq_fut_n1               LT 0 OR  
+                <fs_dorec>-liq_fut_n2               LT 0 OR  
+                <fs_dorec>-liq_fut_n3               LT 0 OR  
+                <fs_dorec>-liq_fut_n4               LT 0 OR  
+                <fs_dorec>-liq_fut_seg              LT 0.  
+  
+          <fs_dorec>-icon = '@0A@'.  
+  
+        ELSEIF  <fs_dorec>-rc6    NE 0 OR  
+                <fs_dorec>-rc7    NE 0 OR  
+                <fs_dorec>-rc8    NE 0 OR  
+                <fs_dorec>-rc9    NE 0 OR  
+                <fs_dorec>-rc10   NE 0 OR  
+                <fs_dorec>-rc11   NE 0 OR  
+                <fs_dorec>-rc12   NE 0 OR  
+                <fs_dorec>-rc13   NE 0 OR  
+                <fs_dorec>-rc14   NE 0 OR  
+                <fs_dorec>-rc15   NE 0 OR  
+                <fs_dorec>-rc16   NE 0 OR  
+                <fs_dorec>-rc18   NE 0 OR  
+                <fs_dorec>-rc19   NE 0 OR  
+                <fs_dorec>-rc20   NE 0 OR  
+                <fs_dorec>-rc21   NE 0 OR  
+                <fs_dorec>-rc22   NE 0.  
+  
+          IF i_contas_opt IS INITIAL.  
+            <fs_dorec>-icon = '@09@'. "Amarelo  
+          ELSE.  
+            <fs_dorec>-icon = '@08@'. "Verde  
+          ENDIF.  
+        ELSE.  
+          <fs_dorec>-icon = '@08@'. "Verde  
+        ENDIF.  
+        IF <fs_dorec>-fistl EQ 'ZTOTAL'.  
+          <fs_dorec>-icon = '@08@'. "Verde  
+        ENDIF.  
+  
+      ELSE.  
+        IF      "<fs_dorec>-RM1    NE 0 OR  
+                <fs_dorec>-rm2    NE 0 OR  
+                <fs_dorec>-rm3    NE 0 OR  
+                <fs_dorec>-rm4    NE 0 OR  
+                <fs_dorec>-rm5    NE 0 OR  
+                <fs_dorec>-CONTAS_6   LT 0 OR  
+                <fs_dorec>-CONTAS_8   LT 0 OR  
+                <fs_dorec>-CONTAS_9   LT 0 OR  
+                <fs_dorec>-CONTAS_10  LT 0 OR  
+                <fs_dorec>-CONTAS_11  LT 0 OR  
+                <fs_dorec>-CONTAS_12  LT 0 OR  
+                <fs_dorec>-CONTAS_13  LT 0 OR  
+                <fs_dorec>-CONTAS_14  LT 0 OR  
+                <fs_dorec>-CONTAS_15  LT 0 OR  
+*                <fs_dorec>-rec_cob_liq_total        LT 0 OR  
+                <fs_dorec>-CONTAS_16  LT 0 OR  
+                <fs_dorec>-CONTAS_18  LT 0 OR  
+                <fs_dorec>-CONTAS_19  LT 0 OR  
+                <fs_dorec>-CONTAS_20  LT 0 OR  
+                <fs_dorec>-CONTAS_21  LT 0 OR  
+                <fs_dorec>-CONTAS_22  LT 0.  
+  
+          <fs_dorec>-icon = '@0A@'.  
+  
+        ELSE.  
+          <fs_dorec>-icon = '@08@'. "Verde  
+        ENDIF.  
+        IF <fs_dorec>-fistl EQ 'ZTOTAL'.  
+          <fs_dorec>-icon = '@08@'. "Verde  
+        ENDIF.  
+      ENDIF.  
+  
+      IF <fs_dorec>-fistl EQ 'ZTOTAL'.  
+        <fs_dorec>-line_color = 'C310'.  
+*      ELSE.  
+*        IF <fs_dorec>-chave_mapa EQ ''.  
+*          <fs_dorec>-line_color = 'C700'.  
+*        ENDIF.  
+      ENDIF.  
+  
+    ENDLOOP.  
+  
+    "Elimina linhas que não são chave de mapa e têm semaforo verde.  
+    DELETE T_DOREC  WHERE fistl       NE 'ZTOTAL' AND  
+                          icon        EQ '@08@'   AND  
+                          chave_mapa  EQ ''.  
+  
+  ENDIF.  
+  
   
 ENDFUNCTION.
 ```

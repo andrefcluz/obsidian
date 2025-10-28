@@ -1,7 +1,9 @@
 ---
 created: 2025-04-22 16:00
-updated: 2025-09-29 11:33
+updated: 2025-10-21T15:54
 tags:
+  - chuln
+cliente:
   - chuln
 ---
 
